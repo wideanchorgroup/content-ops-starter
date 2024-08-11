@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: AMERICAN
+      text: AMERICAN MEDICAL ROBOTICS
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
