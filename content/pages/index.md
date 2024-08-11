@@ -482,7 +482,7 @@ sections:
         textAlign: center
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Why choose us?
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
