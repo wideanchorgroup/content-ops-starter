@@ -487,10 +487,9 @@ sections:
       - title: Innovative Technology
         tagline: Latest and greatest
         subtitle: in facilities management
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our robots are equipped with the latest technology, designed to meet
+          the evolving needs of modern healthcare
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
