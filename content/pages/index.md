@@ -645,7 +645,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Why Choose Us?
       color: text-primary
       styles:
         self:
