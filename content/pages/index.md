@@ -484,9 +484,7 @@ sections:
     title: null
     subtitle: Why choose us?
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: Innovative Technology
         tagline: Latest and greatest
         subtitle: 'Maria Walters, Company'
         text: >-
