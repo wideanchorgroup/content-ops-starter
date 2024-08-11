@@ -56,7 +56,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/S100-EN-Left.png
-        altText: Empathy logo
+        altText: Trans
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
