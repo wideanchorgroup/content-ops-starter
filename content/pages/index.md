@@ -55,7 +55,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/S100-EN-Left.png
+        url: /images/empathy-logo.svg
         altText: Trans
         elementId: ''
       - type: ImageBlock
