@@ -314,9 +314,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: >-
-        Effortlessly navigate intricate, multi-tiered infrastructure without the
-        burden of significant expenditure."
+      text: 'FAST IMPLEMENTATION, OPTIMIZATION, SCALE'
       color: text-dark
       type: TitleBlock
     subtitle: >-
