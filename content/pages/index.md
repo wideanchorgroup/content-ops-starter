@@ -314,9 +314,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: >-
-        Navigate complex, multi-tiered infrastructure seamlessly, without the
-        need for substantial investments.
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
