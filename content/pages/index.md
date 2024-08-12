@@ -291,7 +291,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Keenon Rob
+      text: Keenon
       color: text-dark
     subtitle: Increase your reach
     text: >
