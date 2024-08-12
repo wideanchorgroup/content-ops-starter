@@ -319,7 +319,9 @@ sections:
         burden of significant expenditure."
       color: text-dark
       type: TitleBlock
-    subtitle: 'FAST IMPLEMENTATION, OPTIMIZATION, SCALE'
+    subtitle: >-
+      Effortlessly navigate intricate, multi-tiered infrastructure without the
+      burden of significant expenditure."
     text: >
       Achieving peak performance with unmatched distribution efficiency,
       scalability, comprehensive coverage, fault-tolerance, and
