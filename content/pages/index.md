@@ -313,11 +313,7 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: 'Swift Implementation, Seamless Optimization, Effortless Scaling'
-      color: text-dark
-      type: TitleBlock
-    subtitle: >-
+  - subtitle: >-
       Effortlessly navigate intricate, multi-tiered infrastructure without the
       burden of significant expenditure."
     text: |
