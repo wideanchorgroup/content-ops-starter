@@ -355,16 +355,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: Business Consulting
       color: text-dark
@@ -401,6 +391,16 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: GenericSection
     title:
       type: TitleBlock
