@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: AMERICAN MEDICAL ROBOTICS
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Solutions for healthcare
     text: >
@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/robots.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -452,19 +452,44 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Products
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Why choose us?
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Innovative Technology
+        tagline: Latest and greatest
+        subtitle: in facilities management
+        text: >
+          Our robots are equipped with the latest technology, designed to meet
+          the evolving needs of modern healthcare
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -645,7 +670,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Why Choose Us?
       color: text-primary
       styles:
         self:
