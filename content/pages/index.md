@@ -148,10 +148,11 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: Cost efficiency
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our delivery robots autonomously navigate the hospital environment,
+          efficiently transporting supplies from storage areas to wards, labs,
+          and other departments without human intervention. This eliminates the
+          need for staff to walk back and forth multiple times a day.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
