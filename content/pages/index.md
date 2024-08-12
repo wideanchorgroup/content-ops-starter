@@ -356,7 +356,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: M 101
+      text: M1
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
