@@ -16,7 +16,7 @@ sections:
       hospitals and healthcare providers face, and our mission is to empower
       them with the tools they need to provide exceptional care.
     actions:
-      - label: Get started
+      - label: Contact Us
         altText: ''
         url: /
         showIcon: false
