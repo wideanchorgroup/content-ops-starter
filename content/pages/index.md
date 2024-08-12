@@ -321,8 +321,9 @@ sections:
       type: TitleBlock
     subtitle: 'FAST IMPLEMENTATION, OPTIMIZATION, SCALE'
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Achieving peak performance with unmatched distribution efficiency,
+      scalability, comprehensive coverage, fault-tolerance, and
+      cost-effectiveness.
     actions:
       - label: Get started
         url: /
