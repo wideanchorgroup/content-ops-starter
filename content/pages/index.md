@@ -344,6 +344,17 @@ sections:
       type: TitleBlock
       text: Intelligent hospital solution
       color: text-dark
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: GenericSection
     title:
       text: Work through complex hospital network
