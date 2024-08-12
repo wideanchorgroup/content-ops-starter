@@ -315,34 +315,6 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      type: TitleBlock
-      text: Keenon
-      color: text-dark
-    subtitle: Hardware partners
-    text: >
-      Keenon robotics is a hardware and R\&D company working on high tech robots
-      for various industries
-    actions:
-      - type: Button
-        label: Go to Keenon
-        url: 'https://keenon.com'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/keenon-logo-gray.webp
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: Powered by
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-  - type: GenericSection
-    title:
       text: Generic section with a video
       color: text-dark
       styles:
@@ -384,6 +356,34 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Keenon
+      color: text-dark
+    subtitle: Hardware partners
+    text: >
+      Keenon robotics is a hardware and R\&D company working on high tech robots
+      for various industries
+    actions:
+      - type: Button
+        label: Go to Keenon
+        url: 'https://keenon.com'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/keenon-logo-gray.webp
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: Powered by
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
