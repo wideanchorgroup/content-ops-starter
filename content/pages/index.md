@@ -211,7 +211,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Adding robots to your asset
+      label: "Adding robots to your asset:\_ Expanding capacity without increasing complexity"
       color: text-primary
       styles:
         self:
