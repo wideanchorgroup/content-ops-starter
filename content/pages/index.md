@@ -314,7 +314,9 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Social Media Management
+      text: >-
+        Work through complex multi-tier infrastructure network without heavy
+        investing
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
