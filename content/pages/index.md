@@ -381,7 +381,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/M1_Front view 45° (1226 x 2738).png
       altText: Dope design preview
       type: ImageBlock
     badge:
