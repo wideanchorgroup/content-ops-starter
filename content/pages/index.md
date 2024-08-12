@@ -151,8 +151,9 @@ sections:
         text: >
           Our delivery robots autonomously navigate the hospital environment,
           efficiently transporting supplies from storage areas to wards, labs,
-          and other departments without human intervention. This eliminates the
-          need for staff to walk back and forth multiple times a day.
+          and other departments without human intervention. This continuous
+          delivery mechanism eliminates delays and disruptions in hospital
+          operations
         image:
           url: /images/icon2.svg
           altText: Featured icon two
