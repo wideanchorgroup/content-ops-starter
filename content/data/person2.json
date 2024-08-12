@@ -3,7 +3,7 @@
     "name": "Pharmacy",
     "role": "Medicines and Drugs on demand",
     "image": {
-        "url": "/images/avatar2.svg",
+        "url": "/images/pharmacy.png",
         "altText": "Faizah Chan",
         "styles": {
             "self": {
