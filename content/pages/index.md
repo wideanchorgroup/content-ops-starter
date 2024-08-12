@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: AMERICAN MEDICAL ROBOTICS
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Solutions for healthcare
     text: >
