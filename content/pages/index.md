@@ -176,13 +176,11 @@ sections:
       - title: 200%
         subtitle: Scale faster
         text: >
-          As your hospital evolves and the demands grow, our robots rise to the
-          challenge. They expand gracefully with your needs, seamlessly fitting
-          into the rhythm of your operations. Unlike the strain of constantly
-          adding more hands, our robots bring quiet, steady strength—enhancing
-          your capacity without the burden of swelling costs or complexity. They
-          grow with you, not against you, ensuring that every step forward is
-          both efficient and economical.
+          As your hospital's demands grow, our robots adapt. They scale
+          seamlessly, fitting into your operations. Unlike the strain of adding
+          more hands, our robots enhance capacity without added costs or
+          complexity—growing with you to ensure every step forward is efficient
+          and economical.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
