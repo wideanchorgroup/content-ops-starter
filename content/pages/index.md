@@ -356,7 +356,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: Business Consulting
+      text: M 101
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
