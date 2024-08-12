@@ -318,7 +318,7 @@ sections:
       Effortlessly navigate intricate, multi-tiered infrastructure without the
       burden of significant expenditure.
     actions:
-      - label: Get started
+      - label: Contact Us
         url: /
         icon: arrowRight
         iconPosition: right
