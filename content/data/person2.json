@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Pharmacy",
+    "role": "Medicines and Drugs on demand",
     "image": {
         "url": "/images/avatar2.svg",
         "altText": "Faizah Chan",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Manage, govern and monitor the medication delivery throughout the hospital units\n"
 }

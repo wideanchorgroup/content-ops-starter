@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Harrison Tally",
-    "role": "Co-founder & CEO",
+    "name": "Supplies",
+    "role": "Facilities management",
     "image": {
         "url": "/images/avatar6.svg",
         "altText": "Harrison Tally",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Deliver or return supplies, tools, equipment or devices anywhere needed\n"
 }

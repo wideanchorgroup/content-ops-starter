@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Asher Schmitt",
-    "role": "Co-founder & CEO",
+    "name": "Waste management",
+    "role": "Safer and sterile",
     "image": {
         "url": "/images/avatar3.svg",
         "altText": "Asher Schmitt",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Automated load robot systems can deliver waste from point to point without any assistance\n"
 }

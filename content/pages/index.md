@@ -463,7 +463,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Products
+      text: Facilities management
       color: text-dark
       styles:
         self:
