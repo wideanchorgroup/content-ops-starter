@@ -346,7 +346,7 @@ sections:
     type: GenericSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Intelligent hospital solution
       color: text-dark
   - type: GenericSection
     title:
