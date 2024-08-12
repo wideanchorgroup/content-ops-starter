@@ -114,7 +114,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: "Adding robots to your asset:\_ Expanding capacity without increasing complexity"
-    text: ''
+    text: >
+      Our advanced hospital service robots provide a refined solution that
+      allows for a clear division of operational tasks. Through our integrated
+      ecosystem, we deliver a seamless platform for the efficient
+      transportation, sanitation, and distribution of items across the
+      hospital's intricate infrastructure. This enables your staff to focus on
+      their most critical contributions, while our technology takes care of the
+      rest.
     media:
       title: Title of the video
       url: /images/amr.mp4
