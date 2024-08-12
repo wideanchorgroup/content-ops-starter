@@ -9,14 +9,17 @@ sections:
       type: TitleBlock
     subtitle: Solutions for healthcare
     text: >
-      At **American Medical Robots**, we are dedicated to transforming the
-      healthcare landscape through cutting-edge robotic technology. Our advanced
-      robotic solutions are designed to enhance efficiency, safety, and patient
-      care within medical facilities. We understand the unique challenges that
-      hospitals and healthcare providers face, and our mission is to empower
-      them with the tools they need to provide exceptional care.
+      We are dedicated to transforming the healthcare landscape through
+      cutting-edge robotic technology. Our advanced robotic solutions are
+      designed to enhance efficiency, safety, and patient care within medical
+      facilities. 
+
+
+      We understand the unique challenges that hospitals and healthcare
+      providers face, and our mission is to empower them with the tools they
+      need to provide exceptional care.
     actions:
-      - label: Get started
+      - label: Contact Us
         altText: ''
         url: /
         showIcon: false
@@ -25,7 +28,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Products
         altText: ''
         url: /
         showIcon: true
@@ -111,15 +114,16 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Automation and Efficiency
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: 38k
+        subtitle: Foot steps
+        text: >
+          Our delivery robots autonomously navigate the hospital environment,
+          efficiently transporting supplies from storage areas to wards, labs,
+          and other departments without human intervention. This eliminates the
+          need for staff to walk back and forth multiple times a day.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -143,11 +147,13 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Cost efficiency
+        text: >
+          Our delivery robots autonomously navigate the hospital environment,
+          efficiently transporting supplies from storage areas to wards, labs,
+          and other departments without human intervention. This continuous
+          delivery mechanism eliminates delays and disruptions in hospital
+          operations
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -168,11 +174,13 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Scale faster
+        text: >
+          As your hospital's demands grow, our robots adapt. They scale
+          seamlessly, fitting into your operations. Unlike the strain of adding
+          more hands, our robots enhance capacity without added costs or
+          complexity—growing with you to ensure every step forward is efficient
+          and economical.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -191,7 +199,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Use cases
         altText: ''
         url: /
         showIcon: false
@@ -201,7 +209,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: "Adding robots to your asset:\_ Expanding capacity without increasing complexity"
       color: text-primary
       styles:
         self:
@@ -295,7 +303,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: /images/amr.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
