@@ -315,8 +315,8 @@ sections:
     type: DividerSection
   - title:
       text: >-
-        Work through complex multi-tier infrastructure network without heavy
-        investing
+        Navigate complex, multi-tiered infrastructure seamlessly, without the
+        need for substantial investments.
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
