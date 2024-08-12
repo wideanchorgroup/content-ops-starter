@@ -9,12 +9,15 @@ sections:
       type: TitleBlock
     subtitle: Solutions for healthcare
     text: >
-      At **American Medical Robots**, we are dedicated to transforming the
-      healthcare landscape through cutting-edge robotic technology. Our advanced
-      robotic solutions are designed to enhance efficiency, safety, and patient
-      care within medical facilities. We understand the unique challenges that
-      hospitals and healthcare providers face, and our mission is to empower
-      them with the tools they need to provide exceptional care.
+      We are dedicated to transforming the healthcare landscape through
+      cutting-edge robotic technology. Our advanced robotic solutions are
+      designed to enhance efficiency, safety, and patient care within medical
+      facilities. 
+
+
+      We understand the unique challenges that hospitals and healthcare
+      providers face, and our mission is to empower them with the tools they
+      need to provide exceptional care.
     actions:
       - label: Contact Us
         altText: ''
