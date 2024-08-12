@@ -204,7 +204,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Adding robots to your asset
       color: text-primary
       styles:
         self:
