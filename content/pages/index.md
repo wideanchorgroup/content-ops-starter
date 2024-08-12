@@ -304,13 +304,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: Partner agreement
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/hero2.svg
