@@ -340,7 +340,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: Intelligent solution of Hospital service robots
+      label: Intelligent HOSPITAL solution
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
