@@ -335,10 +335,6 @@ sections:
       url: /images/hospitalMultitier.png
       altText: Fun feature preview
       type: ImageBlock
-    badge:
-      label: Intelligent HOSPITAL solution
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
