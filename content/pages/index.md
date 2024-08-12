@@ -306,7 +306,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/keenon-logo-gray.webp
       altText: Fun feature preview
     badge:
       type: Badge
