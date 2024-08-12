@@ -361,8 +361,11 @@ sections:
       type: TitleBlock
     subtitle: Critical delivery robot
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Material transpiration to critical hospital infrastructure facilities. 
+
+
+      Distribution of sensitive supplies used by pharmaceutical distribution,
+      documents. 
     actions:
       - label: Get started
         url: /
