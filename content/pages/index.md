@@ -299,7 +299,7 @@ sections:
       for various industries
     actions:
       - type: Button
-        label: Get started
+        label: Go to Keenon
         url: /
         icon: arrowRight
         iconPosition: right
