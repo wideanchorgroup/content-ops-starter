@@ -174,7 +174,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
+        subtitle: Scale faster
         text: >
           As your hospital evolves and the demands grow, our robots rise to the
           challenge. They expand gracefully with your needs, seamlessly fitting
