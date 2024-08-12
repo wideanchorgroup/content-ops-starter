@@ -291,7 +291,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Keenon Rob
       color: text-dark
     subtitle: Increase your reach
     text: >
