@@ -106,6 +106,54 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: Grow your business 10x faster
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: "Adding robots to your asset:\_ Expanding capacity without increasing complexity"
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    media:
+      title: Title of the video
+      url: /images/amr.mp4
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+      autoplay: true
+      loop: true
+      muted: true
+    badge:
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -208,16 +256,9 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: "Adding robots to your asset:\_ Expanding capacity without increasing complexity"
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -259,15 +300,27 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Featured posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - content/pages/blog/life-of-our-development-team.md
+      - content/pages/blog/surround-yourself-with-right-people.md
+      - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: true
+    showExcerpt: true
     showDate: true
     showAuthor: true
+    actions: []
+    elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
+    hoverEffect: thin-underline
     styles:
       self:
         padding:
@@ -276,8 +329,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -288,54 +339,45 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
+  - type: GenericSection
+    title:
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      text: Keenon
+      color: text-dark
+    subtitle: Hardware partners
+    text: >
+      Keenon robotics is a hardware and R\&D company working on high tech robots
+      for various industries
+    actions:
+      - type: Button
+        label: Go to Keenon
+        url: 'https://keenon.com'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
     media:
-      title: Title of the video
-      url: /images/amr.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+      type: ImageBlock
+      url: /images/keenon-logo-gray.webp
+      altText: Fun feature preview
     badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
       type: Badge
+      label: Powered by
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
+        alignItems: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: GenericSection
     title:
       text: Generic section with a video
