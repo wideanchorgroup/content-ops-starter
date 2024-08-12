@@ -367,7 +367,7 @@ sections:
       Distribution of sensitive supplies used by pharmaceutical distribution,
       documents. 
     actions:
-      - label: Get started
+      - label: Contact us
         url: /
         icon: arrowRight
         iconPosition: right
