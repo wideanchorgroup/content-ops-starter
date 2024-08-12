@@ -3,7 +3,7 @@
     "name": "Supplies",
     "role": "Facilities management",
     "image": {
-        "url": "/images/avatar6.svg",
+        "url": "/images/supplies.png",
         "altText": "Harrison Tally",
         "styles": {
             "self": {
