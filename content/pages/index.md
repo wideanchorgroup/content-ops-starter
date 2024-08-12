@@ -319,7 +319,7 @@ sections:
         burden of significant expenditure."
       color: text-dark
       type: TitleBlock
-    subtitle: OPTIMIZE | SCALE
+    subtitle: 'FAST IMPLEMENTATION, OPTIMIZATION, SCALE'
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
