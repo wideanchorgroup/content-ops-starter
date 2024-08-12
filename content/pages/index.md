@@ -314,8 +314,9 @@ sections:
           - pr-7
     type: DividerSection
   - subtitle: 'Swift Implementation, Seamless Optimization, Effortless Scaling'
-    text: |
-      Swift Implementation, Seamless Optimization, Effortless Scaling
+    text: >
+      Effortlessly navigate intricate, multi-tiered infrastructure without the
+      burden of significant expenditure.
     actions:
       - label: Get started
         url: /
