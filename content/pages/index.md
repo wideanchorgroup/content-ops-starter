@@ -175,10 +175,14 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          As your hospital evolves and the demands grow, our robots rise to the
+          challenge. They expand gracefully with your needs, seamlessly fitting
+          into the rhythm of your operations. Unlike the strain of constantly
+          adding more hands, our robots bring quiet, steady strength—enhancing
+          your capacity without the burden of swelling costs or complexity. They
+          grow with you, not against you, ensuring that every step forward is
+          both efficient and economical.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
