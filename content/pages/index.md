@@ -314,7 +314,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: 'FAST IMPLEMENTATION, OPTIMIZATION, SCALE'
+      text: 'Swift Implementation, Seamless Optimization, Effortless Scaling'
       color: text-dark
       type: TitleBlock
     subtitle: >-
