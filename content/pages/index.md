@@ -295,8 +295,8 @@ sections:
       color: text-dark
     subtitle: Hardware partners
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Keenon robotics is a hardware and R\&D company working on high tech robots
+      for various industries
     actions:
       - type: Button
         label: Get started
