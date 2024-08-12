@@ -146,7 +146,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 5x
+      - title: 20x
         subtitle: Cost efficiency
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
