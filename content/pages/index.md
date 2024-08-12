@@ -313,9 +313,7 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: >-
-      Effortlessly navigate intricate, multi-tiered infrastructure without the
-      burden of significant expenditure."
+  - subtitle: 'Swift Implementation, Seamless Optimization, Effortless Scaling'
     text: |
       Swift Implementation, Seamless Optimization, Effortless Scaling
     actions:
