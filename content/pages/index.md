@@ -256,13 +256,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: "Adding robots to your asset:\_ Expanding capacity without increasing complexity"
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
