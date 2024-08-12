@@ -320,10 +320,8 @@ sections:
     subtitle: >-
       Effortlessly navigate intricate, multi-tiered infrastructure without the
       burden of significant expenditure."
-    text: >
-      Achieving peak performance with unmatched distribution efficiency,
-      scalability, comprehensive coverage, fault-tolerance, and
-      cost-effectiveness.
+    text: |
+      Swift Implementation, Seamless Optimization, Effortless Scaling
     actions:
       - label: Get started
         url: /
