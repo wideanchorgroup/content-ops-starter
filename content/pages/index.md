@@ -300,7 +300,7 @@ sections:
     actions:
       - type: Button
         label: Go to Keenon
-        url: /
+        url: 'https://keenon.com'
         icon: arrowRight
         iconPosition: right
         style: secondary
