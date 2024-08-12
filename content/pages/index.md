@@ -459,6 +459,16 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -470,16 +480,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
