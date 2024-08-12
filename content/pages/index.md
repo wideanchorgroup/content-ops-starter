@@ -344,6 +344,10 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: GenericSection
     title:
       text: Work through complex hospital network
