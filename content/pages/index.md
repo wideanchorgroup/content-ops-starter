@@ -355,6 +355,34 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Facilities management
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: M1-Series
       color: text-dark
@@ -394,34 +422,6 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Facilities management
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
