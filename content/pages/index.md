@@ -563,7 +563,7 @@ sections:
       - type: PricingPlan
         title: Cleaning
         price: C30
-        details: VACCWASH & MOP
+        details: VACUUM | SWEEP | MOP
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
