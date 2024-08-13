@@ -424,7 +424,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: MEDICAL DELIVERY ROBOT
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
