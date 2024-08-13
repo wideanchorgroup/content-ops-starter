@@ -428,7 +428,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Learn more
         altText: ''
         url: /
         showIcon: false
