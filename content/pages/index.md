@@ -570,7 +570,7 @@ sections:
           industrial grade clean floors
         features:
           - Plug and Play charging
-          - Feature two
+          - LiDAR Sensor
           - Feature three
           - Feature four
         image:
