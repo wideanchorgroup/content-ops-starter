@@ -596,9 +596,9 @@ sections:
         title: Butler bot
         price: $99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          A cafeteria food management team's delight to transport food and
+          beverages from point to point
         features:
           - Large Capacity
           - 'Dual stereo vision '
