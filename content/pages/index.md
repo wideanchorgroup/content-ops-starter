@@ -530,7 +530,7 @@ sections:
       battery swap capability you can ensure around the clock delivery
     actions:
       - type: Button
-        label: Contact Us
+        label: Contact us
         url: /
         icon: arrowRight
         iconPosition: right
