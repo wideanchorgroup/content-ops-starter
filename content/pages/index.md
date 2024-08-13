@@ -395,7 +395,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: M1-Series
+      text: M 103
       color: text-dark
       type: TitleBlock
     subtitle: Critical delivery robot
