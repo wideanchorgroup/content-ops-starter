@@ -603,7 +603,7 @@ sections:
           - Large Capacity
           - 'Dual stereo vision '
           - Food & Beverage section
-          - Feature four
+          - Upto 12h battery
         image:
           type: ImageBlock
           url: /images/5 AMR.png
