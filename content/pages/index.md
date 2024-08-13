@@ -572,7 +572,7 @@ sections:
           - Plug and Play charging
           - LiDAR Sensor
           - Operation Screen
-          - Feature four
+          - ''
         image:
           type: ImageBlock
           url: /images/C30-Front45-230724.png
