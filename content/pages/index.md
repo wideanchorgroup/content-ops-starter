@@ -595,7 +595,7 @@ sections:
       - type: PricingPlan
         title: Butler bot
         price: W3
-        details: FOOD | BEVERAGES
+        details: SMART CATERING
         description: >
           A cafeteria food management team's delight to transport food and
           beverages from point to point
