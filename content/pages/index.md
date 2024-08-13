@@ -574,7 +574,7 @@ sections:
           - Operation Screen
         image:
           type: ImageBlock
-          url: /images/C30-Front45-230724.png
+          url: /images/C30-AMR.png
           altText: Pricing plan 1
         actions:
           - type: Button
