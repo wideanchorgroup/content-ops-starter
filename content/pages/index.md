@@ -595,7 +595,7 @@ sections:
       - type: PricingPlan
         title: Butler bot
         price: W3
-        details: per month
+        details: FOOD | BEVERAGES
         description: >
           A cafeteria food management team's delight to transport food and
           beverages from point to point
