@@ -569,7 +569,7 @@ sections:
           with 360 degree sensors provides an aesthetic look while providing
           industrial grade clean floors
         features:
-          - Feature one
+          - Plug and Play charging
           - Feature two
           - Feature three
           - Feature four
