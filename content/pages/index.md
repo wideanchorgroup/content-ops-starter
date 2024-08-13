@@ -479,7 +479,7 @@ sections:
       type: TitleBlock
       text: X-Series
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Heavy duty delivery robot
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
