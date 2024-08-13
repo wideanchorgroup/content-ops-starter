@@ -571,7 +571,7 @@ sections:
         features:
           - Plug and Play charging
           - LiDAR Sensor
-          - Feature three
+          - Operation Screen
           - Feature four
         image:
           type: ImageBlock
