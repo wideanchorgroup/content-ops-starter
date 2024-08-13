@@ -407,7 +407,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: M2
       color: text-dark
       styles:
         self:
