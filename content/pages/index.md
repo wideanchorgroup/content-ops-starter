@@ -525,8 +525,9 @@ sections:
       color: text-dark
     subtitle: Supply chain robot
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Heavy load industrial courier robots helps carrying over 250 lbs of loads,
+      facilitating the movement of bulky goods across your warehouse. With a
+      battery swap capability you can ensure around the clock delivery
     actions:
       - type: Button
         label: Get started
