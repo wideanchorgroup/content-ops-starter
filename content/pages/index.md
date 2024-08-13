@@ -543,7 +543,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/S100-EN-Left with Shelf.png
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
