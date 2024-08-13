@@ -594,7 +594,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Butler bot
-        price: $99
+        price: W3
         details: per month
         description: >
           A cafeteria food management team's delight to transport food and
