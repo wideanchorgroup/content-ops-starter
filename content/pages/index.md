@@ -398,7 +398,7 @@ sections:
       text: M1-Series
       color: text-dark
       type: TitleBlock
-    subtitle: Critical delivery robot
+    subtitle: Autonomous Navigation
     text: >
       Material transpiration to critical hospital infrastructure facilities. 
 
