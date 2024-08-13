@@ -602,7 +602,7 @@ sections:
         features:
           - Large Capacity
           - 'Dual stereo vision '
-          - Feature three
+          - Food & Beverage section
           - Feature four
         image:
           type: ImageBlock
