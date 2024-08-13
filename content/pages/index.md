@@ -553,7 +553,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Utility robots
       color: text-dark
       styles:
         self:
