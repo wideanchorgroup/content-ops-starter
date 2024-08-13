@@ -358,7 +358,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Facilities management
+      text: Enhance your facilities management
       color: text-dark
       styles:
         self:
