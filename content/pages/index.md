@@ -523,7 +523,7 @@ sections:
       type: TitleBlock
       text: S-Series
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Supply chain robot
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
