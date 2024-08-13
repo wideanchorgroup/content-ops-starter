@@ -395,7 +395,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: M 103
+      text: M1-Series
       color: text-dark
       type: TitleBlock
     subtitle: Autonomous navigation
