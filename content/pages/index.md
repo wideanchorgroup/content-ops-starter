@@ -477,6 +477,50 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: X-Series
+      color: text-dark
+    subtitle: Heavy duty delivery robot
+    text: >
+      Spacious cabins for large-scale multi-floor transportation. The X series
+      fleet is capale of carrying super large volume of Pharmaceutical drugs,
+      and other critical medical items
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
