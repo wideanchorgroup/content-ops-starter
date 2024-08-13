@@ -407,7 +407,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: M2
+      text: M2-Series
       color: text-dark
       styles:
         self:
