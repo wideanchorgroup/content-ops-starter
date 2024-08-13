@@ -492,7 +492,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: Learn more
         url: /
         showIcon: true
         icon: arrowRight
