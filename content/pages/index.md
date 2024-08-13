@@ -419,7 +419,7 @@ sections:
       precision recognition to avoid Human presence during sterlization
     actions:
       - type: Button
-        label: Get started
+        label: Contact us
         altText: ''
         url: /
         showIcon: false
