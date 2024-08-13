@@ -486,7 +486,7 @@ sections:
       and other critical medical items
     actions:
       - type: Button
-        label: Get started
+        label: Contact us
         url: /
         icon: arrowRight
         iconPosition: right
