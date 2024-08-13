@@ -563,7 +563,7 @@ sections:
       - type: PricingPlan
         title: Cleaning
         price: C30
-        details: No credit card required
+        details: WASH & MOP
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
