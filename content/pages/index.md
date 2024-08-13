@@ -601,7 +601,7 @@ sections:
           accusantium doloremque.
         features:
           - Large Capacity
-          - Feature two
+          - 'Dual stereo vision '
           - Feature three
           - Feature four
         image:
