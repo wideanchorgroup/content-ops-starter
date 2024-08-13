@@ -481,8 +481,9 @@ sections:
       color: text-dark
     subtitle: Heavy duty delivery robot
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Spacious cabins for large-scale multi-floor transportation. The X series
+      fleet is capale of carrying super large volume of Pharmaceutical drugs,
+      and other critical medical items
     actions:
       - type: Button
         label: Get started
