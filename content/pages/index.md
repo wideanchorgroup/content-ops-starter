@@ -610,7 +610,7 @@ sections:
           altText: Pricing plan 2
         actions:
           - type: Button
-            label: Try for free
+            label: Learn more
             url: /
             icon: arrowRight
             iconPosition: right
