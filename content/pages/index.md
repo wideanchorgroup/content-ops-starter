@@ -417,7 +417,25 @@ sections:
       High efficient disinfection robot with over 99.9999% UV sterilization
       rate, allows circular disinfection through ultra dry mist nozzles and
       precision recognition to avoid Human presence during sterlization
-    actions: []
+    actions:
+      - type: Button
+        label: Contact us
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: VideoBlock
       title: Title of the video
