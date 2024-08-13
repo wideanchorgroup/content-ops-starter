@@ -355,6 +355,45 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Enhance your facilities management
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - title:
       text: M1-Series
       color: text-dark
@@ -486,13 +525,13 @@ sections:
       and other critical medical items
     actions:
       - type: Button
-        label: Get started
+        label: Contact us
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: Learn more
         url: /
         showIcon: true
         icon: arrowRight
@@ -521,21 +560,22 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: S-Series
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Supply chain robot
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Heavy load industrial courier robots helps carrying over 250 lbs of loads,
+      facilitating the movement of bulky goods across your warehouse. With a
+      battery swap capability you can ensure around the clock delivery
     actions:
       - type: Button
-        label: Get started
+        label: Contact us
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: Learn more
         url: /
         showIcon: true
         icon: arrowRight
@@ -543,16 +583,125 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/S100-EN-Left with Shelf.png
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: Utility robots
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Essential robots
+    plans:
+      - type: PricingPlan
+        title: Cleaning
+        price: C30
+        details: VACUUM | SWEEP | MOP
+        description: >
+          Multi function professional cleaning and user friendly cleaner robot
+          with 360 degree sensors provides an aesthetic look while providing
+          industrial grade clean floors
+        features:
+          - Plug and Play charging
+          - LiDAR Sensor
+          - Operation Screen
+        image:
+          type: ImageBlock
+          url: /images/C30-AMR.png
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Butler bot
+        price: W3
+        details: SMART CATERING
+        description: >
+          A cafeteria food management team's delight to transport food and
+          beverages from point to point
+        features:
+          - Large Capacity
+          - 'Dual stereo vision '
+          - Food & Beverage section
+          - Upto 12h battery
+        image:
+          type: ImageBlock
+          url: /images/5 AMR.png
+          altText: Pricing plan 2
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Enterprise
+        price: Custom
+        details: per month
+        description: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+          - Feature five
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Pricing plan 3
+        actions:
+          - type: Button
+            label: Contact us
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -643,34 +792,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Facilities management
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: CarouselSection
     title: null
     subtitle: Why choose us?
