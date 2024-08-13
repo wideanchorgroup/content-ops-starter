@@ -564,9 +564,10 @@ sections:
         title: Cleaning
         price: C30
         details: VACUUM | SWEEP | MOP
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Multi function professional cleaning and user friendly cleaner robot
+          with 360 degree sensors provides an aesthetic look while providing
+          industrial grade clean floors
         features:
           - Feature one
           - Feature two
