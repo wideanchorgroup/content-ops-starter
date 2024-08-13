@@ -404,6 +404,34 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Facilities management
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -463,34 +491,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Facilities management
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
