@@ -68,7 +68,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/M101-AMR-Shelf.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
