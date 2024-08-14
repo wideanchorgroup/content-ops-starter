@@ -66,7 +66,7 @@ sections:
       type: VideoBlock
       title: Title of the video
       url: /images/x101-3.mp4
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
