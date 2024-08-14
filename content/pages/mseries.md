@@ -59,7 +59,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/M104-amr.png
+      url: /images/m104-info.png
       altText: Dope design preview
     badge:
       type: Badge
