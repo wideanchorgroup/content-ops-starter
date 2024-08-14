@@ -41,6 +41,93 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Items on sale
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    items:
+      - type: FeaturedItem
+        title: Multi cabin option
+        subtitle: Multi use
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/M101-AMR-Shelf.png
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        tagline: RFID Secured
+      - type: FeaturedItem
+        title: Intelligent Chasis
+        subtitle: 15h Battery per 4-5h charge
+        image:
+          type: ImageBlock
+          url: /images/AMR-M1.png
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        tagline: With Medical ABS grade plastic container
+      - type: FeaturedItem
+        title: 'Interactive display '
+        subtitle: Customizable to user preferemces
+        image:
+          type: ImageBlock
+          url: /images/AMR-M1-Screen.png
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        tagline: Plug-in to master data for easy operations
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: flex-start
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
@@ -71,15 +158,111 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-  - type: GenericSection
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/M101-feature.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/M101-info.png
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+    actions: []
+    elementId: ''
+    variant: big-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
     title:
       type: TitleBlock
       text: M104
       color: text-dark
-    subtitle: The open delivery tray robot
-    text: >
-      Transport within section of medical facility point to point transportation
-      system.
+      styles:
+        self:
+          textAlign: center
+    items: []
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    subtitle: >-
+      In-delivery transport within section of medical facility point to point
+      transportation system.
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+  - type: GenericSection
+    subtitle: The open inter-delivery tray robot
+    text: ''
     actions: []
     media:
       type: ImageBlock
@@ -142,21 +325,10 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: ''
       color: text-dark
       styles:
         self:
