@@ -65,7 +65,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: /images/x101-3.mp4
       autoplay: true
       loop: true
       muted: true
