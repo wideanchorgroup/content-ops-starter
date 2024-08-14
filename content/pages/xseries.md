@@ -5,12 +5,12 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: X Series
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: Heavy duty delivery robots
     text: >
       There are many variations of passages of Lorem Ipsum available, but the
       majority have suffered alteration in some form, by injected humour, or
@@ -50,12 +50,12 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: X101
       color: text-dark
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: Heavy Duty Inter Infrastructure Delivery Robot
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
@@ -65,8 +65,8 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
+      url: /images/x101-3.mp4
+      autoplay: false
       loop: true
       muted: true
       controls: false
