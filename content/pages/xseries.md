@@ -50,7 +50,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: X101
       color: text-dark
       styles:
         self:
