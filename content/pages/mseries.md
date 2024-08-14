@@ -50,7 +50,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: M 104
+      text: M104
       color: text-dark
     subtitle: Open tray delivery
     text: |
