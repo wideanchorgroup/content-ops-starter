@@ -78,8 +78,8 @@ sections:
       color: text-dark
     subtitle: The open inter-delivery tray robot
     text: >
-      Transport within section of medical facility point to point transportation
-      system.
+      In-delivery transport within section of medical facility point to point
+      transportation system.
     actions: []
     media:
       type: ImageBlock
