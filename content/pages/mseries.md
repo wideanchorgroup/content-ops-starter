@@ -53,14 +53,6 @@ sections:
       - type: FeaturedItem
         title: Faux Fur Throw
         subtitle: $ 88 – $ 176
-        image:
-          type: ImageBlock
-          url: /images/M1_Front view 45° (1226 x 2738).png
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
         styles:
