@@ -76,7 +76,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: Intelligent Chasis
-        subtitle: $ 44.99 – $ 90
+        subtitle: RFID lock
         image:
           type: ImageBlock
           url: /images/AMR-M1.png
