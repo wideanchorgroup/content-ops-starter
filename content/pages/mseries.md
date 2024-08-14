@@ -261,10 +261,6 @@ sections:
       label: ''
       color: text-primary
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: M104
-      color: text-dark
     subtitle: The open inter-delivery tray robot
     text: ''
     actions: []
