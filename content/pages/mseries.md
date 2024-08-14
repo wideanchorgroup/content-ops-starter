@@ -75,7 +75,7 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Intelligent Chasis
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
