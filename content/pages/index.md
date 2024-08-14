@@ -398,7 +398,7 @@ sections:
       text: M1-Series
       color: text-dark
       type: TitleBlock
-    subtitle: Critical delivery robot
+    subtitle: Autonomous Navigation
     text: >
       Material transpiration to critical hospital infrastructure facilities. 
 
@@ -406,25 +406,18 @@ sections:
       Distribution of sensitive supplies used by pharmaceutical distribution,
       documents. 
     actions:
-      - label: Contact us
+      - label: Learn more
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: Learn more
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/AMR-M1.png
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: MEDICAL DELIVERY ROBOT
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -458,19 +451,10 @@ sections:
       precision recognition to avoid Human presence during sterlization
     actions:
       - type: Button
-        label: Contact us
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Link
         label: Learn more
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -525,18 +509,11 @@ sections:
       and other critical medical items
     actions:
       - type: Button
-        label: Contact us
+        label: Learn more
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: Learn more
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/hero3.svg
@@ -569,18 +546,11 @@ sections:
       battery swap capability you can ensure around the clock delivery
     actions:
       - type: Button
-        label: Contact us
+        label: Learn more
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: Learn more
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/S100-EN-Left with Shelf.png
