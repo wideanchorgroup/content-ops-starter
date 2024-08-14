@@ -52,7 +52,7 @@ sections:
       type: TitleBlock
       text: M104
       color: text-dark
-    subtitle: Open tray delivery
+    subtitle: The open delivery tray robot
     text: |
       Transport within section of medical facility
     actions: []
