@@ -117,52 +117,6 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Items on sale
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    items:
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        image:
-          type: ImageBlock
-          altText: ''
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/M101-feature.png
   - type: DividerSection
     title: Divider
     elementId: ''
