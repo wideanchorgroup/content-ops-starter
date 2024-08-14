@@ -509,7 +509,7 @@ sections:
       and other critical medical items
     actions:
       - type: Button
-        label: Contact us
+        label: Learn more
         url: /
         icon: arrowRight
         iconPosition: right
