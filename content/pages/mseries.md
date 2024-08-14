@@ -258,7 +258,7 @@ sections:
       transportation system.
     badge:
       type: Badge
-      label: The Open Tray Indelivery Robot
+      label: ''
       color: text-primary
   - type: GenericSection
     title:
