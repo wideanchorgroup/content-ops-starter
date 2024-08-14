@@ -149,7 +149,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/m104-info.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
