@@ -459,15 +459,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     media:
       type: VideoBlock
       title: Title of the video
