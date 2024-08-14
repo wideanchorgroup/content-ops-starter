@@ -167,7 +167,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: ''
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/AMR-M104.jpg
