@@ -100,6 +100,7 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        tagline: easy operations
     actions: []
     elementId: ''
     variant: three-col-grid
