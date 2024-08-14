@@ -131,7 +131,7 @@ sections:
         subtitle: $117
         image:
           type: ImageBlock
-          altText: Chunky Cotton Knit Throw
+          altText: ''
           elementId: ''
           styles:
             self:
