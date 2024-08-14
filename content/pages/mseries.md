@@ -55,12 +55,12 @@ sections:
     subtitle: The open delivery tray robot
     text: >
       Transport within section of medical facility point to point transportation
-      system
+      system.
     actions: []
     media:
       type: ImageBlock
-      url: /images/M104-amr.png
       altText: Dope design preview
+      url: /images/blank.png
     badge:
       type: Badge
       label: ''
@@ -70,6 +70,14 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/M104-amr.png
   - type: DividerSection
     title: Divider
     elementId: ''
