@@ -74,6 +74,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+        tagline: With RFIS Security
       - type: FeaturedItem
         title: Intelligent Chasis
         subtitle: RFID lock
