@@ -52,7 +52,7 @@ sections:
       type: TitleBlock
       text: M 104
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Open tray delivery
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
