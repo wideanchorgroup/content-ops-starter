@@ -79,7 +79,7 @@ sections:
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/M101-AMR-Shelf.png
           altText: Cotton Knit Throws
           elementId: ''
           styles:
