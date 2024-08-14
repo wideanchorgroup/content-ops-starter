@@ -100,7 +100,7 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
-        tagline: easy operations
+        tagline: Plug-in to master data for easy operations
     actions: []
     elementId: ''
     variant: three-col-grid
