@@ -131,7 +131,6 @@ sections:
         subtitle: $117
         image:
           type: ImageBlock
-          url: /images/M101-feature.png
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
