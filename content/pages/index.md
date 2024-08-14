@@ -451,7 +451,7 @@ sections:
       precision recognition to avoid Human presence during sterlization
     actions:
       - type: Button
-        label: Contact us
+        label: Learn more
         altText: ''
         url: /
         showIcon: false
