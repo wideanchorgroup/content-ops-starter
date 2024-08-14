@@ -170,7 +170,7 @@ sections:
         subtitle: $117
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/AMR-M104.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
