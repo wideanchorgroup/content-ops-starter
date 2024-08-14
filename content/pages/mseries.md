@@ -53,9 +53,8 @@ sections:
       text: M 104
       color: text-dark
     subtitle: Open tray delivery
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      Transport within section of medical facility
     actions:
       - type: Button
         label: Get started
