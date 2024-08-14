@@ -77,7 +77,7 @@ sections:
         tagline: RFID Secured
       - type: FeaturedItem
         title: Intelligent Chasis
-        subtitle: RFID lock
+        subtitle: 15h Battery per 4-5h charge
         image:
           type: ImageBlock
           url: /images/AMR-M1.png
