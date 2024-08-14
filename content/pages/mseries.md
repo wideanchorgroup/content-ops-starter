@@ -55,14 +55,7 @@ sections:
     subtitle: Open tray delivery
     text: |
       Transport within section of medical facility
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/M104-amr.png
