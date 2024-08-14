@@ -51,7 +51,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Multi cabin option
         subtitle: $ 88 – $ 176
         actions: []
         colors: bg-light-fg-dark
