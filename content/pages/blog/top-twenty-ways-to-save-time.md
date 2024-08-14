@@ -3,9 +3,9 @@ title: Operates in Narrow spaces
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  Equipped with advanced laser (SLAM) + vision + depth vision fusion positioning
+  technology, M104 robot confidently navigates through tight areas with high
+  precision.
 featuredImage:
   url: /images/M104-spaces.jpg
   altText: Thumbnail
