@@ -89,7 +89,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: 'Interactive display '
-        subtitle: $117
+        subtitle: Customizable to user preferemces
         image:
           type: ImageBlock
           url: /images/AMR-M1-Screen.png
