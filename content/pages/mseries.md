@@ -329,6 +329,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: The Open tray inter delivery robot
   - type: GenericSection
     title:
       type: TitleBlock
