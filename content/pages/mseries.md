@@ -87,6 +87,7 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        tagline: With Medical ABS grade plastic container
       - type: FeaturedItem
         title: 'Interactive display '
         subtitle: Customizable to user preferemces
