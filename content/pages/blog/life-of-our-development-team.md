@@ -1,7 +1,7 @@
 ---
 title: Open Cabin Delivery
 slug: life-of-our-development-team
-date: '2023-03-27'
+date: ''
 excerpt: >-
   M104 robot features an open cabin design, perfectly suited for transporting a
   wide range of medical supplies. With thrree-sided pick-up capability, it
