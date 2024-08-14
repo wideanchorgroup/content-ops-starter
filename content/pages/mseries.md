@@ -77,6 +77,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/M104-amr.png
   - type: DividerSection
     title: Divider
     elementId: ''
