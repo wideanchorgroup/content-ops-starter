@@ -44,7 +44,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: M101 Slim Robot
       color: text-dark
       styles:
         self:
