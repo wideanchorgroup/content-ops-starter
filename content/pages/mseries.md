@@ -52,7 +52,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Multi cabin option
-        subtitle: $ 88 – $ 176
+        subtitle: Multi use
         actions: []
         colors: bg-light-fg-dark
         styles:
