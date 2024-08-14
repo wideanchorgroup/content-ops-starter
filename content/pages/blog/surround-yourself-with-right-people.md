@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/m104-info.png
+  url: /images/accessories.png
   styles:
     self:
       borderRadius: medium
