@@ -173,7 +173,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/m104-info.png
+          url: /images/M101-feature.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
