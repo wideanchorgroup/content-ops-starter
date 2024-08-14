@@ -253,7 +253,9 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    subtitle: The Open tray inter delivery robot
+    subtitle: >-
+      In-delivery transport within section of medical facility point to point
+      transportation system.
     badge:
       type: Badge
       label: The Open Tray Indelivery Robot
