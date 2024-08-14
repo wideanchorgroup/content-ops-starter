@@ -60,7 +60,7 @@ sections:
     media:
       type: ImageBlock
       altText: Dope design preview
-      url: /images/amr2xs.png
+      url: /images/blank.png
     badge:
       type: Badge
       label: ''
