@@ -179,6 +179,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/M101-feature.png
   - type: DividerSection
     title: Divider
     elementId: ''
