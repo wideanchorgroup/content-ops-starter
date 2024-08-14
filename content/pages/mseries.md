@@ -89,7 +89,7 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
