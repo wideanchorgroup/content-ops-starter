@@ -88,7 +88,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: 'Interactive display '
         subtitle: $117
         image:
           type: ImageBlock
