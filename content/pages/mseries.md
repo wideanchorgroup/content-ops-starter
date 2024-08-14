@@ -147,6 +147,17 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
@@ -178,17 +189,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/M104-amr.png
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: DividerSection
     title: Divider
     elementId: ''
