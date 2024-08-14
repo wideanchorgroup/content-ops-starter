@@ -260,9 +260,7 @@ sections:
       text: M104
       color: text-dark
     subtitle: The open inter-delivery tray robot
-    text: >
-      In-delivery transport within section of medical facility point to point
-      transportation system.
+    text: ''
     actions: []
     media:
       type: ImageBlock
