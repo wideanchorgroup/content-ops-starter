@@ -16,9 +16,7 @@ sections:
         title: ''
         price: ''
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: ''
         features:
           - Feature one
           - Feature two
