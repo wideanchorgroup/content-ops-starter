@@ -113,7 +113,7 @@ sections:
           width: full
         - type: TextFormControl
           name: Phone
-          label: Name
+          label: Phone
           hideLabel: true
           placeholder: Your name
           isRequired: true
