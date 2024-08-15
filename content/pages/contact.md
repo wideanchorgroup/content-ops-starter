@@ -60,6 +60,9 @@ sections:
       color: text-primary
     colors: bg-light-fg-dark
     elementId: ''
+    styles:
+      text:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
