@@ -17,8 +17,7 @@ sections:
         price: ''
         details: ''
         description: ''
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           url: /images/KEENON studio day 113880.png
