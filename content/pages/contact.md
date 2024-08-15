@@ -41,6 +41,13 @@ sections:
           placeholder: City
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: Company or Hospital
+          label: Company or Hospital name
+          hideLabel: true
+          placeholder: Company or Hospital Name
+          isRequired: true
+          width: full
         - type: SelectFormControl
           name: State
           label: State
@@ -99,13 +106,6 @@ sections:
             - Wisconsin
             - Wyoming
           isRequired: false
-          width: full
-        - type: TextFormControl
-          name: Company or Hospital
-          label: Company or Hospital name
-          hideLabel: true
-          placeholder: Company or Hospital Name
-          isRequired: true
           width: full
         - type: TextareaFormControl
           name: Message
