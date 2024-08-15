@@ -69,6 +69,7 @@ sections:
             - Michigan
             - Minnesota
             - Mississippi
+            - ''
           isRequired: false
           width: full
       submitButton:
