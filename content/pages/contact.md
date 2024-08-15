@@ -9,7 +9,7 @@ sections:
       color: text-dark
     subtitle: We are waiting for you
     text: |+
-      ###
+      #
 
     actions: []
     media:
