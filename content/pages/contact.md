@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Contact our Sales and Customer representative
+      text: Sales and Customer representative
       color: text-dark
     subtitle: We are waiting for you
     text: >+
