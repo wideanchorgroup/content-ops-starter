@@ -52,7 +52,7 @@ sections:
             - Colorado
             - Connecticut
             - Delaware
-            - ''
+            - District Of Columbia
           isRequired: false
           width: full
       submitButton:
