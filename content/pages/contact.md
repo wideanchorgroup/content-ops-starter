@@ -68,6 +68,7 @@ sections:
             - Massachusetts
             - Michigan
             - Minnesota
+            - ''
           isRequired: false
           width: full
       submitButton:
