@@ -324,13 +324,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: Learn more
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/hospitalMultitier.png
       altText: Fun feature preview
