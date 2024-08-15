@@ -67,6 +67,7 @@ sections:
             - Maryland
             - Massachusetts
             - Michigan
+            - ''
           isRequired: false
           width: full
       submitButton:
