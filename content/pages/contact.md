@@ -86,7 +86,7 @@ sections:
             - Rhode Island
             - South Carolina
             - South Dakota
-            - ''
+            - Tennessee
           isRequired: false
           width: full
       submitButton:
