@@ -30,7 +30,7 @@ sections:
       - type: Button
         label: Learn about our Integrated platform
         altText: ''
-        url: /software
+        url: /platform
         showIcon: false
         icon: arrowRight
         iconPosition: right
