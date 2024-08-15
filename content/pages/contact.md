@@ -40,13 +40,6 @@ sections:
           placeholder: City
           isRequired: true
           width: full
-        - type: TextareaFormControl
-          name: Message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          isRequired: false
-          width: full
         - type: SelectFormControl
           name: State
           label: State
@@ -104,6 +97,13 @@ sections:
             - West Virginia
             - Wisconsin
             - Wyoming
+          isRequired: false
+          width: full
+        - type: TextareaFormControl
+          name: Message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
           isRequired: false
           width: full
         - type: CheckboxFormControl
