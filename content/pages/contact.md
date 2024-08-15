@@ -79,7 +79,7 @@ sections:
             - New York
             - North Carolina
             - North Dakota
-            - ''
+            - Ohio
           isRequired: false
           width: full
       submitButton:
