@@ -82,7 +82,7 @@ sections:
             - Ohio
             - Oklahoma
             - Oregon
-            - ''
+            - Pennsylvania
           isRequired: false
           width: full
       submitButton:
