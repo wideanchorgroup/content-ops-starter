@@ -5,22 +5,12 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Sales and Customer representative
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: We are waiting for you
     text: >+
-      \<!-- Calendly inline widget begin -->
-
-
-      \<div class="calendly-inline-widget"
-      data-url="https\://calendly.com/ram-baswa/american-med-robotics"
-      style="min-width:320px;height:700px;">\</div>
-
-      \<script type="text/javascript"
-      src="https\://assets.calendly.com/assets/external/widget.js"
-      async>\</script>
-
-      \<!-- Calendly inline widget end -->
+      ### [**BOOK AN APPOINTMENT THROUGH OUR CALENDLY
+      LINK**](https://calendly.com/ram-baswa/american-med-robotics)
 
     actions: []
     media:
