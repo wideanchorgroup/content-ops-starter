@@ -83,7 +83,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: BOOK CALENDAR
+        label: SCHEDULE AN APPOINTMENT
         altText: ''
         url: 'https://calendly.com/ram-baswa/american-med-robotics'
         showIcon: false
