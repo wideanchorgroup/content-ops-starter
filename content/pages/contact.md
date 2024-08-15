@@ -45,6 +45,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Alabama
+            - ''
           isRequired: false
           width: full
       submitButton:
