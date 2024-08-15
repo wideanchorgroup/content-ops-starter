@@ -38,19 +38,19 @@ sections:
           label: I have read and accept the legal terms.
           isRequired: false
           width: full
-        - type: TextFormControl
-          name: City
-          label: City
-          hideLabel: true
-          placeholder: City
-          isRequired: true
-          width: full
         - type: TextareaFormControl
           name: Message
           label: Message
           hideLabel: true
           placeholder: Your message
           isRequired: false
+          width: full
+        - type: TextFormControl
+          name: City
+          label: City
+          hideLabel: true
+          placeholder: City
+          isRequired: true
           width: full
         - type: SelectFormControl
           name: State
