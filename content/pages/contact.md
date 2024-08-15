@@ -42,7 +42,7 @@ sections:
           name: City
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: City
           isRequired: true
           width: full
         - type: SelectFormControl
