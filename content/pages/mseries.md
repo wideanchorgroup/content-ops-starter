@@ -333,7 +333,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/M104-cabin.jpg
+          url: /images/M104-spaces.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
