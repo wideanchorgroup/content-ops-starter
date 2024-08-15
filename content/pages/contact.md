@@ -60,6 +60,17 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
 slug: Contact
 isDraft: false
 seo:
