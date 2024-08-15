@@ -80,11 +80,9 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >+
-      \<div style="text-align: center"># [**BOOK APPOINTMENT THROUGH OUR
-      CALENDLY
+    text: >
+      [**BOOK APPOINTMENT THROUGH OUR CALENDLY
       LINK**](https://calendly.com/ram-baswa/american-med-robotics)\</div>
-
     actions:
       - type: Button
         label: Get started
