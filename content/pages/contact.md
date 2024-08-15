@@ -80,9 +80,11 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      \<div style="text-align: center"># [**BOOK APPOINTMENT THROUGH OUR
+      CALENDLY
+      LINK**](https://calendly.com/ram-baswa/american-med-robotics)\</div>
+
     actions:
       - type: Button
         label: Get started
