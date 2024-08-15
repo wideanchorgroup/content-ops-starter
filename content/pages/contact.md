@@ -8,9 +8,8 @@ sections:
       text: Sales and Customer representative
       color: text-dark
     subtitle: We are waiting for you
-    text: >+
-      ### [**BOOK AN APPOINTMENT THROUGH OUR CALENDLY
-      LINK**](https://calendly.com/ram-baswa/american-med-robotics)
+    text: |+
+      ###
 
     actions: []
     media:
