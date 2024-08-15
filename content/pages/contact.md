@@ -27,6 +27,11 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
+        - type: CheckboxFormControl
+          name: Consent
+          label: I have read and accept the legal terms.
+          isRequired: false
+          width: full
         - type: TextareaFormControl
           name: message
           label: Message
