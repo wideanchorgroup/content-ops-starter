@@ -80,9 +80,7 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: ''
-    text: >
-      [**BOOK APPOINTMENT THROUGH OUR CALENDLY
-      LINK**](https://calendly.com/ram-baswa/american-med-robotics)\</div>
+    text: ''
     actions:
       - type: Button
         label: BOOK CALENDAR
