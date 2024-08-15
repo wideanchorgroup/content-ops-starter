@@ -52,6 +52,7 @@ sections:
             - Colorado
             - Connecticut
             - Delaware
+            - ''
           isRequired: false
           width: full
       submitButton:
