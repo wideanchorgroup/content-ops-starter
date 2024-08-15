@@ -60,7 +60,7 @@ sections:
             - Illinois
             - Indiana
             - Iowa
-            - ''
+            - Kansas
           isRequired: false
           width: full
       submitButton:
