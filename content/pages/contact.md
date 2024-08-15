@@ -50,7 +50,7 @@ sections:
             - Arkansas
             - California
             - Colorado
-            - ''
+            - Connecticut
           isRequired: false
           width: full
       submitButton:
