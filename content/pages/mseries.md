@@ -369,7 +369,7 @@ sections:
           self:
             flexDirection: row
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Open Cabin Delivery
         subtitle: >-
           M104 robot features an open cabin design, perfectly suited for
           transporting a wide range of medical supplies. With thrree-sided
