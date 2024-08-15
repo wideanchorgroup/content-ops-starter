@@ -59,7 +59,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Sanitize",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
