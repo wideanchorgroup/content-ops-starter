@@ -81,7 +81,7 @@ sections:
             - North Dakota
             - Ohio
             - Oklahoma
-            - ''
+            - Oregon
           isRequired: false
           width: full
       submitButton:
