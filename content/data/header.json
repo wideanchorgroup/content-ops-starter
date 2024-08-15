@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "M-Series",
-                    "url": "/",
+                    "url": "/mseries",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
