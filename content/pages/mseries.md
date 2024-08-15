@@ -26,7 +26,16 @@ sections:
       deliveries, the robots enhance operational efficiency, minimize human
       error, and contribute to a more organized, responsive healthcare
       environment.
-    actions: []
+    actions:
+      - type: Button
+        label: Learn about our Integrated platform
+        altText: ''
+        url: /platform
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
