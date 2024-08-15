@@ -97,6 +97,13 @@ sections:
             - Wyoming
           isRequired: false
           width: full
+        - type: TextFormControl
+          name: City
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
