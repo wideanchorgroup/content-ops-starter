@@ -8,17 +8,16 @@ sections:
       text: Generic Section With A Form
       color: text-dark
     subtitle: Section with a form subtitle
-    text: >+
-      `<!-- Calendly inline widget begin -->`
+    text: >
+      `<sup><!-- Calendly inline widget begin --></sup>`
 
 
-      `<div class="calendly-inline-widget"
+      `<sup><div class="calendly-inline-widget"
       data-url="https://calendly.com/ram-baswa/american-med-robotics"
       style="min-width:320px;height:700px;"></div> <script
       type="text/javascript"
       src="https://assets.calendly.com/assets/external/widget.js"
-      async></script> <!-- Calendly inline widget end -->`
-
+      async></script> <!-- Calendly inline widget end --></sup>`
     actions: []
     media:
       type: FormBlock
