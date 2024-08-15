@@ -76,7 +76,7 @@ sections:
             - New Hampshire
             - New Jersey
             - New Mexico
-            - ''
+            - New York
           isRequired: false
           width: full
       submitButton:
