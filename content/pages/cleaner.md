@@ -33,7 +33,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: ''
+        title: SANITIZE
         price: ''
         details: ''
         description: ''
