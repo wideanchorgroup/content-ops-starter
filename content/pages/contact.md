@@ -153,10 +153,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
@@ -169,10 +169,10 @@ sections:
         label: SCHEDULE AN APPOINTMENT
         altText: ''
         url: 'https://calendly.com/ram-baswa/american-med-robotics'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     media:
       type: ImageBlock
