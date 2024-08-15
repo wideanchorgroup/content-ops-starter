@@ -104,6 +104,13 @@ sections:
             - Wyoming
           isRequired: false
           width: full
+        - type: TextareaFormControl
+          name: Message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          isRequired: false
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
