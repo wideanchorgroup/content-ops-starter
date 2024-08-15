@@ -48,7 +48,7 @@ sections:
             - Alaska
             - Arizona
             - Arkansas
-            - ''
+            - California
           isRequired: false
           width: full
       submitButton:
