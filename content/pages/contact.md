@@ -46,6 +46,7 @@ sections:
           options:
             - Alabama
             - Alaska
+            - ''
           isRequired: false
           width: full
       submitButton:
