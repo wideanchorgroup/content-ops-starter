@@ -112,6 +112,13 @@ sections:
           label: I agree to be contacted via email and phone
           isRequired: false
           width: full
+        - type: TextFormControl
+          name: Company or Hospital
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
