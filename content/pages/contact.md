@@ -93,7 +93,7 @@ sections:
             - Virginia
             - Washington
             - West Virginia
-            - ''
+            - Wisconsin
           isRequired: false
           width: full
       submitButton:
