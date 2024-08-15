@@ -40,7 +40,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: State
-          label: Company size
+          label: State
           hideLabel: false
           defaultValue: Please choose...
           options: []
