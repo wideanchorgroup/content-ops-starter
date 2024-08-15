@@ -38,6 +38,13 @@ sections:
           label: I have read and accept the legal terms.
           isRequired: false
           width: full
+        - type: TextFormControl
+          name: City
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
         - type: SelectFormControl
           name: State
           label: State
@@ -96,13 +103,6 @@ sections:
             - Wisconsin
             - Wyoming
           isRequired: false
-          width: full
-        - type: TextFormControl
-          name: City
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
           width: full
       submitButton:
         type: SubmitButtonFormControl
