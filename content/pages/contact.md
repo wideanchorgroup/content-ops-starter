@@ -68,7 +68,7 @@ sections:
             - Massachusetts
             - Michigan
             - Minnesota
-            - ''
+            - Mississippi
           isRequired: false
           width: full
       submitButton:
