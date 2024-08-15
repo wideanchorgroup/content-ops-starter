@@ -37,8 +37,7 @@ sections:
         price: ''
         details: ''
         description: ''
-        features:
-          - Feature three
+        features: []
         image:
           type: ImageBlock
           url: /images/lifestyle-2.png
