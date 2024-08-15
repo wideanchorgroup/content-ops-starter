@@ -34,7 +34,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: SANITIZE
-        price: 'High '
+        price: High efficient sterilization
         details: ''
         description: ''
         features: []
