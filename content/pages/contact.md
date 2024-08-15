@@ -83,7 +83,7 @@ sections:
             - Oklahoma
             - Oregon
             - Pennsylvania
-            - ''
+            - Rhode Island
           isRequired: false
           width: full
       submitButton:
