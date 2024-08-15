@@ -108,7 +108,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: Consent
-          label: I have read and accept the legal terms.
+          label: I agree to be contacted via email and phone
           isRequired: false
           width: full
       submitButton:
