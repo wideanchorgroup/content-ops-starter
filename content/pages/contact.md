@@ -66,6 +66,7 @@ sections:
             - Maine
             - Maryland
             - Massachusetts
+            - ''
           isRequired: false
           width: full
       submitButton:
