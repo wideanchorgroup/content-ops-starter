@@ -65,7 +65,7 @@ sections:
             - Louisiana
             - Maine
             - Maryland
-            - ''
+            - Massachusetts
           isRequired: false
           width: full
       submitButton:
