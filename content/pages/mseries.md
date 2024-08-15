@@ -590,6 +590,69 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: American Med Robotics
+      color: text-dark
+    subtitle: >-
+      Complete the form or call 678-608-8482 for more information. For technical
+      support, call 888-201-9522.
+    text: >
+      At American Med Robotics, we revolutionize intralogistics in healthcare by
+      providing a suite of advanced autonomous mobile robots. Our innovative
+      solutions are designed to streamline the transportation of supplies,
+      medications, and other essential items, ensuring seamless and efficient
+      hospital operations. Reach out to us to explore how our cutting-edge
+      robots can transform your facility, allowing your team to focus on
+      delivering exceptional care.
+    actions: []
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    badge:
+      type: Badge
+      label: Contact Us
+      color: text-primary
+    colors: bg-light-fg-dark
 slug: mseries
 seo:
   type: Seo
