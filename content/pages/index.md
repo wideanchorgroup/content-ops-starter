@@ -319,7 +319,7 @@ sections:
       burden of significant expenditure.
     actions:
       - label: Integrated platform
-        url: /
+        url: /software
         icon: arrowRight
         iconPosition: right
         style: secondary
