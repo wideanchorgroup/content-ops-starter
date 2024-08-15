@@ -39,7 +39,6 @@ sections:
         description: ''
         features:
           - Feature three
-          - Feature four
         image:
           type: ImageBlock
           url: /images/lifestyle-2.png
