@@ -28,17 +28,17 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
-          name: Phone
-          label: Phone
-          hideLabel: true
-          placeholder: Phone
-          isRequired: true
-          width: full
-        - type: TextFormControl
           name: Company or Hospital
           label: Company or Hospital name
           hideLabel: true
           placeholder: Company or Hospital Name
+          isRequired: true
+          width: full
+        - type: TextFormControl
+          name: Phone
+          label: Phone
+          hideLabel: true
+          placeholder: Phone
           isRequired: true
           width: full
         - type: TextFormControl
