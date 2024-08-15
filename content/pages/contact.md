@@ -45,7 +45,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Alabama
-            - ''
+            - Alaska
           isRequired: false
           width: full
       submitButton:
