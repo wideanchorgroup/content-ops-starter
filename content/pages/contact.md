@@ -43,7 +43,8 @@ sections:
           label: State
           hideLabel: false
           defaultValue: Please choose...
-          options: []
+          options:
+            - ''
           isRequired: false
           width: full
       submitButton:
