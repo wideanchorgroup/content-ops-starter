@@ -57,7 +57,7 @@ sections:
             - Georgia
             - Hawaii
             - Idaho
-            - ''
+            - Illinois
           isRequired: false
           width: full
       submitButton:
