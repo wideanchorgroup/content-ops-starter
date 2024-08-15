@@ -90,7 +90,7 @@ sections:
             - Texas
             - Utah
             - Vermont
-            - ''
+            - Virginia
           isRequired: false
           width: full
       submitButton:
