@@ -381,7 +381,7 @@ sections:
         subtitle: $117
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/M104-cabin.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
