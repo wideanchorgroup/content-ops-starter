@@ -40,7 +40,7 @@ sections:
           width: full
         - type: TextFormControl
           name: City
-          label: Name
+          label: City
           hideLabel: true
           placeholder: City
           isRequired: true
