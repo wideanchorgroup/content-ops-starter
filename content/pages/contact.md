@@ -56,6 +56,7 @@ sections:
             - Florida
             - Georgia
             - Hawaii
+            - ''
           isRequired: false
           width: full
       submitButton:
