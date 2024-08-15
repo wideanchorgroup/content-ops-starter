@@ -40,17 +40,17 @@ sections:
           placeholder: Your message
           isRequired: false
           width: full
-        - type: CheckboxFormControl
-          name: Consent
-          label: I have read and accept the legal terms.
-          isRequired: false
-          width: full
         - type: TextFormControl
           name: City
           label: City
           hideLabel: true
           placeholder: City
           isRequired: true
+          width: full
+        - type: CheckboxFormControl
+          name: Consent
+          label: I have read and accept the legal terms.
+          isRequired: false
           width: full
         - type: SelectFormControl
           name: State
