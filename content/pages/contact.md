@@ -34,6 +34,13 @@ sections:
           placeholder: City
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: Phone
+          label: Phone
+          hideLabel: true
+          placeholder: Phone
+          isRequired: true
+          width: full
         - type: SelectFormControl
           name: State
           label: State
@@ -92,13 +99,6 @@ sections:
             - Wisconsin
             - Wyoming
           isRequired: false
-          width: full
-        - type: TextFormControl
-          name: Phone
-          label: Phone
-          hideLabel: true
-          placeholder: Phone
-          isRequired: true
           width: full
         - type: TextareaFormControl
           name: Message
