@@ -12,11 +12,27 @@ sections:
           textAlign: center
     subtitle: Heavy duty delivery robots
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      The X-Series Heavy-Duty Delivery Robots are designed to handle the more
+      demanding logistics within a hospital, particularly when it comes to
+      transporting large quantities of supplies, medications, or other critical
+      items. With superior load-bearing capacity and advanced navigation, these
+      robots efficiently move large loads across multiple floors, ensuring that
+      essential items are delivered promptly and securely.
+
+
+
+      By integrating the X-Series robots into your hospital, you can
+      significantly reduce the manual labor required for transporting heavy and
+      bulky items. This not only frees up your staff to focus on more critical
+      tasks but also ensures that supplies are always where they need to be
+      without delay. The robots enhance operational efficiency, reduce the risk
+      of injury from manual lifting, and improve overall workflow.
+
+
+      The X-Series offers a greater load capacity, advanced mapping for
+      multi-level navigation, and is ideal for larger scale operations, making
+      it the perfect complement to the M-Series for a well-rounded robotic
+      delivery system in your hospital.
     actions:
       - type: Button
         label: See open positions
@@ -66,7 +82,7 @@ sections:
       type: VideoBlock
       title: Title of the video
       url: /images/x101-3.mp4
-      autoplay: false
+      autoplay: true
       loop: true
       muted: true
       controls: false
