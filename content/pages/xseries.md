@@ -92,6 +92,78 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/m104-info.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/AMR-M104.jpg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+    actions: []
+    elementId: ''
+    variant: big-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
       text: Open positions
       color: text-dark
       styles:
