@@ -55,7 +55,7 @@ sections:
             - District Of Columbia
             - Florida
             - Georgia
-            - ''
+            - Hawaii
           isRequired: false
           width: full
       submitButton:
