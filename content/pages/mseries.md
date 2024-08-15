@@ -354,7 +354,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: Accessories
-        subtitle: $ 44.99 – $ 90
+        subtitle: 'Includes notification bells, mobile bluetooth, automated door sensors'
         image:
           type: ImageBlock
           url: /images/accessories.png
