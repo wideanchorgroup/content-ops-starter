@@ -24,7 +24,7 @@ export default function FormBlock(props) {
           fetch("/", {
             method: "POST",
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: new URLSearchParams(formData as any).toString(), // Casting to `any` for compatibility
+            body: new URLSearchParams(data).toString(), 
           })
         .then(() => navigate("/thank-you/"))
         .catch((error) => alert(error));
