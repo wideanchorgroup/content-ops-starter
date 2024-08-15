@@ -33,16 +33,16 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
-        - type: CheckboxFormControl
-          name: Consent
-          label: I have read and accept the legal terms.
-          isRequired: false
-          width: full
         - type: TextareaFormControl
           name: Message
           label: Message
           hideLabel: true
           placeholder: Your message
+          isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: Consent
+          label: I have read and accept the legal terms.
           isRequired: false
           width: full
         - type: TextFormControl
