@@ -47,11 +47,6 @@ sections:
           placeholder: Your message
           isRequired: false
           width: full
-        - type: CheckboxFormControl
-          name: Consent
-          label: I have read and accept the legal terms.
-          isRequired: false
-          width: full
         - type: SelectFormControl
           name: State
           label: State
@@ -109,6 +104,11 @@ sections:
             - West Virginia
             - Wisconsin
             - Wyoming
+          isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: Consent
+          label: I have read and accept the legal terms.
           isRequired: false
           width: full
       submitButton:
