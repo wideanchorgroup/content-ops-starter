@@ -35,17 +35,17 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
-          name: City
-          label: City
-          hideLabel: true
-          placeholder: City
-          isRequired: true
-          width: full
-        - type: TextFormControl
           name: Company or Hospital
           label: Company or Hospital name
           hideLabel: true
           placeholder: Company or Hospital Name
+          isRequired: true
+          width: full
+        - type: TextFormControl
+          name: City
+          label: City
+          hideLabel: true
+          placeholder: City
           isRequired: true
           width: full
         - type: SelectFormControl
