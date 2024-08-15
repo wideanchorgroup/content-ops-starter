@@ -38,6 +38,14 @@ sections:
           label: I have read and accept the legal terms.
           isRequired: false
           width: full
+        - type: SelectFormControl
+          name: State
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
