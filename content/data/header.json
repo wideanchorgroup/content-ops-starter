@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "X-Series",
-                    "url": "/",
+                    "url": "/xseries",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
