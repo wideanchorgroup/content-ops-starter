@@ -8,9 +8,7 @@ sections:
       text: Sales and Customer representative
       color: text-dark
     subtitle: We are waiting for you
-    text: |+
-      #
-
+    text: ''
     actions: []
     media:
       type: FormBlock
