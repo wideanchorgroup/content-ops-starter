@@ -8,11 +8,20 @@ sections:
       text: Generic Section With A Form
       color: text-dark
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      \<!-- Calendly inline widget begin -->
+
+
+      \<div class="calendly-inline-widget"
+      data-url="https\://calendly.com/ram-baswa/american-med-robotics"
+      style="min-width:320px;height:700px;">\</div>
+
+      \<script type="text/javascript"
+      src="https\://assets.calendly.com/assets/external/widget.js"
+      async>\</script>
+
+      \<!-- Calendly inline widget end -->
+
     actions: []
     media:
       type: FormBlock
@@ -117,7 +126,3 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/ram-baswa/american-med-robotics" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
