@@ -47,6 +47,7 @@ sections:
             - Alabama
             - Alaska
             - Arizona
+            - ''
           isRequired: false
           width: full
       submitButton:
