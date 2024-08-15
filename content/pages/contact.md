@@ -178,7 +178,7 @@ sections:
       type: ImageBlock
       url: /images/calendly.jpg
       altText: Fun feature preview
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
