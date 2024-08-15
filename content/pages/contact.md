@@ -92,7 +92,7 @@ sections:
             - Vermont
             - Virginia
             - Washington
-            - ''
+            - West Virginia
           isRequired: false
           width: full
       submitButton:
