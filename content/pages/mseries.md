@@ -370,7 +370,11 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
-        subtitle: $117
+        subtitle: >-
+          M104 robot features an open cabin design, perfectly suited for
+          transporting a wide range of medical supplies. With thrree-sided
+          pick-up capability, it ensures swift and efficient delivery while
+          facilitating easy cleaning and disinfection.
         image:
           type: ImageBlock
           url: /images/M104-cabin.jpg
