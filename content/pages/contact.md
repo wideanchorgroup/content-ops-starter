@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Contact our Sales and Customer representative
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: We are waiting for you
     text: >+
       ### [**BOOK AN APPOINTMENT THROUGH OUR CALENDLY
       LINK**](https://calendly.com/ram-baswa/american-med-robotics)
