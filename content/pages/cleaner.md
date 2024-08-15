@@ -65,7 +65,6 @@ sections:
         description: ''
         features:
           - Feature four
-          - Feature five
         image:
           type: ImageBlock
           url: /images/KEENON studio day 113889.png
