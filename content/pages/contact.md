@@ -58,7 +58,7 @@ sections:
             - Hawaii
             - Idaho
             - Illinois
-            - ''
+            - Indiana
           isRequired: false
           width: full
       submitButton:
