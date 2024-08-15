@@ -36,7 +36,7 @@ sections:
     actions:
       - type: Button
         label: Learn about our integrated platform
-        url: /
+        url: /platform
         icon: arrowRight
         iconPosition: right
         style: primary
