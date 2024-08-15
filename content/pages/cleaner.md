@@ -33,7 +33,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: SANITIZE
+        title: Fully Autonomous
         price: High efficient sterilization
         details: Shortwave UVC ultraviolet lamp
         description: >
