@@ -92,6 +92,7 @@ sections:
             - Vermont
             - Virginia
             - Washington
+            - ''
           isRequired: false
           width: full
       submitButton:
