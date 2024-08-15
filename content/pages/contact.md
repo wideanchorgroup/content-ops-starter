@@ -61,7 +61,7 @@ sections:
             - Indiana
             - Iowa
             - Kansas
-            - ''
+            - Kentucky
           isRequired: false
           width: full
       submitButton:
