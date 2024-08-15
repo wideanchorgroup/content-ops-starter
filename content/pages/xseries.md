@@ -35,8 +35,8 @@ sections:
       delivery system in your hospital.
     actions:
       - type: Button
-        label: See open positions
-        url: /
+        label: Learn about our integrated platform
+        url: /platform
         icon: arrowRight
         iconPosition: right
         style: primary
