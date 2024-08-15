@@ -58,7 +58,7 @@ sections:
       type: Badge
       label: Contact Us
       color: text-primary
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     elementId: ''
     styles:
       text:
