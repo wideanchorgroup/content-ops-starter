@@ -65,7 +65,6 @@ sections:
         description: ''
         features:
           - Feature two
-          - Feature three
           - Feature four
           - Feature five
         image:
