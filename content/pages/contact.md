@@ -74,7 +74,7 @@ sections:
             - Nebraska
             - Nevada
             - New Hampshire
-            - ''
+            - New Jersey
           isRequired: false
           width: full
       submitButton:
