@@ -94,7 +94,7 @@ sections:
             - Washington
             - West Virginia
             - Wisconsin
-            - ''
+            - Wyoming
           isRequired: false
           width: full
       submitButton:
