@@ -114,7 +114,7 @@ sections:
           width: full
         - type: TextFormControl
           name: Company or Hospital
-          label: Name
+          label: Company or Hospital name
           hideLabel: true
           placeholder: Your name
           isRequired: true
