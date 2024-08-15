@@ -73,7 +73,7 @@ sections:
             - Montana
             - Nebraska
             - Nevada
-            - ''
+            - New Hampshire
           isRequired: false
           width: full
       submitButton:
