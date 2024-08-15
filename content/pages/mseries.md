@@ -319,18 +319,10 @@ sections:
       - type: FeaturedItem
         title: Operates in Narrow spaces
         subtitle: $ 88 – $ 176
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
-
+        text: >
+          Equipped with advanced laser (SLAM) + vision + depth vision fusion
+          positioning technology, M104 robot confidently navigates through tight
+          areas with high precision.
         image:
           type: ImageBlock
           url: /images/M104-spaces.jpg
