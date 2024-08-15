@@ -84,12 +84,6 @@ sections:
       [**BOOK APPOINTMENT THROUGH OUR CALENDLY
       LINK**](https://calendly.com/ram-baswa/american-med-robotics)\</div>
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
