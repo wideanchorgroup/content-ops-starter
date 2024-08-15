@@ -27,11 +27,19 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
+        - type: TextFormControl
+          name: Company or Hospital
+          label: Company or Hospital name
           hideLabel: true
-          placeholder: Your message
+          placeholder: Company or Hospital Name
+          isRequired: true
+          width: full
+        - type: TextFormControl
+          name: Phone
+          label: Phone
+          hideLabel: true
+          placeholder: Phone
+          isRequired: true
           width: full
         - type: TextFormControl
           name: City
@@ -108,7 +116,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: Consent
-          label: I have read and accept the legal terms.
+          label: I agree to be contacted via email and phone
           isRequired: false
           width: full
       submitButton:
