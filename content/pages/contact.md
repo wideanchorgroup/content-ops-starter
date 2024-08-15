@@ -88,7 +88,7 @@ sections:
             - South Dakota
             - Tennessee
             - Texas
-            - ''
+            - Utah
           isRequired: false
           width: full
       submitButton:
