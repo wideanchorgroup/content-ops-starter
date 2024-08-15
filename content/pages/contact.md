@@ -87,7 +87,7 @@ sections:
             - South Carolina
             - South Dakota
             - Tennessee
-            - ''
+            - Texas
           isRequired: false
           width: full
       submitButton:
