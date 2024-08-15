@@ -28,7 +28,7 @@ sections:
       environment.
     actions:
       - type: Button
-        label: Get started
+        label: Learn about our Integrated platform
         altText: ''
         url: /software
         showIcon: false
