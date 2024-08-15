@@ -5,13 +5,10 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Sales and Customer representative
+      text: Contact our Sales and Customer representative
       color: text-dark
     subtitle: We are waiting for you
-    text: >+
-      ### [**BOOK AN APPOINTMENT THROUGH OUR CALENDLY
-      LINK**](https://calendly.com/ram-baswa/american-med-robotics)
-
+    text: ''
     actions: []
     media:
       type: FormBlock
@@ -56,10 +53,13 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: ''
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     elementId: ''
+    styles:
+      text:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -74,34 +74,24 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: ''
       color: text-dark
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    subtitle: ''
+    text: ''
     actions:
       - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
+        label: SCHEDULE AN APPOINTMENT
+        altText: ''
+        url: 'https://calendly.com/ram-baswa/american-med-robotics'
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: ''
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/calendly.jpg
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
