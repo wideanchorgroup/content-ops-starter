@@ -162,7 +162,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/AMR-M104.jpg
+          url: /images/m2-info.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
