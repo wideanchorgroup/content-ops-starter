@@ -33,6 +33,84 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
+        - type: TextFormControl
+          name: City
+          label: City
+          hideLabel: true
+          placeholder: City
+          isRequired: true
+          width: full
+        - type: SelectFormControl
+          name: State
+          label: State
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - Alabama
+            - Alaska
+            - Arizona
+            - Arkansas
+            - California
+            - Colorado
+            - Connecticut
+            - Delaware
+            - District Of Columbia
+            - Florida
+            - Georgia
+            - Hawaii
+            - Idaho
+            - Illinois
+            - Indiana
+            - Iowa
+            - Kansas
+            - Kentucky
+            - Louisiana
+            - Maine
+            - Maryland
+            - Massachusetts
+            - Michigan
+            - Minnesota
+            - Mississippi
+            - Missouri
+            - Montana
+            - Nebraska
+            - Nevada
+            - New Hampshire
+            - New Jersey
+            - New Mexico
+            - New York
+            - North Carolina
+            - North Dakota
+            - Ohio
+            - Oklahoma
+            - Oregon
+            - Pennsylvania
+            - Rhode Island
+            - South Carolina
+            - South Dakota
+            - Tennessee
+            - Texas
+            - Utah
+            - Vermont
+            - Virginia
+            - Washington
+            - West Virginia
+            - Wisconsin
+            - Wyoming
+          isRequired: false
+          width: full
+        - type: TextareaFormControl
+          name: Message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: Consent
+          label: I have read and accept the legal terms.
+          isRequired: false
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
