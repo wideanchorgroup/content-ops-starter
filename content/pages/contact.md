@@ -28,17 +28,17 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
-          name: City
-          label: City
-          hideLabel: true
-          placeholder: City
-          isRequired: true
-          width: full
-        - type: TextFormControl
           name: Phone
           label: Phone
           hideLabel: true
           placeholder: Phone
+          isRequired: true
+          width: full
+        - type: TextFormControl
+          name: City
+          label: City
+          hideLabel: true
+          placeholder: City
           isRequired: true
           width: full
         - type: SelectFormControl
