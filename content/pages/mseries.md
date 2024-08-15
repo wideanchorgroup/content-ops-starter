@@ -595,7 +595,7 @@ sections:
       type: TitleBlock
       text: American Med Robotics
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: 'Atlanta, GA'
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
