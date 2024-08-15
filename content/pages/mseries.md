@@ -596,11 +596,14 @@ sections:
       text: American Med Robotics
       color: text-dark
     subtitle: 'Atlanta, GA'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      At American Med Robotics, we revolutionize intralogistics in healthcare by
+      providing a suite of advanced autonomous mobile robots. Our innovative
+      solutions are designed to streamline the transportation of supplies,
+      medications, and other essential items, ensuring seamless and efficient
+      hospital operations. Reach out to us to explore how our cutting-edge
+      robots can transform your facility, allowing your team to focus on
+      delivering exceptional care.
     actions: []
     media:
       type: FormBlock
