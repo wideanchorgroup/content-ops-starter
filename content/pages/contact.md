@@ -115,7 +115,7 @@ sections:
           name: Phone
           label: Phone
           hideLabel: true
-          placeholder: Your name
+          placeholder: Phone
           isRequired: true
           width: full
       submitButton:
