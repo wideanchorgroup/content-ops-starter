@@ -44,7 +44,7 @@ sections:
           hideLabel: false
           defaultValue: Please choose...
           options:
-            - ''
+            - Alabama
           isRequired: false
           width: full
       submitButton:
