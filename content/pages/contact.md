@@ -47,7 +47,7 @@ sections:
             - Alabama
             - Alaska
             - Arizona
-            - ''
+            - Arkansas
           isRequired: false
           width: full
       submitButton:
