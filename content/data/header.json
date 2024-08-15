@@ -60,7 +60,7 @@
                 },
                 {
                     "label": "Sanitize",
-                    "url": "/cleaners",
+                    "url": "/cleaner",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
