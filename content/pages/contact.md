@@ -56,7 +56,7 @@ sections:
             - Florida
             - Georgia
             - Hawaii
-            - ''
+            - Idaho
           isRequired: false
           width: full
       submitButton:
