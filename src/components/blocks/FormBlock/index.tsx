@@ -18,7 +18,16 @@ export default function FormBlock(props) {
 
         const data = new FormData(formRef.current);
         const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
+        
+        const formData = new FormData(value);
+        //alert(`Form data: ${JSON.stringify(value)}`);
+          fetch("/", {
+            method: "POST",
+            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            body: new URLSearchParams(formData as any).toString(), // Casting to `any` for compatibility
+          })
+        .then(() => navigate("/thank-you/"))
+        .catch((error) => alert(error));
     }
 
     return (
@@ -41,6 +50,7 @@ export default function FormBlock(props) {
             )}
             name={elementId}
             id={elementId}
+            netlify
             onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path= {fieldPath}
