@@ -62,7 +62,7 @@ sections:
             - Iowa
             - Kansas
             - Kentucky
-            - ''
+            - Louisiana
           isRequired: false
           width: full
       submitButton:
