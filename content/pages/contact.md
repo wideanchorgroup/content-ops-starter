@@ -93,19 +93,19 @@ sections:
             - Wyoming
           isRequired: false
           width: full
-        - type: TextareaFormControl
-          name: Message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          isRequired: false
-          width: full
         - type: TextFormControl
           name: Phone
           label: Phone
           hideLabel: true
           placeholder: Phone
           isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: Message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          isRequired: false
           width: full
         - type: CheckboxFormControl
           name: Consent
