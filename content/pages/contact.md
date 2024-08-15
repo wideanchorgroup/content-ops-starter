@@ -49,7 +49,7 @@ sections:
             - Arizona
             - Arkansas
             - California
-            - ''
+            - Colorado
           isRequired: false
           width: full
       submitButton:
