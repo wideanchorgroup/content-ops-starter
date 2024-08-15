@@ -86,6 +86,7 @@ sections:
             - Rhode Island
             - South Carolina
             - South Dakota
+            - ''
           isRequired: false
           width: full
       submitButton:
