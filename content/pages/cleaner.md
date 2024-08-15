@@ -36,7 +36,9 @@ sections:
         title: SANITIZE
         price: High efficient sterilization
         details: Shortwave UVC ultraviolet lamp
-        description: ''
+        description: >
+          Killing rate of Bacillus subtillis black variant spores can reach upto
+          99.999%
         features: []
         image:
           type: ImageBlock
