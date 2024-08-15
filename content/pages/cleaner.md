@@ -35,7 +35,7 @@ sections:
       - type: PricingPlan
         title: SANITIZE
         price: High efficient sterilization
-        details: ''
+        details: Shortwave UVC ultraviolet lamp
         description: ''
         features: []
         image:
