@@ -92,7 +92,7 @@ sections:
         iconPosition: right
         style: primary
       - type: Button
-        label: Get started
+        label: BOOK CALENDAR
         altText: ''
         url: 'https://calendly.com/ram-baswa/american-med-robotics'
         showIcon: false
