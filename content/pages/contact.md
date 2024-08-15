@@ -9,7 +9,7 @@ sections:
       color: text-dark
     subtitle: Section with a form subtitle
     text: >+
-      # [**BOOK AN APPOINTMENT THROUGH OUR CALENDLY
+      ### [**BOOK AN APPOINTMENT THROUGH OUR CALENDLY
       LINK**](https://calendly.com/ram-baswa/american-med-robotics)
 
     actions: []
