@@ -100,17 +100,17 @@ sections:
           placeholder: Your message
           isRequired: false
           width: full
-        - type: CheckboxFormControl
-          name: Consent
-          label: I agree to be contacted via email and phone
-          isRequired: false
-          width: full
         - type: TextFormControl
           name: Phone
           label: Phone
           hideLabel: true
           placeholder: Phone
           isRequired: true
+          width: full
+        - type: CheckboxFormControl
+          name: Consent
+          label: I agree to be contacted via email and phone
+          isRequired: false
           width: full
       submitButton:
         type: SubmitButtonFormControl
