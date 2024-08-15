@@ -84,7 +84,7 @@ sections:
             - Oregon
             - Pennsylvania
             - Rhode Island
-            - ''
+            - South Carolina
           isRequired: false
           width: full
       submitButton:
