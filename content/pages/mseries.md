@@ -596,8 +596,8 @@ sections:
       text: American Med Robotics
       color: text-dark
     subtitle: >-
-      Complete the form or call \n 678-608-8482 for more information. For
-      technical support, call 888-201-9522.
+      Complete the form or call 678-608-8482 for more information. For technical
+      support, call 888-201-9522.
     text: >
       At American Med Robotics, we revolutionize intralogistics in healthcare by
       providing a suite of advanced autonomous mobile robots. Our innovative
