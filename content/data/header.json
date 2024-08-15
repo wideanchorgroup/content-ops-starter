@@ -39,28 +39,28 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Products",
+            "altText": "Products",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "M-Series",
+                    "url": "/mseries",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "X-Series",
+                    "url": "/xseries",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Sanitize",
+                    "url": "/cleaner",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
