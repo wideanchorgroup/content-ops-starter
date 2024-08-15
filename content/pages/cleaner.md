@@ -26,7 +26,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/KEENON studio day 113880.png
           altText: Pricing plan 1
         actions:
           - type: Button
