@@ -28,7 +28,6 @@ export default function FormBlock(props) {
         setStatus('success');
         setError(null);
         alert("Thank you for your submission");
-        navigate("/thank-you/");
         })
         .catch((error) => {
             setStatus('error');
