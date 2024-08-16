@@ -21,7 +21,6 @@ export default function FormBlock(props) {
         const value = Object.fromEntries(data.entries());
         fetch("/", {
             method: "POST",
-            data-netlify="true",
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
             body: new URLSearchParams(value as any).toString()
         })
@@ -60,6 +59,8 @@ export default function FormBlock(props) {
             onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path= {fieldPath}
+            data-netlify="true"
+            data-netlify-honeypot="bot-field"
         >
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
