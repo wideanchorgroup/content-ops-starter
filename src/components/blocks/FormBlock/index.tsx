@@ -21,6 +21,7 @@ export default function FormBlock(props) {
         const value = Object.fromEntries(data.entries());
         fetch("/", {
             method: "POST",
+            data-netlify="true",
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
             body: new URLSearchParams(value as any).toString()
         })
