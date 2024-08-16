@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import classNames from 'classnames';
-import { useNavigate } from 'react-router-dom';
 
 import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
@@ -10,7 +9,6 @@ export default function FormBlock(props) {
     const formRef = React.createRef<HTMLFormElement>();
     const [status, setStatus] = useState<string | null>(null);
     const [error, setError] = useState<string | null>(null);
-    const navigate = useNavigate();
     const { fields = [], elementId, submitButton, className, styles = {}, 'data-sb-field-path': fieldPath } = props;
 
     if (fields.length === 0) {
@@ -28,7 +26,7 @@ export default function FormBlock(props) {
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
             body: new URLSearchParams(value as any).toString()
         })
-        .then(() => navigate("/thank-you/"))
+        .then(() => alert("Thank you for your submission"))
         .catch((error) => alert(error));
         } catch e) {
             setStatus('error');
