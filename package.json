@@ -20,8 +20,7 @@
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
         "swiper": "^11.1.4",
-        "tailwindcss": "^3.4.3",
-        "@netlify/plugin-nextjs": "^5.7.0"
+        "tailwindcss": "^3.4.3"
     },
     "devDependencies": {
         "@base2/pretty-print-object": "^1.0.2",
@@ -32,7 +31,8 @@
         "@types/react-dom": "^18.3.0",
         "autoprefixer": "^10.4.19",
         "prettier": "^3.3.2",
-        "typescript": "^5.5.2"
+        "typescript": "^5.5.2",
+        "@netlify/plugin-nextjs": "^5.7.0"
     },
     "main": "next.config.js"
 }
