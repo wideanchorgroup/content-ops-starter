@@ -1,4 +1,5 @@
 [build]
+  command = "npm install -D @netlify/plugin-forms"
   command = "npm run build"
   publish = ".next"
   functions = ".netlify/functions"
