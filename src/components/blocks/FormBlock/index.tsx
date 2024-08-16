@@ -15,26 +15,22 @@ export default function FormBlock(props) {
 
     function handleSubmit(event) {
         event.preventDefault();
-
-        const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
+        try {
+            const data = new FormData(formRef.current);
+            const value = Object.fromEntries(data.entries());
+            //alert(`Form data: ${JSON.stringify(value)}`);
+            fetch("/", {
+            method: "POST",
+            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            body: new URLSearchParams(${JSON.stringify(value)})
+        })
+        .then(() => navigate("/thank-you/"))
+        .catch((error) => alert(error));
+        } catch e) {
+            setStatus('error');
+            setError(`${e}`);
+        }
     }
-    // function handleSubmit(event) {
-    //     event.preventDefault();
-
-    //     const data = new FormData(formRef.current);
-    //     const value = Object.fromEntries(data.entries());
-        
-    //     const formData = new FormData(value);
-    //       fetch("/", {
-    //         method: "POST",
-    //         headers: { "Content-Type": "application/x-www-form-urlencoded" },
-    //         body: new URLSearchParams(data as any).toString(), // Casting to `any` for compatibility
-    //     })
-    //     .then(() => navigate("/thank-you/"))
-    //     .catch((error) => alert(error));
-    // }
 
     return (
         <form
