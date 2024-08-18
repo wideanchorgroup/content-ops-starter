@@ -10,6 +10,7 @@ export default function SubmitButtonFormControl(props) {
     const annotations = fieldPath ? { 'data-sb-field-path': [fieldPath, `${fieldPath}.elementId#@id`].join(' ').trim() } : {};
 
     return (
+        <div data-netlify-recaptcha="true"></div>
         <button
             type="submit"
             id={elementId}
