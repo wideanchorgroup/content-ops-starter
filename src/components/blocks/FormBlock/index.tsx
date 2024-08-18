@@ -46,7 +46,6 @@ export default function FormBlock(props) {
             .then(() => console.log("Success!"))
             .catch(error => console.log(error));
 
-        event.preventDefault();
         setSubmitted(true);
     }
 
@@ -71,6 +70,7 @@ export default function FormBlock(props) {
                 )}
                 name={elementId}
                 id={elementId}
+                method="POST"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={handleSubmit}
@@ -112,9 +112,10 @@ export default function FormBlock(props) {
     else {
         return (
             <div>
-                <p>Thanks for submitting! We will reach out ASAP!</p>
+                <p>Thanks for submitting! We will you ASAP!</p>
 
             </div>
         );
     }
+
 }
