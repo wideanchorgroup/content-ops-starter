@@ -71,6 +71,7 @@ export default function FormBlock(props) {
                 name={elementId}
                 id={elementId}
                 method="POST"
+                action="https://americanmedrobotics.com"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={handleSubmit}
