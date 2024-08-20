@@ -288,25 +288,6 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-  - type: GenericSection
     title:
       type: TitleBlock
       text: Heavy duty
