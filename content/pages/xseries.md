@@ -200,18 +200,7 @@ sections:
       - type: FeaturedItem
         title: Faux Fur Throw
         subtitle: $ 88 – $ 176
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
-
+        text: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
