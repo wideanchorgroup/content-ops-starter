@@ -316,7 +316,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/AMR-M104.jpg
+          url: /images/x201-deck.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
