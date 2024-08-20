@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Contact",
-            "url": "/pricing",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
