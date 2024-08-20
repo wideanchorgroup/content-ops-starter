@@ -284,7 +284,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/m104-info.png
+          url: /images/x201Info.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
