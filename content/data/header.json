@@ -72,7 +72,7 @@
         },
         {
             "type": "Link",
-            "label": "Send",
+            "label": "Contact us",
             "altText": "Send",
             "url": "/Contact",
             "showIcon": true,
