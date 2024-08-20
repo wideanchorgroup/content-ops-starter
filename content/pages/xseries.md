@@ -200,12 +200,6 @@ sections:
       customization to meet a variety of transport needs, from medical supplies
       to medical devices
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
