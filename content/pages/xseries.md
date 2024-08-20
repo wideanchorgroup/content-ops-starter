@@ -249,7 +249,7 @@ sections:
       type: TitleBlock
       text: Heavy duty
       color: text-dark
-    subtitle: Delivery robot
+    subtitle: Dockable robot
     text: >
       This versatile robot can navigate complex routes with its stable chassis,
       overcoming obstacles with ease. Its modular design allows for
