@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: contact
+title: Contact
 sections:
   - type: GenericSection
     title:
