@@ -198,7 +198,7 @@ sections:
       This versatile robot can navigate complex routes with its stable chassis,
       overcoming obstacles with ease. Its modular design allows for
       customization to meet a variety of transport needs, from medical supplies
-      to logistics departments
+      to medical devices
     actions:
       - type: Button
         label: Get started
