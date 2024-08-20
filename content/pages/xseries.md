@@ -188,6 +188,62 @@ sections:
           - pl-20
           - pb-20
           - pr-20
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: X 201
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/x201.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -198,24 +254,11 @@ sections:
       This versatile robot can navigate complex routes with its stable chassis,
       overcoming obstacles with ease. Its modular design allows for
       customization to meet a variety of transport needs, from medical supplies
-      to logistics departments
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+      to medical devices
+    actions: []
     media:
       type: ImageBlock
-      url: /images/x201-base.png
+      url: /images/x201-equipment.png
       altText: Dope design preview
     badge:
       type: Badge
@@ -226,6 +269,78 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/x201Info.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/x201-deck.jpg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+    actions: []
+    elementId: ''
+    variant: big-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
