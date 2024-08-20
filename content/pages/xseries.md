@@ -203,7 +203,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/x201.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
