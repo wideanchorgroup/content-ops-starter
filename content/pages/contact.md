@@ -125,6 +125,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: contactform
       elementId: contact-form
       styles:
         self:
