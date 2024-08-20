@@ -177,6 +177,55 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Heavy duty
+      color: text-dark
+    subtitle: Delivery robot
+    text: >
+      This versatile robot can navigate complex routes with its stable chassis,
+      overcoming obstacles with ease. Its modular design allows for
+      customization to meet a variety of transport needs, from medical supplies
+      to logistics departments
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/x201-base.png
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: LIFT and SHIFT MODULAR
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
