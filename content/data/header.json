@@ -13,8 +13,8 @@
     },
     "primaryLinks": [
         {
-            "label": "Contact",
-            "url": "/contact",
+            "label": "Solutions",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
