@@ -219,7 +219,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: LIFT and SHIFT MODULAR
       color: text-primary
     colors: bg-light-fg-dark
     styles:
