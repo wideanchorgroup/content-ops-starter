@@ -202,7 +202,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/x201-base.png
+      url: /images/x201-equipment.png
       altText: Dope design preview
     badge:
       type: Badge
