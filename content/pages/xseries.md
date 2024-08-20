@@ -193,7 +193,7 @@ sections:
       type: TitleBlock
       text: Heavy duty
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Delivery robot
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
