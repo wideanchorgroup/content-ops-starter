@@ -69,6 +69,17 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "Link",
+            "label": "Send",
+            "altText": "Send",
+            "url": "/Contact",
+            "showIcon": true,
+            "icon": "send",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
