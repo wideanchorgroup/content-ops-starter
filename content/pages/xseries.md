@@ -199,14 +199,7 @@ sections:
       overcoming obstacles with ease. Its modular design allows for
       customization to meet a variety of transport needs, from medical supplies
       to medical devices
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/x201-base.png
