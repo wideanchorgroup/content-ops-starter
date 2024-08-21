@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Contact
+title: contact
 sections:
   - type: GenericSection
     title:
@@ -125,6 +125,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: contactform
       elementId: contact-form
       styles:
         self:

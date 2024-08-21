@@ -11,7 +11,6 @@ export function resolveStaticPaths({ pages, objects }) {
             const resolver = StaticPathsResolvers[objectType];
             return paths.concat(resolver(page, objects));
         }
-        console.log(JSON.stringify(pageUrlPath));
         return paths.concat(pageUrlPath);
     }, []);
 }

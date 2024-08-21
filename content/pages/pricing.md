@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Solutions
       color: text-dark
       styles:
         self:
@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: Developers
-        price: Free
+        price: Devices
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Professional
-        price: $99
+        price: Automation
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Enterprise
-        price: Custom
+        price: Inventory management
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
