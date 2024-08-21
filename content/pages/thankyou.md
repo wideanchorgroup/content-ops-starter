@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: 'Thank you, we will get back to you'
       color: text-dark
-    subtitle: We are waiting for you
+    subtitle: ''
     text: ''
     actions: []
     media:
