@@ -35,7 +35,7 @@ export default function FormBlock(props) {
         // alert(`Form data: ${JSON.stringify(value)}`);
 
         const form = event.target
-        fetch('/__forms.html', {
+        fetch('https://americanmedrobotics.com/__forms.html', {
             method: 'POST',
             headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
             body: encode({
