@@ -1,0 +1,159 @@
+---
+type: PageLayout
+title: thankyou
+sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: 'Thank you, we will get back to you'
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+        - type: TextFormControl
+          name: Company or Hospital
+          label: Company or Hospital name
+          hideLabel: true
+          placeholder: Company or Hospital Name
+          isRequired: true
+          width: full
+        - type: TextFormControl
+          name: Phone
+          label: Phone
+          hideLabel: true
+          placeholder: Phone
+          isRequired: true
+          width: full
+        - type: TextFormControl
+          name: City
+          label: City
+          hideLabel: true
+          placeholder: City
+          isRequired: true
+          width: full
+        - type: SelectFormControl
+          name: State
+          label: State
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - Alabama
+            - Alaska
+            - Arizona
+            - Arkansas
+            - California
+            - Colorado
+            - Connecticut
+            - Delaware
+            - District Of Columbia
+            - Florida
+            - Georgia
+            - Hawaii
+            - Idaho
+            - Illinois
+            - Indiana
+            - Iowa
+            - Kansas
+            - Kentucky
+            - Louisiana
+            - Maine
+            - Maryland
+            - Massachusetts
+            - Michigan
+            - Minnesota
+            - Mississippi
+            - Missouri
+            - Montana
+            - Nebraska
+            - Nevada
+            - New Hampshire
+            - New Jersey
+            - New Mexico
+            - New York
+            - North Carolina
+            - North Dakota
+            - Ohio
+            - Oklahoma
+            - Oregon
+            - Pennsylvania
+            - Rhode Island
+            - South Carolina
+            - South Dakota
+            - Tennessee
+            - Texas
+            - Utah
+            - Vermont
+            - Virginia
+            - Washington
+            - West Virginia
+            - Wisconsin
+            - Wyoming
+          isRequired: false
+          width: full
+        - type: TextareaFormControl
+          name: Message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: Consent
+          label: I agree to be contacted via email and phone
+          isRequired: false
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: contactsubmit
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      text:
+        textAlign: center
+slug: thankyou
+isDraft: false
+seo:
+  type: Seo
+  metaTitle: Landing Page
+  metaDescription: Write here your new page's description including most relevant keywords.
+  addTitleSuffix: true
+  socialImage: /images/main-hero.jpg
+  metaTags: []
+---
