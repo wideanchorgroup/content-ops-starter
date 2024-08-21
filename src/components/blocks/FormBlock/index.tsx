@@ -1,16 +1,9 @@
 import * as React from 'react';
 import classNames from 'classnames';
-import { useState } from 'react';
 
 import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import SubmitButtonFormControl from './SubmitButtonFormControl';
-
-function encode(data) {
-    return Object.keys(data)
-        .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
-        .join('&')
-}
 
 export default function FormBlock(props) {
     const formRef = React.createRef<HTMLFormElement>();
@@ -20,33 +13,12 @@ export default function FormBlock(props) {
         return null;
     }
 
-    const [submitted, setSubmitted] = useState(false);
-    const [state, setState] = useState({})
-
-    const handleChange = (event) => {
-        setState({ ...state, [event.target.name]: event.target.value })
-    }
-
-    function handleSubmit(event): void {
+    function handleSubmit(event) {
         event.preventDefault();
 
-        // const data = new FormData(formRef.current);
-        // const value = Object.fromEntries(data.entries());
-        // alert(`Form data: ${JSON.stringify(value)}`);
-
-        const form = event.target
-        fetch('/thankyou', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-            body: encode({
-                'form-name': form.getAttribute('name'),
-                ...state,
-            }),
-        })
-            .then(() => console.log("Success!"))
-            .catch(error => console.log(error));
-
-        setSubmitted(true);
+        const data = new FormData(formRef.current);
+        const value = Object.fromEntries(data.entries());
+        alert(`Form data: ${JSON.stringify(value)}`);
     }
 
     return (
@@ -69,21 +41,10 @@ export default function FormBlock(props) {
             )}
             name={elementId}
             id={elementId}
-            method="POST"
-            action="https://americanmedrobotics.com"
-            data-netlify="true"
-            data-netlify-honeypot="bot-field"
             onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path={fieldPath}
         >
-
-            <input type="hidden" name="form-name" value={elementId} />
-            <p hidden>
-                <label>
-                    Don’t fill this out: <input name="bot-field" onChange={handleChange} />
-                </label>
-            </p>
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
                 {...(fieldPath && { 'data-sb-field-path': '.fields' })}
