@@ -35,7 +35,7 @@ export default function FormBlock(props) {
         // alert(`Form data: ${JSON.stringify(value)}`);
 
         const form = event.target
-        fetch('https://americanmedrobotics.com/__forms.html', {
+        fetch('/thankyou', {
             method: 'POST',
             headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
             body: encode({
@@ -46,10 +46,8 @@ export default function FormBlock(props) {
             .then(() => console.log("Success!"))
             .catch(error => console.log(error));
 
-        setSubmitted(true);
     }
 
-    if (!submitted) {
         return (
             <form
                 className={classNames(
@@ -110,13 +108,4 @@ export default function FormBlock(props) {
             </form>
         );
     }
-    else {
-        return (
-            <div>
-                <p>Thanks for submitting! We will you ASAP!</p>
-
-            </div>
-        );
-    }
-
 }
