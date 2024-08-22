@@ -231,7 +231,7 @@ sections:
       - type: FeaturedItem
         title: Food Services
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Food and meal butler bots
         text: >
           Integrated to your food service cafeteria kitchens now you can deliver
           meals to your patients and return dirty trays on schedule on time
