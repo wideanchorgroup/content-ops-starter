@@ -306,8 +306,8 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Developers
-        price: Open Cabin Delivery
+        title: Open Cabin Delivery
+        price: ''
         details: ''
         description: >
           M104 robot features an open cabin design, perfectly suited for
@@ -330,8 +330,8 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: ''
-        price: Operates in Narrow spaces
+        title: Operates in Narrow spaces
+        price: ''
         details: ''
         description: >
           Equipped with advanced laser (SLAM) + vision + depth vision fusion
@@ -353,8 +353,8 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: ''
-        price: Infra Accessories
+        title: Infra Accessories
+        price: ''
         details: ''
         description: |
           Includes notification bells, mobile bluetooth, automated door sensors
@@ -364,7 +364,7 @@ sections:
           url: /images/accessories.png
           altText: Pricing plan 3
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
