@@ -60,7 +60,6 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
-author: content/data/person2.json
 ---
 In the ever-evolving landscape of healthcare, robots are becoming essential tools for improving hospital operations. From streamlining logistics to enhancing patient care, robots are reshaping the way hospitals function. This blog explores the various ways in which robots are assisting hospital facilities and the profound impact they are having on healthcare.
 
