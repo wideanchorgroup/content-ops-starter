@@ -20,7 +20,7 @@ sections:
         features:
           - Placement
           - Access routes
-          - Feature three
+          - Integrated devices
           - Feature four
         image:
           url: /images/abstract-feature1.svg
