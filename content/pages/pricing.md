@@ -256,7 +256,7 @@ sections:
       - type: FeaturedItem
         title: Deliver Utilities
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Move large and small items
         text: >
           Deliver tools, supplies and materials anywhere needed within the
           hospital infrastructure
