@@ -1,20 +1,7 @@
 {
     "type": "Person",
-    "name": "Bedding and linen",
-    "role": "On demand bedding",
-    "image": {
-        "url": "/images/bed.png",
-        "altText": "Drake Garza",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
+    "name": "Aaron Smith",
+    "role": "Board Member",
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
@@ -33,5 +20,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Cost effective linen and laundry management with risk free and contamination free delivery robot to-and-from laundry supplier warehouse\n"
+    "bio": ""
 }
