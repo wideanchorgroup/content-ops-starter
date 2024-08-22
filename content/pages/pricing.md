@@ -48,9 +48,9 @@ sections:
       - title: Professional
         price: Material Handling
         details: Secure and Compliant
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Automated inventory control of your supply chain management to view
+          the point to point transport and delivery of the products.
         features:
           - Procurement
           - Delivery
