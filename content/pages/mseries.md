@@ -319,7 +319,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/M104-cabin.jpg
           altText: Pricing plan 1
         actions:
           - type: Button
