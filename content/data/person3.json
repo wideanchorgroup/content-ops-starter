@@ -1,20 +1,7 @@
 {
     "type": "Person",
-    "name": "Waste & Cleaning",
-    "role": "Safer and sterile",
-    "image": {
-        "url": "/images/recyle.png",
-        "altText": "Asher Schmitt",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
+    "name": "Kim Yo Jong",
+    "role": "Chief Technology Officer",
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
@@ -33,5 +20,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Automated load robot systems can deliver waste from point to point without any assistance\n"
+    "bio": ""
 }
