@@ -14,9 +14,11 @@ sections:
       - title: Developers
         price: Site layout planning
         details: Autonomous AI Navigation
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Designing the layout of the facility site to optimize the movement of
+          materials and equipment, including the placement of storage areas,
+          access routes, and temporary facilities. Capable of operating in
+          multi-floor buildings
         features:
           - Placement
           - Access routes
