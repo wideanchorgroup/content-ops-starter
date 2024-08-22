@@ -51,7 +51,7 @@ sections:
           accusantium doloremque.
         features:
           - Procurement
-          - Feature two
+          - Delivery
           - Feature three
           - Feature four
         image:
