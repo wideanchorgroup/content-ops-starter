@@ -1,5 +1,5 @@
 ---
-title: American Med Robotics joins the global robot platform 2022
+title: American Med Robotics partner Keenon joins the global robot platform 2022
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
