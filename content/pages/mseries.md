@@ -320,7 +320,7 @@ sections:
           url: /images/M104-cabin.jpg
           altText: Pricing plan 1
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
