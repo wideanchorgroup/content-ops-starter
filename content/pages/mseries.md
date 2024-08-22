@@ -314,8 +314,7 @@ sections:
           transporting a wide range of medical supplies. With thrree-sided
           pick-up capability, it ensures swift and efficient delivery while
           facilitating easy cleaning and disinfection.
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           url: /images/M104-cabin.jpg
