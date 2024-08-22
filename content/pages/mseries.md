@@ -306,30 +306,6 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Open Cabin Delivery
-        price: ''
-        details: ''
-        description: >
-          M104 robot features an open cabin design, perfectly suited for
-          transporting a wide range of medical supplies. With thrree-sided
-          pick-up capability, it ensures swift and efficient delivery while
-          facilitating easy cleaning and disinfection.
-        features: []
-        image:
-          type: ImageBlock
-          url: /images/M104-cabin.jpg
-          altText: Pricing plan 1
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
         title: Operates in Narrow spaces
         price: ''
         details: ''
