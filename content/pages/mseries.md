@@ -363,13 +363,7 @@ sections:
           type: ImageBlock
           url: /images/accessories.png
           altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
