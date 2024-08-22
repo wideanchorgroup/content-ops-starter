@@ -1,20 +1,7 @@
 {
     "type": "Person",
     "name": "Rhonda Piper",
-    "role": "Job title",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
-        "altText": "First Last",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        }
-    },
+    "role": "Board Advisor",
     "colors": "bg-light-fg-dark",
     "styles": {
         "self": {
