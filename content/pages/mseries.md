@@ -306,7 +306,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Developers
+        title: ''
         price: Open Cabin Delivery
         details: ''
         description: >
