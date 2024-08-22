@@ -371,7 +371,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Enterprise
-        price: Custom
+        price: Infra Accessories
         details: ''
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
