@@ -152,7 +152,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Bedding and linen
-        tagline: This is the tagline
+        tagline: On demand bedding
         subtitle: This is the item subtitle
         text: >
           Cost effective linen and laundry management with risk free and
