@@ -745,7 +745,7 @@ sections:
           - Move material containers
           - Move large bins
           - Move medical equipment
-          - Feature four
+          - Multi facility use
           - Feature five
         image:
           type: ImageBlock
