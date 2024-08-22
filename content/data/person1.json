@@ -1,19 +1,6 @@
 {
-    "name": "Labs",
-    "role": "Cost efficient and secure",
-    "image": {
-        "url": "/images/labs2.png",
-        "altText": "Rhonda Piper",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
+    "name": "John Smith",
+    "role": "VP Operations",
     "colors": "bg-light-fg-dark",
     "styles": {
         "self": {
@@ -32,5 +19,5 @@
         }
     },
     "type": "Person",
-    "bio": "Traditional hospital use expensive pneumatic tubes to transports specimens, you can now replace it with flexible M series robots\n"
+    "bio": ""
 }
