@@ -101,9 +101,7 @@ The X101 robot of Qinglang Medical is equipped with an intelligent RFID (radio f
 
 Li Tong, founder and CEO of Shanghai Qinglang Intelligent Technology Co., Ltd., has been engaged in robot manufacturing for more than ten years. He majored in electrical engineering and automation at Huazhong University of Science and Technology, and studied under Professor Cheng Shijie, an academician of the Chinese Academy of Sciences and an artificial intelligence expert, and worked on AI algorithms. He was the captain of the robot team of Qiming College's Science and Technology Innovation Base, and became the only student in the school to be awarded the title of "Science and Technology Innovation Model" for two consecutive years. He worked in the Incubation Team of Microsoft Asia Engineering Academy, and participated in the development of Robotic Studio software for Microsoft's robot operating system project. He won the top five in the world of Microsoft Embedded Challenge and the first prize of the National Challenge Cup. He was the R\&D manager of Shanghai Guangmaoda Partner Robot Co., Ltd., directly leading the development of robot systems such as AS-MF09 and AS-EI, and the educational robots he developed have sold nearly 5,000 units.
 
-
-
-![](https://preview--americanmedrobotics-8421c.stackbit.dev/images/img-placeholder.svg)
+![](/images/fair.png)
 
 Li Tong founded Shanghai Qinglang Intelligent Technology Co., Ltd. in 2010, focusing on the service robot industry; he was listed in the 2020 "China's 40 Business Elites Under 40" by FORTUNE, one of the most influential business magazines in the world, and was awarded the 2017NB "Business Influence Newcomer" and the 2019 Capek "Outstanding Entrepreneur Award"; he was listed in 36Kr's "36 Great Entrepreneurs Under 36".
 
