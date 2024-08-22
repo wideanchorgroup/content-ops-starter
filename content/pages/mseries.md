@@ -308,7 +308,7 @@ sections:
       - type: PricingPlan
         title: Developers
         price: Open Cabin Delivery
-        details: No credit card required
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
