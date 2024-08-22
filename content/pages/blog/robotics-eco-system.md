@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Robotics integrated eco-system in hospitals
-slug: what-is-a-design-system
+slug: Robotics eco-system
 date: '2023-09-24'
 excerpt: >-
   As technology continues to advance, the role of robots in hospitals is likely
