@@ -9,7 +9,7 @@ excerpt: >-
   Are you ready to transform your healthcare warehouse  monitoring into a model
   of data security and operational excellence? Reach out to us!
 featuredImage:
-  url: /images/robots-puzzle.jpg
+  url: /images/monitoring.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
