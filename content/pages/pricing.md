@@ -80,9 +80,9 @@ sections:
       - title: Enterprise
         price: Monitoring and Control
         details: Cloud based SaaS platform
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Our SaaS platform checks the healths of the devices and also stores
+          the logs of the tasks
         features:
           - Centralized movement control
           - Alerts and Notifications
