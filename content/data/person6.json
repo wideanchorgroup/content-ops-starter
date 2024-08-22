@@ -1,20 +1,7 @@
 {
     "type": "Person",
-    "name": "Supplies",
-    "role": "Facilities management",
-    "image": {
-        "url": "/images/supplies.png",
-        "altText": "Harrison Tally",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
+    "name": "Rama Baswa",
+    "role": "Author",
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
