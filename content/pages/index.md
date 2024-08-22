@@ -574,7 +574,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
+        title: LIFT AND SHIFT
         price: X 202
         details: DOCKER BOTS
         description: >-
