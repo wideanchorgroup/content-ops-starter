@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Food services",
-    "role": "Food and meal butler bots",
+    "name": "Selena Hernandez",
+    "role": "VP of Sales",
     "image": {
         "url": "/images/food2.png",
         "altText": "Nina Mercado",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Integrated to your food service cafeteria kitchens now you can deliver meals to your patients and return dirty trays on schedule on time\n"
+    "bio": ""
 }
