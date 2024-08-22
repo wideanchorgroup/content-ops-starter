@@ -85,7 +85,6 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
-author: content/data/rhonda.json
 ---
 The COVID-19 pandemic drastically altered the landscape of healthcare in the United States, pushing hospitals to adapt quickly to an unprecedented crisis. The Centers for Disease Control and Prevention (CDC) played a critical role in guiding these adaptations, offering measures that were essential in managing and controlling the virus's spread. From enforcing social distancing guidelines to recommending personal protective equipment (PPE) usage, the CDC’s measures were pivotal in shaping hospital operations during the pandemic.
 
