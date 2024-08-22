@@ -588,7 +588,7 @@ sections:
           - Feature five
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/x201.jpg
           altText: Pricing plan 3
         actions:
           - type: Button
