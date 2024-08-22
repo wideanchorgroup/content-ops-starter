@@ -180,7 +180,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Pharmacy
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Manage, govern and monitor the medication delivery throughout the
