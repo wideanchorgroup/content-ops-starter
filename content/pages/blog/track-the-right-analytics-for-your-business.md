@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: Track the right analytics for your business
+title: >-
+  Enhancing Data Security in Healthcare Fulfillment Centers: The Role of
+  Robotics and Automation
 slug: track-the-right-analytics-for-your-business
 date: '2023-02-20'
 excerpt: >-
