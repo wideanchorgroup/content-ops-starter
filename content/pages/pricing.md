@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: Developers
-        price: Secure
+        price: Secure site layout planning
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
