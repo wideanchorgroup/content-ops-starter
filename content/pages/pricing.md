@@ -45,7 +45,7 @@ sections:
         type: PricingPlan
       - title: Professional
         price: Material Handling
-        details: per month
+        details: Secure and Compliant
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
