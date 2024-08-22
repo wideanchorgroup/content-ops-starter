@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: What is a Design System
+title: Robotics integrated eco-system in hospitals
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
