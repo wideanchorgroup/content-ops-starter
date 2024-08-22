@@ -48,7 +48,7 @@ bottomSections: []
 isFeatured: true
 isDraft: false
 seo:
-  metaTitle: How to Write a Blog Post That Will Get You More Traffic
+  metaTitle: Revolutionizing Hospital Kitchens and Cafeterias
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature2.svg
   type: Seo
