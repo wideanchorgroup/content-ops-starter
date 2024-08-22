@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Enterprise
-        price: Inventory
+        price: Monitoring and Control
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
