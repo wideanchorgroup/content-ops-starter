@@ -181,7 +181,7 @@ sections:
       - type: FeaturedItem
         title: Pharmacy
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Medicines on-demand
         text: >
           Manage, govern and monitor the medication delivery throughout the
           hospital units
