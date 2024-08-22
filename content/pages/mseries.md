@@ -354,7 +354,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Infra Accessories
+        price: ''
         details: ''
         description: |
           Includes notification bells, mobile bluetooth, automated door sensors
