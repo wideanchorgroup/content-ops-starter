@@ -58,6 +58,8 @@ bottomSections:
       - content/pages/blog/case-study-3.md
       - content/pages/blog/global-root-platform.md
       - content/pages/blog/robotics-eco-system.md
+      - >-
+        content/pages/blog/monitoring-and-data-security-for-your-warehouse-needs.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
