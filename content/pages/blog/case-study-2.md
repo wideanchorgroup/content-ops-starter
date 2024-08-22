@@ -87,17 +87,24 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+Features:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Relying on the global robot data platform of Qinglang, Qinglang has laid a solid foundation for the flexible obstacle avoidance and stable operation performance of medical delivery robots through continuous optimization and upgrading of algorithms. With its leading cognitive, decision-making and execution capabilities, the X101 medical delivery robot has won the industry's first comprehensive intelligence level L3 certification. In terms of hardware, the X101 delivery robot uses a wrap-around layout of dual laser radars and "front 3 + rear 1" stereo vision modules to achieve 360° no-dead-angle perception and recognition of the surrounding environment in low-light or strong light source scenes such as hospital reflections, dark light, and night, and flexibly avoid obstacles to "clear" obstacles on the road of material transportation.
 
-![](/images/img-placeholder.svg)
+**Reasons for participation:**
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+The X101 robot of Qinglang Medical is equipped with an intelligent RFID (radio frequency identification) reader. After the materials with RFID tags are loaded into the box, it can automatically identify the destination without manual input and automatically optimize the route, which is convenient and fast. Medical staff can view and trace the location and status of medical supplies in real time through the background, so that all transported items can be "traceable", meeting the hospital's needs for information control and real-time viewing of medical supplies.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Award 2: Veken Cup OFweek 2024 Artificial Intelligence Industry Outstanding AI Leader Award**
 
-> Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices.
->
-> _By Gordon Red - Director of IT_
+**Contribution introduction:**
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Li Tong, founder and CEO of Shanghai Qinglang Intelligent Technology Co., Ltd., has been engaged in robot manufacturing for more than ten years. He majored in electrical engineering and automation at Huazhong University of Science and Technology, and studied under Professor Cheng Shijie, an academician of the Chinese Academy of Sciences and an artificial intelligence expert, and worked on AI algorithms. He was the captain of the robot team of Qiming College's Science and Technology Innovation Base, and became the only student in the school to be awarded the title of "Science and Technology Innovation Model" for two consecutive years. He worked in the Incubation Team of Microsoft Asia Engineering Academy, and participated in the development of Robotic Studio software for Microsoft's robot operating system project. He won the top five in the world of Microsoft Embedded Challenge and the first prize of the National Challenge Cup. He was the R\&D manager of Shanghai Guangmaoda Partner Robot Co., Ltd., directly leading the development of robot systems such as AS-MF09 and AS-EI, and the educational robots he developed have sold nearly 5,000 units.
+
+
+
+![](https://preview--americanmedrobotics-8421c.stackbit.dev/images/img-placeholder.svg)
+
+Li Tong founded Shanghai Qinglang Intelligent Technology Co., Ltd. in 2010, focusing on the service robot industry; he was listed in the 2020 "China's 40 Business Elites Under 40" by FORTUNE, one of the most influential business magazines in the world, and was awarded the 2017NB "Business Influence Newcomer" and the 2019 Capek "Outstanding Entrepreneur Award"; he was listed in 36Kr's "36 Great Entrepreneurs Under 36".
+
+Li Tong has 103 patent applications and 56 invention patents under his name.
