@@ -53,7 +53,7 @@ sections:
           - Procurement
           - Delivery
           - Storage
-          - Feature four
+          - Distribution
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
