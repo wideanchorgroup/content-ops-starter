@@ -21,7 +21,6 @@ styles:
   self:
     flexDirection: row
 type: PostLayout
-author: content/data/person1.json
 ---
 The integration of robotics into hospitals and restaurants represents a significant leap in technological innovation, offering various benefits like increased efficiency, enhanced hygiene, and reduced workload for human workers. However, the journey to successful implementation has not been without its challenges. In this blog, we will delve into the lessons learned from the introduction of robots in these settings, exploring the problems encountered and the strategies for overcoming them.
 
