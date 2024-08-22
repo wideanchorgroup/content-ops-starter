@@ -2,19 +2,6 @@
     "type": "Person",
     "name": "Grace Clemente",
     "role": "Sr Director Human Resources",
-    "image": {
-        "url": "/images/pharmacy2.png",
-        "altText": "Faizah Chan",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
