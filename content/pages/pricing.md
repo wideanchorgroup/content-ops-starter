@@ -52,7 +52,7 @@ sections:
         features:
           - Procurement
           - Delivery
-          - Feature three
+          - Storage
           - Feature four
         image:
           url: /images/abstract-feature2.svg
