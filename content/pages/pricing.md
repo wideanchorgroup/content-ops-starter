@@ -138,6 +138,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/labs2.png
         actions: []
         colors: bg-light-fg-dark
         styles:
