@@ -2,7 +2,7 @@
 type: PostLayout
 title: Robotics integrated eco-system in hospitals
 slug: what-is-a-design-system
-date: '2023-02-14'
+date: ''
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
