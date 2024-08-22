@@ -12,8 +12,7 @@ topSections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/track-the-right-metrics-for-your-business.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
