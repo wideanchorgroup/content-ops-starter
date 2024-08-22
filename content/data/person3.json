@@ -2,19 +2,6 @@
     "type": "Person",
     "name": "Kim Yo Jong",
     "role": "Chief Technology Officer",
-    "image": {
-        "url": "/images/recyle.png",
-        "altText": "Asher Schmitt",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
