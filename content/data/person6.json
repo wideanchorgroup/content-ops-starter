@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Rama Baswa",
-    "role": "Author",
+    "name": "Samer Mustafic",
+    "role": "Chief Engineer",
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
@@ -20,5 +20,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Deliver or return supplies, tools, equipment or devices anywhere needed\n"
+    "bio": ""
 }
