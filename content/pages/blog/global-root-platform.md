@@ -1,6 +1,6 @@
 ---
 title: American Med Robotics' partner Keenon joins the global robot platform 2024
-slug: case-study-2
+slug: Global root platform
 date: '2024-06-16'
 excerpt: >-
   The OFweek 2024 (9th) Artificial Intelligence Industry Annual Awards (OFweek
