@@ -3,12 +3,11 @@ title: Medical Robots can overwork
 slug: case-study-1
 date: '2023-12-16'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  The introduction of robots in hospitals and restaurants is undoubtedly a step
+  forward in technology and innovation, offering numerous benefits that can
+  transform these industries. 
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/handshake.jpeg
   altText: Case study 1
   styles:
     self:

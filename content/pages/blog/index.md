@@ -38,7 +38,38 @@ seo:
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
-bottomSections: []
+bottomSections:
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Featured posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - content/pages/blog/case-study-1.md
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/case-study-3.md
+      - content/pages/blog/global-root-platform.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: shadow
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
 postFeed:
   type: PagedPostsSection
   title: null
