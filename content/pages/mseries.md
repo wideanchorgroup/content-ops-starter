@@ -315,7 +315,6 @@ sections:
           pick-up capability, it ensures swift and efficient delivery while
           facilitating easy cleaning and disinfection.
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
