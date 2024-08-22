@@ -4,7 +4,7 @@ slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: How AmericanMedRobotics helps through different challenges in Robot adoption
 featuredImage:
-  url: /images/HealthcareBenfits.png
+  url: /images/robots-puzzle.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
