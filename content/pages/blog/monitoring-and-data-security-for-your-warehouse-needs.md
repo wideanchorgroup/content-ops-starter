@@ -3,7 +3,7 @@ type: PostLayout
 title: >-
   Enhancing Data Security in Healthcare Fulfillment Centers: The Role of
   Robotics and Automation
-slug: track-the-right-analytics-for-your-business
+slug: Monitoring and Data-Security for your warehouse needs
 date: '2024-05-20'
 excerpt: >-
   Are you ready to transform your healthcare warehouse  monitoring into a model
