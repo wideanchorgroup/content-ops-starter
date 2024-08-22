@@ -257,8 +257,9 @@ sections:
         title: r
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Deliver tools, supplies and materials anywhere needed within the
+          hospital infrastructure
         image:
           type: ImageBlock
           url: /images/supplies.png
