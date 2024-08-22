@@ -19,7 +19,7 @@ sections:
           accusantium doloremque.
         features:
           - Placement
-          - Feature two
+          - Access routes
           - Feature three
           - Feature four
         image:
