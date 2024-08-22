@@ -6,9 +6,8 @@ title: >-
 slug: track-the-right-analytics-for-your-business
 date: '2024-05-20'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Are you ready to transform your healthcare warehouse  monitoring into a model
+  of data security and operational excellence? Reach out to us!
 featuredImage:
   url: /images/robots-puzzle.jpg
   altText: Thumbnail
