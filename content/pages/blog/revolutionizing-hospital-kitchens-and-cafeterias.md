@@ -1,6 +1,6 @@
 ---
 title: Food Delivery Robot automation helps hospitals across the country
-slug: five-tips-for-starting-a-startup
+slug: Revolutionizing Hospital Kitchens and Cafeterias
 date: '2023-03-18'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
