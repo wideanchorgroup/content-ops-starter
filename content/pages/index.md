@@ -502,7 +502,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Utility robots
+      text: MORE
       color: text-dark
       styles:
         self:
