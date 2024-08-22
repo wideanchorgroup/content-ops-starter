@@ -304,28 +304,7 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    plans:
-      - type: PricingPlan
-        title: Infra Accessories
-        price: ''
-        details: ''
-        description: |
-          Includes notification bells, mobile bluetooth, automated door sensors
-        features: []
-        image:
-          type: ImageBlock
-          url: /images/accessories.png
-          altText: Pricing plan 3
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
+    plans: []
     colors: bg-light-fg-dark
     styles:
       self:
