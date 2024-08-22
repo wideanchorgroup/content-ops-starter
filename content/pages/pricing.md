@@ -212,7 +212,7 @@ sections:
           without any assistance
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/recyle.png
           altText: Placeholder text
           styles:
             self:
