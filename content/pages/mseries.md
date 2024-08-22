@@ -373,9 +373,11 @@ sections:
         title: ''
         price: Infra Accessories
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          M104 robot features an open cabin design, perfectly suited for
+          transporting a wide range of medical supplies. With thrree-sided
+          pick-up capability, it ensures swift and efficient delivery while
+          facilitating easy cleaning and disinfection.
         features:
           - Feature one
           - Feature two
