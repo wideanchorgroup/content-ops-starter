@@ -86,7 +86,7 @@ sections:
           - Alerts and Notifications
           - Access logs
           - Customized dashboards and metrics
-          - Feature five
+          - 99.3% Service accuracy
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
