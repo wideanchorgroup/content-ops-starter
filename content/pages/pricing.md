@@ -83,7 +83,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Centralized movement control
-          - Feature two
+          - Alert
           - Feature three
           - Feature four
           - Feature five
