@@ -474,6 +474,31 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: S-Series
+      color: text-dark
+    subtitle: Supply chain robot
+    text: >
+      Heavy load industrial courier robots helps carrying over 250 lbs of loads,
+      facilitating the movement of bulky goods across your warehouse. With a
+      battery swap capability you can ensure around the clock delivery
+    actions:
+      - type: Button
+        label: Learn more
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/S100-EN-Left with Shelf.png
+      altText: Fun feature preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - type: CarouselSection
     title: null
     subtitle: Why choose us?
@@ -663,31 +688,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: S-Series
-      color: text-dark
-    subtitle: Supply chain robot
-    text: >
-      Heavy load industrial courier robots helps carrying over 250 lbs of loads,
-      facilitating the movement of bulky goods across your warehouse. With a
-      battery swap capability you can ensure around the clock delivery
-    actions:
-      - type: Button
-        label: Learn more
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/S100-EN-Left with Shelf.png
-      altText: Fun feature preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - type: PricingSection
     title:
       type: TitleBlock
