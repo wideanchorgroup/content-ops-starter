@@ -575,7 +575,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: LIFT AND SHIFT
-        price: X 202
+        price: X 201
         details: DOCKER BOTS
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
