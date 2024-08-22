@@ -341,9 +341,10 @@ sections:
         title: ''
         price: Operates in Narrow spaces
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Equipped with advanced laser (SLAM) + vision + depth vision fusion
+          positioning technology, M104 robot confidently navigates through tight
+          areas with high precision.
         features:
           - Feature one
           - Feature two
