@@ -86,6 +86,7 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+author: content/data/ram.json
 ---
 > In early 2023, Hopewell General Hospital, a leading medical facility located in Springfield, faced several challenges that affected its operational efficiency and cost-effectiveness. The hospital, renowned for its commitment to patient care, struggled with high operational costs, frequent maintenance issues, and the need for increased staff training as it explored automation to streamline its processes. Recognizing the potential for robotics to address these issues, Hopewell General Hospital partnered with AmericanMedRobotics, a leader in cutting-edge robotics technology, to explore solutions.
 >
