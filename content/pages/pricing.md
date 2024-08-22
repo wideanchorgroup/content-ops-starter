@@ -125,7 +125,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Labs
