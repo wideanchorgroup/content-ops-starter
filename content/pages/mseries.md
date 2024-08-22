@@ -298,208 +298,84 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: This is the subtitle for the pricing section
-    plans:
-      - type: PricingPlan
-        title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
       text: Features
       color: text-dark
       styles:
         self:
           textAlign: center
-    items:
-      - type: FeaturedItem
-        title: Operates in Narrow spaces
-        subtitle: $ 88 – $ 176
-        text: >
-          Equipped with advanced laser (SLAM) + vision + depth vision fusion
-          positioning technology, M104 robot confidently navigates through tight
-          areas with high precision.
-        image:
-          type: ImageBlock
-          url: /images/M104-spaces.jpg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-              padding:
-                - pt-0
-                - pl-0
-                - pb-0
-                - pr-0
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderWidth: 2
-            borderRadius: x-small
-            flexDirection: row-reverse
-            justifyContent: center
-            borderStyle: dotted
-      - type: FeaturedItem
-        title: Accessories
-        subtitle: 'Includes notification bells, mobile bluetooth, automated door sensors'
-        image:
-          type: ImageBlock
-          url: /images/accessories.png
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
-      - type: FeaturedItem
-        title: Open Cabin Delivery
-        subtitle: >-
+    subtitle: ''
+    plans:
+      - type: PricingPlan
+        title: Developers
+        price: Open Cabin Delivery
+        details: ''
+        description: >
           M104 robot features an open cabin design, perfectly suited for
           transporting a wide range of medical supplies. With thrree-sided
           pick-up capability, it ensures swift and efficient delivery while
           facilitating easy cleaning and disinfection.
+        features: []
         image:
           type: ImageBlock
           url: /images/M104-cabin.jpg
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
+          altText: Pricing plan 1
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
-            flexDirection: row
-    actions: []
-    elementId: ''
-    variant: small-list
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: ''
+        price: Operates in Narrow spaces
+        details: ''
+        description: >
+          Equipped with advanced laser (SLAM) + vision + depth vision fusion
+          positioning technology, M104 robot confidently navigates through tight
+          areas with high precision.
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/M104-spaces.jpg
+          altText: Pricing plan 2
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: ''
+        price: Infra Accessories
+        details: ''
+        description: |
+          Includes notification bells, mobile bluetooth, automated door sensors
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/accessories.png
+          altText: Pricing plan 3
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
