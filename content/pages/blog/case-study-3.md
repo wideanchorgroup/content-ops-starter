@@ -10,7 +10,7 @@ excerpt: >-
   transition, addressing initial challenges and optimizing the use of
   technology.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/HealthcareBenfits.png
   altText: Case study 3
   styles:
     self:
