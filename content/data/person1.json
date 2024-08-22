@@ -1,19 +1,6 @@
 {
     "name": "John Smith",
     "role": "VP Operations",
-    "image": {
-        "url": "/images/labs2.png",
-        "altText": "Rhonda Piper",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "styles": {
         "self": {
