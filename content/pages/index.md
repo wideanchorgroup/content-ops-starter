@@ -746,7 +746,6 @@ sections:
           - Move large bins
           - Move medical equipment
           - Multi facility use
-          - Feature five
         image:
           type: ImageBlock
           url: /images/x201.jpg
