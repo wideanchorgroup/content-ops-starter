@@ -364,7 +364,7 @@ sections:
           url: /images/accessories.png
           altText: Pricing plan 3
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
