@@ -743,7 +743,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Move material containers
-          - Feature two
+          - Move large bins
           - Feature three
           - Feature four
           - Feature five
