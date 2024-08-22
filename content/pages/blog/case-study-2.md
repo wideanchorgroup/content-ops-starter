@@ -3,13 +3,15 @@ title: American Med Robotics' partner Keenon joins the global robot platform 202
 slug: case-study-2
 date: '2024-06-16'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  The OFweek 2024 (9th) Artificial Intelligence Industry Annual Awards (OFweek
+  9th AI Awards 2024) has been held by the high-tech industry portal for more
+  than ten years. As a core selection event in the high-tech industry, this
+  selection is a major brand event in the artificial intelligence industry and
+  one of the most professional and influential selections in the high-tech
+  industry.
 featuredImage:
-  url: /images/img-placeholder.svg
-  altText: Case study 2
+  url: /images/medicallabs.png
+  altText: AI Industry annual selection
   styles:
     self:
       borderRadius: x-large
