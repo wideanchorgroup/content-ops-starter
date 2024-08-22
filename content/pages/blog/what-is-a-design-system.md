@@ -9,7 +9,7 @@ excerpt: >-
   capable of handling increasingly complex tasks, ultimately leading to a more
   efficient, safe, and patient-centered healthcare system.
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/Digital_Ecosystem_32dd0e9f46.png
   altText: Thumbnail
   type: ImageBlock
   styles:
