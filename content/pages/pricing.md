@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Solutions
+      text: Health Care
       color: text-dark
       styles:
         self:
