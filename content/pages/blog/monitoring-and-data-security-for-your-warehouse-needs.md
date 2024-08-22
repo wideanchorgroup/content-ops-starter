@@ -60,7 +60,6 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row-reverse
-author: content/data/person5.json
 ---
 In today's healthcare landscape, data security is paramount, particularly within healthcare fulfillment centers. The stakes are high, as evidenced by the Department of Health and Human Services Office for Civil Rights (OCR) report last year, which documented 26 data breaches impacting over 1 million records each, and four breaches exceeding 8 million records. The most significant breach affected over 11 million individuals, marking the second-largest healthcare data breach in history. These numbers are more than just statistics; they serve as a critical reminder of the importance of safeguarding sensitive patient information. Ensuring data security is not only essential for maintaining trust but also for avoiding severe legal repercussions.
 
