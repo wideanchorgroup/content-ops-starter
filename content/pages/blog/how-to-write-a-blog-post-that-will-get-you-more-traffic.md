@@ -62,7 +62,7 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row
+    flexDirection: col
 ---
 Hospital kitchens and cafeterias are high-pressure environments where the efficiency, speed, and accuracy of food preparation and delivery are critical. The introduction of AmericanMedRobotics’ service robots into these environments has brought about a significant change. These robots are designed to handle repetitive and labor-intensive tasks, allowing human workers to focus on more complex and high-value activities.
 
