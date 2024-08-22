@@ -7,7 +7,7 @@ excerpt: >-
   forward in technology and innovation, offering numerous benefits that can
   transform these industries. 
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/handshake.jpeg
   altText: Case study 1
   styles:
     self:
