@@ -3,19 +3,6 @@
     "name": "Rama Baswa",
     "role": "Sr Sales Director",
     "bio": "",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
-        "altText": "First Last",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        }
-    },
     "colors": "bg-light-fg-dark",
     "styles": {
         "self": {
