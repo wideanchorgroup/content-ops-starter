@@ -4,29 +4,33 @@ slug: /blog
 numOfPostsPerPage: 12
 enableSearch: false
 topSections:
-  - title:
-      text: Featured Post
-      color: text-dark
+  - type: FeaturedPostsSection
+    title:
       type: TitleBlock
-    subtitle: ''
+      text: Featured posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
-    variant: big-list
+    actions: []
+    elementId: ''
+    variant: small-list
     colors: bg-light-fg-dark
+    hoverEffect: thin-underline
     styles:
       self:
         padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
 styles:
   title:
     textAlign: center
