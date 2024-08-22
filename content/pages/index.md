@@ -499,119 +499,6 @@ sections:
     styles:
       self:
         alignItems: center
-  - type: PricingSection
-    title:
-      type: TitleBlock
-      text: MORE
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Essential robots
-    plans:
-      - type: PricingPlan
-        title: Cleaning
-        price: C30
-        details: VACUUM | SWEEP | MOP
-        description: >
-          Multi function professional cleaning and user friendly cleaner robot
-          with 360 degree sensors provides an aesthetic look while providing
-          industrial grade clean floors
-        features:
-          - Plug and Play charging
-          - LiDAR Sensor
-          - Operation Screen
-        image:
-          type: ImageBlock
-          url: /images/C30-AMR.png
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Butler bot
-        price: W3
-        details: SMART CATERING
-        description: >
-          A cafeteria food management team's delight to transport food and
-          beverages from point to point
-        features:
-          - Large Capacity
-          - 'Dual stereo vision '
-          - Food & Beverage section
-          - Upto 12h battery
-        image:
-          type: ImageBlock
-          url: /images/5 AMR.png
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: LIFT AND SHIFT
-        price: X 201
-        details: DOCKER BOTS
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          type: ImageBlock
-          url: /images/x201.jpg
-          altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: CarouselSection
     title: null
     subtitle: Why choose us?
@@ -795,6 +682,119 @@ sections:
         type: FeaturedItem
     elementId: null
     variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: MORE
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Essential robots
+    plans:
+      - type: PricingPlan
+        title: Cleaning
+        price: C30
+        details: VACUUM | SWEEP | MOP
+        description: >
+          Multi function professional cleaning and user friendly cleaner robot
+          with 360 degree sensors provides an aesthetic look while providing
+          industrial grade clean floors
+        features:
+          - Plug and Play charging
+          - LiDAR Sensor
+          - Operation Screen
+        image:
+          type: ImageBlock
+          url: /images/C30-AMR.png
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Butler bot
+        price: W3
+        details: SMART CATERING
+        description: >
+          A cafeteria food management team's delight to transport food and
+          beverages from point to point
+        features:
+          - Large Capacity
+          - 'Dual stereo vision '
+          - Food & Beverage section
+          - Upto 12h battery
+        image:
+          type: ImageBlock
+          url: /images/5 AMR.png
+          altText: Pricing plan 2
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: LIFT AND SHIFT
+        price: X 201
+        details: DOCKER BOTS
+        description: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+          - Feature five
+        image:
+          type: ImageBlock
+          url: /images/x201.jpg
+          altText: Pricing plan 3
+        actions:
+          - type: Button
+            label: Contact us
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
