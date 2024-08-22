@@ -345,8 +345,7 @@ sections:
           Equipped with advanced laser (SLAM) + vision + depth vision fusion
           positioning technology, M104 robot confidently navigates through tight
           areas with high precision.
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           url: /images/M104-spaces.jpg
