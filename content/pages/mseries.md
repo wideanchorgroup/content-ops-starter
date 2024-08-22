@@ -338,7 +338,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: ''
         price: Operates in Narrow spaces
         details: per month
         description: >-
