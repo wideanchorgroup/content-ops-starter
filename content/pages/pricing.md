@@ -154,8 +154,10 @@ sections:
         title: Bedding and linen
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Cost effective linen and laundry management with risk free and
+          contamination free delivery robot to-and-from laundry supplier
+          warehouse
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
