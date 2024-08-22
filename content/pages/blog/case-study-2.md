@@ -10,7 +10,7 @@ excerpt: >-
   one of the most professional and influential selections in the high-tech
   industry.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/pharmacy.png
   altText: Case study 2
   styles:
     self:
