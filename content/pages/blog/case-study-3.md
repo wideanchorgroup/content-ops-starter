@@ -3,10 +3,12 @@ title: Transforming Healthcare Efficiency with AmericanMedRobotics
 slug: case-study-3
 date: '2023-11-18'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  The collaboration between Hopewell General Hospital and AmericanMedRobotics
+  resulted in a transformative impact on hospital operations. The integration of
+  robotics led to significant improvements in efficiency, cost savings, and
+  patient satisfaction. The phased approach to implementation ensured a smooth
+  transition, addressing initial challenges and optimizing the use of
+  technology.
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 3
