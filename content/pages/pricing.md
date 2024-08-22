@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Developers
         price: Site layout planning
-        details: No credit card required
+        details: Secure and Compliant
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
