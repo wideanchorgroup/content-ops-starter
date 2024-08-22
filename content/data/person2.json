@@ -1,20 +1,7 @@
 {
     "type": "Person",
-    "name": "Pharmacy",
-    "role": "Medicines and Drugs on demand",
-    "image": {
-        "url": "/images/pharmacy2.png",
-        "altText": "Faizah Chan",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
+    "name": "Grace Clemente",
+    "role": "Sr Director Human Resources",
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
@@ -33,5 +20,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Manage, govern and monitor the medication delivery throughout the hospital units\n"
+    "bio": ""
 }
