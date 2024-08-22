@@ -237,7 +237,7 @@ sections:
           meals to your patients and return dirty trays on schedule on time
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/food2.png
           altText: Placeholder text
           styles:
             self:
