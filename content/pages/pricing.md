@@ -84,7 +84,7 @@ sections:
         features:
           - Centralized movement control
           - Alerts and Notifications
-          - Feature three
+          - Access logs
           - Feature four
           - Feature five
         image:
