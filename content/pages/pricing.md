@@ -153,7 +153,7 @@ sections:
       - type: FeaturedItem
         title: Bedding and linen
         tagline: On demand bedding
-        subtitle: This is the item subtitle
+        subtitle: On demand bedding
         text: >
           Cost effective linen and laundry management with risk free and
           contamination free delivery robot to-and-from laundry supplier
