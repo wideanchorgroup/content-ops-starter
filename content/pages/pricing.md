@@ -207,8 +207,9 @@ sections:
         title: Waste and Cleaning
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Automated load robot systems can deliver waste from point to point
+          without any assistance
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
