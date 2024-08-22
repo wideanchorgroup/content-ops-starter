@@ -49,6 +49,8 @@ bottomSections:
           textAlign: center
     posts:
       - content/pages/blog/case-study-1.md
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
