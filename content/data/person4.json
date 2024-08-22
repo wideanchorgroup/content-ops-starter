@@ -2,19 +2,6 @@
     "type": "Person",
     "name": "Selena Hernandez",
     "role": "VP of Sales",
-    "image": {
-        "url": "/images/food2.png",
-        "altText": "Nina Mercado",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
