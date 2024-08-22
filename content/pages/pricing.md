@@ -232,8 +232,9 @@ sections:
         title: Food Services
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Integrated to your food service cafeteria kitchens now you can deliver
+          meals to your patients and return dirty trays on schedule on time
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
