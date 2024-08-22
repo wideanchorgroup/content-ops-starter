@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Developers
         price: Site layout planning
-        details: Secure and Compliant
+        details: Autonomous AI Navigation
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
