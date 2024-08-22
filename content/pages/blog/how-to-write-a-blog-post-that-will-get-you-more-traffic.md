@@ -3,7 +3,12 @@ type: PostLayout
 title: Revolutionizing Hospital Kitchens and Cafeterias
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
-excerpt: ''
+excerpt: >-
+  As service robots continue to evolve, their role in hospital kitchens,
+  cafeterias, and dietary departments will only expand, offering new ways to
+  improve the patient experience and operational efficiency. AmericanMedRobotics
+  is leading the way in this transformation, helping healthcare facilities to
+  meet the challenges of today while preparing for the demands of tomorrow.
 featuredImage:
   url: /images/food2.jpeg
   altText: Thumbnail
