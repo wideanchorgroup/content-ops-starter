@@ -151,7 +151,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Bedding
+        title: Bedding and linen
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
