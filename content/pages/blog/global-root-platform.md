@@ -10,7 +10,7 @@ excerpt: >-
   one of the most professional and influential selections in the high-tech
   industry.
 featuredImage:
-  url: /images/medicallabs.png
+  url: /images/keenon-logo-gray.webp
   altText: AI Industry annual selection
   styles:
     self:
