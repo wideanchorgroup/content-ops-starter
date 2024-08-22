@@ -346,7 +346,6 @@ sections:
           positioning technology, M104 robot confidently navigates through tight
           areas with high precision.
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
