@@ -183,7 +183,7 @@ sections:
     styles:
       self:
         alignItems: center
-slug: Contact
+slug: contact
 isDraft: false
 seo:
   type: Seo
