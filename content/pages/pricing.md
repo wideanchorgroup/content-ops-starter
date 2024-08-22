@@ -130,7 +130,7 @@ sections:
       - type: FeaturedItem
         title: Labs
         tagline: ''
-        subtitle: ''
+        subtitle: Cost efficient and secure
         text: ''
         image:
           type: ImageBlock
