@@ -14,7 +14,6 @@ topSections:
           textAlign: center
     posts:
       - content/pages/blog/track-the-right-metrics-for-your-business.md
-      - content/pages/blog/what-is-a-design-system.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
