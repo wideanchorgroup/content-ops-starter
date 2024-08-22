@@ -576,7 +576,7 @@ sections:
       - type: PricingPlan
         title: Enterprise
         price: X 202
-        details: per month
+        details: DOCKER BOTS
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
