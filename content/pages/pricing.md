@@ -134,7 +134,6 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/bed.png
           altText: Background alt text
           styles:
             self:
