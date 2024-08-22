@@ -160,7 +160,7 @@ sections:
           warehouse
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/bed.png
           altText: Background alt text
           styles:
             self:
