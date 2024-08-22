@@ -131,7 +131,9 @@ sections:
         title: Labs
         tagline: ''
         subtitle: Cost efficient and secure
-        text: ''
+        text: >
+          Traditional hospital use expensive pneumatic tubes to transports
+          specimens, you can now replace it with flexible M series robots
         image:
           type: ImageBlock
           altText: Background alt text
