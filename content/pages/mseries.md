@@ -343,7 +343,7 @@ sections:
           url: /images/M104-spaces.jpg
           altText: Pricing plan 2
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
