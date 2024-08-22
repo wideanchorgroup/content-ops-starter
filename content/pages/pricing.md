@@ -85,7 +85,7 @@ sections:
           - Centralized movement control
           - Alerts and Notifications
           - Access logs
-          - Feature four
+          - Customized dashboards and metrics
           - Feature five
         image:
           url: /images/abstract-feature3.svg
