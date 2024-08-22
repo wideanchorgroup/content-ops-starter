@@ -502,7 +502,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Utility robots
+      text: MORE
       color: text-dark
       styles:
         self:
@@ -574,9 +574,9 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
-        price: Custom
-        details: per month
+        title: LIFT AND SHIFT
+        price: X 201
+        details: DOCKER BOTS
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
@@ -588,7 +588,7 @@ sections:
           - Feature five
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/x201.jpg
           altText: Pricing plan 3
         actions:
           - type: Button
