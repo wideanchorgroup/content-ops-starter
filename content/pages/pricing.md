@@ -255,7 +255,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Deliver Utilities
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Deliver tools, supplies and materials anywhere needed within the
