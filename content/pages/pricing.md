@@ -206,7 +206,7 @@ sections:
       - type: FeaturedItem
         title: Waste and Cleaning
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Safe and sterile environment
         text: >
           Automated load robot systems can deliver waste from point to point
           without any assistance
