@@ -295,22 +295,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: PricingSection
-    title:
-      type: TitleBlock
-      text: Features
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    plans: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
