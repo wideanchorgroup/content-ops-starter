@@ -11,7 +11,7 @@ excerpt: >-
   industry.
 featuredImage:
   url: /images/pharmacy.png
-  altText: Case study 2
+  altText: AI Industry annual selection
   styles:
     self:
       borderRadius: x-large
