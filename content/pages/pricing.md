@@ -3,24 +3,26 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Solutions
+      text: Health Care
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Solutions
     plans:
       - title: Developers
-        price: Devices
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        price: Site layout planning
+        details: Autonomous AI Navigation
+        description: >
+          Designing the layout of the facility site to optimize the movement of
+          materials and equipment, including the placement of storage areas,
+          access routes, and temporary facilities. Capable of operating in
+          multi-floor buildings
         features:
-          - Feature one
-          - Feature two
-          - Feature three
+          - Placement
+          - Access routes
+          - Integrated devices
           - Feature four
         image:
           url: /images/abstract-feature1.svg
@@ -44,16 +46,16 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Professional
-        price: Automation
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        price: Material Handling
+        details: Secure and Compliant
+        description: >
+          Automated inventory control of your supply chain management to view
+          the point to point transport and delivery of the products.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Procurement
+          - Delivery
+          - Storage
+          - Distribution
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
@@ -76,17 +78,17 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Enterprise
-        price: Inventory management
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        price: Monitoring and Control
+        details: Cloud based SaaS platform
+        description: >
+          Our SaaS platform checks the healths of the devices and also stores
+          the logs of the tasks
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Centralized movement control
+          - Alerts and Notifications
+          - Access logs
+          - Customized dashboards and metrics
+          - Optimization for Service accuracy & efficiiency
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
