@@ -307,7 +307,7 @@ sections:
     plans:
       - type: PricingPlan
         title: ''
-        price: Open Cabin Delivery
+        price: ''
         details: ''
         description: >
           M104 robot features an open cabin design, perfectly suited for
