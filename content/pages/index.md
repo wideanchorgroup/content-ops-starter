@@ -744,7 +744,7 @@ sections:
         features:
           - Move material containers
           - Move large bins
-          - Feature three
+          - Move medical equipment
           - Feature four
           - Feature five
         image:
