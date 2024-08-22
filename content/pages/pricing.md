@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: HEALTHCARE FACILITIES
+    subtitle: Solutions
     plans:
       - title: Developers
         price: Secure site layout planning
