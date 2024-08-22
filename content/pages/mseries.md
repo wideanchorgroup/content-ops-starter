@@ -379,7 +379,6 @@ sections:
           pick-up capability, it ensures swift and efficient delivery while
           facilitating easy cleaning and disinfection.
         features:
-          - Feature four
           - Feature five
         image:
           type: ImageBlock
