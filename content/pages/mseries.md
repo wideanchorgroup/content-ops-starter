@@ -330,7 +330,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: ''
+        title: Operates in Narrow spaces
         price: ''
         details: ''
         description: >
