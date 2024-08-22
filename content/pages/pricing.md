@@ -254,7 +254,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: r
+        title: Deliver Utilities
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
