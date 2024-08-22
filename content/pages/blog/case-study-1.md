@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Medical Robots can overwork
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
