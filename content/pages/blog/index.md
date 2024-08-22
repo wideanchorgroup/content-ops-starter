@@ -39,7 +39,7 @@ seo:
   metaDescription: >-
     This is the blog of the AmericanMedRobotics where we post about technology,
     product, and design.
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/amr2s.png
   type: Seo
 type: PostFeedLayout
 bottomSections:
