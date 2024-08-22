@@ -331,7 +331,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Operates in Narrow spaces
+        price: ''
         details: ''
         description: >
           Equipped with advanced laser (SLAM) + vision + depth vision fusion
