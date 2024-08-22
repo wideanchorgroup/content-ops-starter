@@ -52,6 +52,7 @@ bottomSections:
       - >-
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
       - content/pages/blog/case-study-3.md
+      - content/pages/blog/global-root-platform.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
