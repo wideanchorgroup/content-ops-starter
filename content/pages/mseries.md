@@ -340,7 +340,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: Operates in Narrow spaces
-        details: per month
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
