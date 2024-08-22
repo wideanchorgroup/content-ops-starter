@@ -49,7 +49,9 @@ isFeatured: true
 isDraft: false
 seo:
   metaTitle: Revolutionizing Hospital Kitchens and Cafeterias
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: >-
+    service robots are making significant strides in various sectors, including
+    healthcare, hospitality
   socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-light-fg-dark
