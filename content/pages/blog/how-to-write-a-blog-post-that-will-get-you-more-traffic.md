@@ -5,7 +5,7 @@ slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: ''
 featuredImage:
-  url: /images/M1_Front view 45° (1226 x 2738).png
+  url: /images/food2.jpeg
   altText: Thumbnail
   type: ImageBlock
   styles:
