@@ -128,7 +128,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: ''
+        title: Labs
         tagline: ''
         subtitle: ''
         text: ''
