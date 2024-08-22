@@ -742,11 +742,10 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Move material containers
+          - Move large bins
+          - Move medical equipment
+          - Multi facility use
         image:
           type: ImageBlock
           url: /images/x201.jpg
