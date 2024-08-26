@@ -12,11 +12,14 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      At American Med Robotics, we provide next-generation solutions that go
+      beyond just robots. Our offerings are tailored to meet the unique needs of
+      your hospital, including software solutions, area mapping, and advanced AI
+      technology. We pride ourselves on delivering excellent customer service,
+      expert technicians, and personalized care. When you choose us, you're
+      selecting our dedicated team, our expertise, and our cutting-edge
+      technology—all within a system designed specifically for you by a trusted
+      partner committed to your success.
     actions:
       - type: Button
         label: See open positions
