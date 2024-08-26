@@ -79,7 +79,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Testimonials
     items:
       - type: FeaturedItem
         title: '"Empowering Healthcare with Transport Robotics"'
