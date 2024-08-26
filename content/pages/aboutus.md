@@ -150,7 +150,6 @@ sections:
           delivery. We are grateful for their partnership.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
           altText: Placeholder text
           styles:
             self:
