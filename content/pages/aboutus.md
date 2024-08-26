@@ -141,7 +141,7 @@ sections:
       - type: FeaturedItem
         title: Easy Food delivery
         tagline: We saved average of 10000 steps a day
-        subtitle: This is the item subtitle
+        subtitle: These robots work non-stop
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
