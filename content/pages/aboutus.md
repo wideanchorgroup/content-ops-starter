@@ -86,7 +86,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Dr. Emily Warren, Chief Operating Officer, Green Valley Hospital'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
