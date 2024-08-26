@@ -113,7 +113,7 @@ sections:
       - type: FeaturedItem
         title: Exceptional Service and Cutting-Edge Technology!
         tagline: Great Service
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'Johnathan Smith, Director of Operations, Blue Ridge Medical Center'
         text: >
           American Med Robotics transformed our hospital's operations. Their
           customized solutions, from AI-driven software to advanced robotics,
