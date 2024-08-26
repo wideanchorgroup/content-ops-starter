@@ -112,9 +112,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+        title: Exceptional Service and Cutting-Edge Technology!
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
         text: >
