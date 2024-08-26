@@ -113,7 +113,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Exceptional Service and Cutting-Edge Technology!
-        tagline: Testimonial 2
+        tagline: Great Service
         subtitle: 'Jane Doe, Company'
         text: >
           American Med Robotics transformed our hospital's operations. Their
