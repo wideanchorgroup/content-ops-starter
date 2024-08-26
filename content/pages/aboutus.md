@@ -117,10 +117,11 @@ sections:
           Netlify.”
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          American Med Robotics transformed our hospital's operations. Their
+          customized solutions, from AI-driven software to advanced robotics,
+          have streamlined our processes and improved patient care. Their team's
+          dedication and expertise are unmatched!
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
