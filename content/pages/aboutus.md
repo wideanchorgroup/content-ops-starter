@@ -140,7 +140,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Easy Food delivery
-        tagline: 'We saved '
+        tagline: We saved average of 10000 steps a day
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
