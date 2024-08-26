@@ -142,8 +142,12 @@ sections:
         title: Easy Food delivery
         tagline: We saved average of 10000 steps a day
         subtitle: These robots work non-stop
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          From the initial consultation to the final implementation, American
+          Med Robotics demonstrated a commitment to meeting our specific needs.
+          Their innovative solutions and personal approach have made a
+          significant impact on our hospital's Kitchen operations and food
+          delivery. We are grateful for their partnership.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
