@@ -87,10 +87,12 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Outstanding service and team
         subtitle: 'Dr. Emily Warren, Chief Operating Officer, Green Valley Hospital'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We partnered with American Med Robotics for our hospital's robotic
+          needs, and they've exceeded our expectations. Their tailored solutions
+          and advanced AI technology have streamlined our operations, allowing
+          our staff to focus more on patient care. Their customer service and
+          technical support are top-notch. We couldn't ask for a better partner.
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
