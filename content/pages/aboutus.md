@@ -95,7 +95,6 @@ sections:
           technical support are top-notch. We couldn't ask for a better partner.
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
