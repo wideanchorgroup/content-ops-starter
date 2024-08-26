@@ -6,10 +6,10 @@
     },
     "text": "A description of your brand",
     "primaryLinks": {
-        "title": "Product",
+        "title": "ProductS",
         "links": [
             {
-                "label": "Features",
+                "label": "Contact Us",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Solutions",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",

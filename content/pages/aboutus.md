@@ -141,7 +141,7 @@ sections:
       - type: FeaturedItem
         title: Easy Food delivery
         tagline: We saved average of 10000 steps a day
-        subtitle: These robots work non-stop
+        subtitle: 'Mark Daniels, Facility Manager, Starlight Health Network'
         text: >
           From the initial consultation to the final implementation, American
           Med Robotics demonstrated a commitment to meeting our specific needs.
