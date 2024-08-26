@@ -12,11 +12,14 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      At American Med Robotics, we provide next-generation solutions that go
+      beyond just robots. Our offerings are tailored to meet the unique needs of
+      your hospital, including software solutions, area mapping, and advanced AI
+      technology. We pride ourselves on delivering excellent customer service,
+      expert technicians, and personalized care. When you choose us, you're
+      selecting our dedicated team, our expertise, and our cutting-edge
+      technology—all within a system designed specifically for you by a trusted
+      partner committed to your success.
     actions:
       - type: Button
         label: See open positions
@@ -75,6 +78,100 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: CarouselSection
+    subtitle: Testimonials
+    items:
+      - type: FeaturedItem
+        title: '"Empowering Healthcare with Transport Robotics"'
+        tagline: Outstanding service and team
+        subtitle: 'Dr. Emily Warren, Chief Operating Officer, Green Valley Hospital'
+        text: >
+          We partnered with American Med Robotics for our hospital's robotic
+          needs, and they've exceeded our expectations. Their tailored solutions
+          and advanced AI technology have streamlined our operations, allowing
+          our staff to focus more on patient care. Their customer service and
+          technical support are top-notch. We couldn't ask for a better partner.
+        image:
+          type: ImageBlock
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Exceptional Service and Cutting-Edge Technology!
+        tagline: Great Service
+        subtitle: 'Johnathan Smith, Director of Operations, Blue Ridge Medical Center'
+        text: >
+          American Med Robotics transformed our hospital's operations. Their
+          customized solutions, from AI-driven software to advanced robotics,
+          have streamlined our processes and improved patient care. Their team's
+          dedication and expertise are unmatched!
+        image:
+          type: ImageBlock
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Easy Food delivery
+        tagline: We saved average of 10000 steps a day
+        subtitle: These robots work non-stop
+        text: >
+          From the initial consultation to the final implementation, American
+          Med Robotics demonstrated a commitment to meeting our specific needs.
+          Their innovative solutions and personal approach have made a
+          significant impact on our hospital's Kitchen operations and food
+          delivery. We are grateful for their partnership.
+        image:
+          type: ImageBlock
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -83,7 +180,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Be part of our team
     items:
       - type: FeaturedItem
         title: Account Executive
