@@ -82,9 +82,7 @@ sections:
     subtitle: This is a subtitle
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: '"Empowering Healthcare with Transport Robotics"'
         tagline: Outstanding service and team
         subtitle: 'Dr. Emily Warren, Chief Operating Officer, Green Valley Hospital'
         text: >
