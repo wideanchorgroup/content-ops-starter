@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: ABOUT US
     text: >
       At American Med Robotics, we provide next-generation solutions that go
       beyond just robots. Our offerings are tailored to meet the unique needs of
