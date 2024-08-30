@@ -231,7 +231,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/safety.png
           altText: Pricing plan 2
         actions:
           - type: Button
