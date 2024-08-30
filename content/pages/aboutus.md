@@ -201,7 +201,7 @@ sections:
         features:
           - Plug-and-Play Setu
           - Minimal Operational Downtime
-          - Feature three
+          - Flexible Integration
           - Feature four
         image:
           type: ImageBlock
