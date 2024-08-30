@@ -347,7 +347,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Developers
+        title: Continuous improvement for
         price: Quality
         details: No credit card required
         description: >-
