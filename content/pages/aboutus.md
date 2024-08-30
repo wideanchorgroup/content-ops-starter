@@ -354,7 +354,7 @@ sections:
           - User-Friendly Interface
           - Comprehensive Resources multi language
           - 'Interactive Tutorials AI, Video led'
-          - Feature four
+          - Tailored for different roles
         image:
           type: ImageBlock
           url: /images/conceirge.png
