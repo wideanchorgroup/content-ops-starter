@@ -390,7 +390,7 @@ sections:
           provide reliable, efficient, and safe operations across all
           applications.
         features:
-          - Feature one
+          - Sector-Specific Solutions
           - Feature two
           - Feature three
           - Feature four
