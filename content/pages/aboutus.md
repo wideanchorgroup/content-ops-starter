@@ -274,7 +274,7 @@ sections:
         features:
           - 24x7 Availability
           - Highly Trained Experts
-          - Feature three
+          - Rapid Response Times
           - Feature four
           - Feature five
         image:
