@@ -199,7 +199,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/rocket.png
           altText: Pricing plan 1
         actions:
           - type: Button
@@ -231,7 +231,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/safety.png
           altText: Pricing plan 2
         actions:
           - type: Button
@@ -264,7 +264,7 @@ sections:
           - Feature five
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/customersupport.png
           altText: Pricing plan 3
         actions:
           - type: Button
@@ -296,7 +296,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/sla.png
           altText: Pricing plan 1
         actions:
           - type: Button
@@ -328,7 +328,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/conceirge.png
           altText: Pricing plan 1
         actions:
           - type: Button
@@ -347,9 +347,9 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Developers
-        price: Free
-        details: No credit card required
+        title: Continuous improvement
+        price: Highest quality
+        details: across different needs
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
@@ -360,7 +360,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/quality.png
           altText: Pricing plan 1
         actions:
           - type: Button
