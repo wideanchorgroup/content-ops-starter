@@ -349,7 +349,7 @@ sections:
       - type: PricingPlan
         title: Continuous improvement
         price: Highest quality
-        details: No credit card required
+        details: across different needs
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
