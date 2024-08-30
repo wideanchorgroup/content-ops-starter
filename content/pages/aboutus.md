@@ -272,7 +272,7 @@ sections:
           arise, providing you with peace of mind and ensuring that your
           operations continue without interruption.
         features:
-          - Feature one
+          - 24x7 Availability
           - Feature two
           - Feature three
           - Feature four
