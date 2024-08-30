@@ -186,7 +186,7 @@ sections:
       transitions
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Smooth Transition for
         price: Rapid Deployment
         details: No credit card required
         description: >-
