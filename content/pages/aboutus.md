@@ -219,7 +219,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Labor rules led
+        title: led by Labor rules
         price: Safety and Compliance
         details: for secure environment
         description: >
