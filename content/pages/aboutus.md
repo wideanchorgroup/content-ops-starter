@@ -262,9 +262,15 @@ sections:
         title: 24x7
         price: Customer support
         details: highly proficient staff
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          We understand that the smooth operation of your delivery robots is
+          crucial to your business, which is why we offer round-the-clock
+          customer support. Our dedicated team of highly proficient employees is
+          available 24x7 to ensure that any issues or queries are addressed
+          promptly and efficiently. With extensive training and deep industry
+          knowledge, our support staff is equipped to handle any challenges that
+          arise, providing you with peace of mind and ensuring that your
+          operations continue without interruption.
         features:
           - Feature one
           - Feature two
