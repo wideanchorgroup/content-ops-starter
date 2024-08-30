@@ -314,7 +314,7 @@ sections:
         features:
           - Data-Driven Decision Making
           - Real-Time Monitoring
-          - Feature three
+          - Accountability and Transparency
           - Feature four
         image:
           type: ImageBlock
