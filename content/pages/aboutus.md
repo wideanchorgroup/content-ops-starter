@@ -188,7 +188,7 @@ sections:
       - type: PricingPlan
         title: Smooth Transition for
         price: Rapid Deployment
-        details: No credit card required
+        details: Without disruptions to your operations
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
