@@ -393,7 +393,7 @@ sections:
           - Sector-Specific Solutions
           - Ongoing Innovation
           - Rigorous Quality Assurance
-          - Feature four
+          - Adaptive Technologies
         image:
           type: ImageBlock
           url: /images/quality.png
