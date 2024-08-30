@@ -315,7 +315,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Developers
+        title: Self service
         price: Onboarding concierge
         details: No credit card required
         description: >-
