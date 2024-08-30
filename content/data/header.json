@@ -101,7 +101,7 @@
                     "type": "Link",
                     "label": "Careers",
                     "altText": "",
-                    "url": "/",
+                    "url": "/career",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
