@@ -200,7 +200,7 @@ sections:
           productivity and efficiency during the integration process.
         features:
           - Plug-and-Play Setu
-          - Feature two
+          - Minimal Operational Downtime
           - Feature three
           - Feature four
         image:
