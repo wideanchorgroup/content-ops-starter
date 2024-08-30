@@ -348,7 +348,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Continuous improvement for
-        price: Quality
+        price: Highest quality
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
