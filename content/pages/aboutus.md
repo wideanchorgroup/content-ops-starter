@@ -180,7 +180,10 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      We do more than supply robots, we build an an automation eco-system to
+      allow complex logistical movement, employee satisfaction, effective
+      transmissions
     plans:
       - type: PricingPlan
         title: Developers
