@@ -104,7 +104,7 @@
         },
         {
             "type": "Link",
-            "label": "Send",
+            "label": "Contact Us",
             "altText": "Send",
             "url": "/contact",
             "showIcon": true,
