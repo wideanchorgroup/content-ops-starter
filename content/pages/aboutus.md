@@ -234,7 +234,7 @@ sections:
           your operations are aligned with the latest industry standards.
         features:
           - Strict Adherence to FSLA
-          - LED Safety Standards
+          - Sensors for Safety Standards
           - Comprehensive Compliance
           - Secure Operations
           - Proactive Safety controls
