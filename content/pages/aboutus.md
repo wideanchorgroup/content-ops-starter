@@ -340,9 +340,16 @@ sections:
         title: Self service
         price: Onboarding concierge
         details: for easy learning
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          We prioritize a seamless and user-friendly onboarding experience with
+          our self-service onboarding concierge. This feature is designed to
+          empower users to learn and adapt to our delivery robot solutions with
+          ease. By offering step-by-step guidance, comprehensive tutorials, and
+          instant access to resources, we ensure that your team can quickly
+          become proficient in using our technology. Our onboarding concierge is
+          accessible 24/7, allowing users to learn at their own pace, minimizing
+          downtime, and accelerating the integration of our robots into your
+          operations.
         features:
           - Feature one
           - Feature two
