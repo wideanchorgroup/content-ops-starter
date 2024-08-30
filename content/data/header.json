@@ -62,17 +62,6 @@
             "type": "SubNav"
         },
         {
-            "type": "Link",
-            "label": "Contact us",
-            "altText": "contact",
-            "url": "/contact",
-            "showIcon": true,
-            "icon": "send",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "SubNav",
             "label": "Company",
             "altText": "Company",
