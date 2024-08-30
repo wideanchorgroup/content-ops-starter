@@ -101,6 +101,17 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Send",
+            "altText": "Send",
+            "url": "/contact",
+            "showIcon": true,
+            "icon": "send",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
