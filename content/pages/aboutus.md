@@ -317,7 +317,7 @@ sections:
       - type: PricingPlan
         title: Self service
         price: Onboarding concierge
-        details: No credit card required
+        details: for easy learning
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
