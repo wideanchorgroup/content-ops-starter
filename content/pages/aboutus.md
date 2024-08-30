@@ -316,7 +316,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Developers
-        price: Free
+        price: Onboarding conceriage
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
