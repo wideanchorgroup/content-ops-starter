@@ -199,7 +199,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/rocket.png
           altText: Pricing plan 1
         actions:
           - type: Button
