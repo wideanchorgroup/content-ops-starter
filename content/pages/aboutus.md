@@ -284,7 +284,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Developers
-        price: Free
+        price: High SLAs
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
