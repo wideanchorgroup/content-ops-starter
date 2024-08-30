@@ -315,7 +315,7 @@ sections:
           - Data-Driven Decision Making
           - Real-Time Monitoring
           - Accountability and Transparency
-          - Feature four
+          - Proven Efficiency
         image:
           type: ImageBlock
           url: /images/sla.png
