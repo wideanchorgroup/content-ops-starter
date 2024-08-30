@@ -351,7 +351,7 @@ sections:
           downtime, and accelerating the integration of our robots into your
           operations.
         features:
-          - Feature one
+          - User-Friendly Interface
           - Feature two
           - Feature three
           - Feature four
