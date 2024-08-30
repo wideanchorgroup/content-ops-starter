@@ -83,7 +83,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Company",
             "altText": "Company",
             "links": [
                 {
