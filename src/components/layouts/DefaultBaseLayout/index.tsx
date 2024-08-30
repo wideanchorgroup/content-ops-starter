@@ -3,6 +3,7 @@ import Head from 'next/head';
 import classNames from 'classnames';
 import Header from '../../sections/Header';
 import Footer from '../../sections/Footer';
+import CookieBanner from '../../sections/CookieBanner'
 import { seoGenerateTitle, seoGenerateMetaTags, seoGenerateMetaDescription } from '../../../utils/seo-utils';
 
 export default function DefaultBaseLayout(props) {
@@ -28,6 +29,7 @@ export default function DefaultBaseLayout(props) {
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
                 </Head>
+                <CookieBanner />
                 {site.header && <Header {...site.header} enableAnnotations={enableAnnotations} />}
                 {props.children}
                 {site.footer && <Footer {...site.footer} enableAnnotations={enableAnnotations} />}
