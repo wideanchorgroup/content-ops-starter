@@ -352,7 +352,7 @@ sections:
           operations.
         features:
           - User-Friendly Interface
-          - Feature two
+          - Comprehensive Resources multi language
           - Feature three
           - Feature four
         image:
