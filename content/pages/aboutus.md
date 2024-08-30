@@ -394,6 +394,7 @@ sections:
           - Ongoing Innovation
           - Rigorous Quality Assurance
           - Adaptive Technologies
+          - ''
         image:
           type: ImageBlock
           url: /images/quality.png
