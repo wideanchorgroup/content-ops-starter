@@ -189,25 +189,26 @@ sections:
         title: Smooth Transition for
         price: Rapid Deployment
         details: Without disruptions to your operations
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Our delivery robots are designed to seamlessly integrate into your
+          existing operations with minimal disruption. We understand that
+          operational continuity is crucial, which is why our robots are
+          equipped with advanced technology that allows for rapid deployment
+          without the need for extensive system overhauls. Whether you’re
+          scaling up your delivery fleet or introducing automation for the first
+          time, our robots ensure a smooth transition, enabling you to maintain
+          productivity and efficiency during the integration process.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Plug-and-Play Setu
+          - Minimal Operational Downtime
+          - Flexible Integration
+          - Scalable Solutions
+          - Adaptive Technology
         image:
           type: ImageBlock
           url: /images/rocket.png
           altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -221,25 +222,27 @@ sections:
         title: Labor rules led
         price: Safety and Compliance
         details: for secure environment
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          At our company, we prioritize the safety and well-being of both your
+          workforce and the environment in which our delivery robots operate.
+          Our robots are designed and deployed with strict adherence to labor
+          regulations, LiDAR sensors, Motion Cameras, Route mapping, LED safety
+          standards, and compliance requirements. This ensures that your
+          operations are not only efficient but also secure, promoting a healthy
+          working environment that meets all legal and safety guidelines. Our
+          commitment to compliance reduces the risk of accidents and ensures
+          your operations are aligned with the latest industry standards.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Strict Adherence to FSLA
+          - LED Safety Standards
+          - Comprehensive Compliance
+          - Secure Operations
+          - Proactive Safety controls
         image:
           type: ImageBlock
           url: /images/safety.png
           altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -253,26 +256,26 @@ sections:
         title: 24x7
         price: Customer support
         details: highly proficient staff
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          We understand that the smooth operation of your delivery robots is
+          crucial to your business, which is why we offer round-the-clock
+          customer support. Our dedicated team of highly proficient employees is
+          available 24x7 to ensure that any issues or queries are addressed
+          promptly and efficiently. With extensive training and deep industry
+          knowledge, our support staff is equipped to handle any challenges that
+          arise, providing you with peace of mind and ensuring that your
+          operations continue without interruption.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - 24x7 Availability
+          - Highly Trained Experts
+          - Rapid Response Times
+          - Proactive Problem-Solving
+          - 'Personalized Support:'
         image:
           type: ImageBlock
           url: /images/customersupport.png
           altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -286,25 +289,26 @@ sections:
         title: Metric and data driven
         price: High SLAs
         details: for efficient operations
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Our commitment to efficiency is backed by rigorous metric and
+          data-driven Service Level Agreements (SLAs). By leveraging detailed
+          analytics and real-time data, we ensure that our delivery robots
+          perform optimally, meeting or exceeding the predefined service
+          standards. Our SLAs are designed to hold us accountable to measurable
+          outcomes, ensuring that your operations remain streamlined and
+          productive. With a focus on continuous monitoring and improvement, we
+          guarantee that our solutions align with your operational goals,
+          driving efficiency and delivering consistent results.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Data-Driven Decision Making
+          - Real-Time Monitoring
+          - Accountability and Transparency
+          - Proven Efficiency
         image:
           type: ImageBlock
           url: /images/sla.png
           altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -318,25 +322,26 @@ sections:
         title: Self service
         price: Onboarding concierge
         details: for easy learning
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          We prioritize a seamless and user-friendly onboarding experience with
+          our self-service onboarding concierge. This feature is designed to
+          empower users to learn and adapt to our delivery robot solutions with
+          ease. By offering step-by-step guidance, comprehensive tutorials, and
+          instant access to resources, we ensure that your team can quickly
+          become proficient in using our technology. Our onboarding concierge is
+          accessible 24/7, allowing users to learn at their own pace, minimizing
+          downtime, and accelerating the integration of our robots into your
+          operations.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - User-Friendly Interface
+          - Comprehensive Resources multi language
+          - 'Interactive Tutorials AI, Video led'
+          - Tailored for different roles
         image:
           type: ImageBlock
           url: /images/conceirge.png
           altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -350,25 +355,27 @@ sections:
         title: Continuous improvement
         price: Highest quality
         details: across different needs
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Our commitment to continuous improvement ensures that our delivery
+          robot solutions are always at the forefront of innovation and quality.
+          We understand that different sectors—whether it be supply chain,
+          inventory management, lab testing, pharmacy, or food delivery—have
+          unique requirements. By constantly refining our technology and
+          processes, we deliver the highest standards of performance tailored to
+          each industry’s needs. Our focus on quality ensures that our robots
+          provide reliable, efficient, and safe operations across all
+          applications.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Sector-Specific Solutions
+          - Ongoing Innovation
+          - Rigorous Quality Assurance
+          - Adaptive Technologies
+          - Customer Feedback Loop
         image:
           type: ImageBlock
           url: /images/quality.png
           altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
