@@ -202,7 +202,7 @@ sections:
           - Plug-and-Play Setu
           - Minimal Operational Downtime
           - Flexible Integration
-          - Feature four
+          - Scalable Solutions
         image:
           type: ImageBlock
           url: /images/rocket.png
