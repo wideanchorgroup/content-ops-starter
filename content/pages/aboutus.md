@@ -234,7 +234,7 @@ sections:
           industry standards.
         features:
           - Strict Adherence to FSLA
-          - Feature two
+          - LED Safety Standards
           - Feature three
           - Feature four
         image:
