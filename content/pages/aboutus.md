@@ -283,7 +283,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Developers
+        title: Metric and data driven
         price: High SLAs
         details: No credit card required
         description: >-
