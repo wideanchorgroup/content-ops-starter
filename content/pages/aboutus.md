@@ -252,7 +252,7 @@ sections:
       - type: PricingPlan
         title: 24x7
         price: Customer support
-        details: per month
+        details: highly proficient staff
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
