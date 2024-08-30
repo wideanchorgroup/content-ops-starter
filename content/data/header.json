@@ -99,7 +99,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "careers",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
