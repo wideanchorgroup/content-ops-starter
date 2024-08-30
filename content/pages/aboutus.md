@@ -273,7 +273,7 @@ sections:
           operations continue without interruption.
         features:
           - 24x7 Availability
-          - Feature two
+          - Highly Trained Experts
           - Feature three
           - Feature four
           - Feature five
