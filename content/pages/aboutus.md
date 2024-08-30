@@ -392,7 +392,7 @@ sections:
         features:
           - Sector-Specific Solutions
           - Ongoing Innovation
-          - Feature three
+          - Rigorous Quality Assurance
           - Feature four
         image:
           type: ImageBlock
