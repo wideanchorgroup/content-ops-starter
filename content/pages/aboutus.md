@@ -219,7 +219,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Labor rules led
+        title: led by Labor rules
         price: Safety and Compliance
         details: for secure environment
         description: >
@@ -234,7 +234,7 @@ sections:
           your operations are aligned with the latest industry standards.
         features:
           - Strict Adherence to FSLA
-          - LED Safety Standards
+          - Sensors for Safety Standards
           - Comprehensive Compliance
           - Secure Operations
           - Proactive Safety controls
