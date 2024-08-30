@@ -235,7 +235,7 @@ sections:
         features:
           - Strict Adherence to FSLA
           - LED Safety Standards
-          - Feature three
+          - Comprehensive Compliance
           - Feature four
         image:
           type: ImageBlock
