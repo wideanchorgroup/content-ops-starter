@@ -237,7 +237,7 @@ sections:
           - LED Safety Standards
           - Comprehensive Compliance
           - Secure Operations
-          - ''
+          - Proactive Safety controls
         image:
           type: ImageBlock
           url: /images/safety.png
