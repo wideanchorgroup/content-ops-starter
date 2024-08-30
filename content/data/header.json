@@ -90,7 +90,7 @@
                     "type": "Link",
                     "label": "About Us",
                     "altText": "",
-                    "url": "/",
+                    "url": "/aboutus",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
