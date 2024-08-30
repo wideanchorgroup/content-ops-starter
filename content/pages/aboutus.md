@@ -175,7 +175,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Our differentiators
       color: text-dark
       styles:
         self:
