@@ -391,7 +391,7 @@ sections:
           applications.
         features:
           - Sector-Specific Solutions
-          - Feature two
+          - Ongoing Innovation
           - Feature three
           - Feature four
         image:
