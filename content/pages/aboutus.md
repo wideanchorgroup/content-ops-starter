@@ -236,7 +236,7 @@ sections:
           - Strict Adherence to FSLA
           - LED Safety Standards
           - Comprehensive Compliance
-          - Feature four
+          - Secure Operations
         image:
           type: ImageBlock
           url: /images/safety.png
