@@ -250,7 +250,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
+        title: 24x7
         price: Customer support
         details: per month
         description: >-
