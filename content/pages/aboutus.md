@@ -353,7 +353,7 @@ sections:
         features:
           - User-Friendly Interface
           - Comprehensive Resources multi language
-          - Feature three
+          - 'Interactive Tutorials AI, Video led'
           - Feature four
         image:
           type: ImageBlock
