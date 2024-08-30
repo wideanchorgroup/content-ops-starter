@@ -220,7 +220,7 @@ sections:
       - type: PricingPlan
         title: Labor rules led
         price: Safety and Compliance
-        details: per month
+        details: for secure environment
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
