@@ -312,7 +312,7 @@ sections:
           guarantee that our solutions align with your operational goals,
           driving efficiency and delivering consistent results.
         features:
-          - Feature one
+          - Data-Driven Decision Making
           - Feature two
           - Feature three
           - Feature four
