@@ -218,7 +218,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: Labor rules led
         price: Safety and Compliance
         details: per month
         description: >-
