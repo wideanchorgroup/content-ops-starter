@@ -275,7 +275,7 @@ sections:
           - 24x7 Availability
           - Highly Trained Experts
           - Rapid Response Times
-          - Feature four
+          - Proactive Problem-Solving
           - Feature five
         image:
           type: ImageBlock
