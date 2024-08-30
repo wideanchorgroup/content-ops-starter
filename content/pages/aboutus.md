@@ -313,7 +313,7 @@ sections:
           driving efficiency and delivering consistent results.
         features:
           - Data-Driven Decision Making
-          - Feature two
+          - Real-Time Monitoring
           - Feature three
           - Feature four
         image:
