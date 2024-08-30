@@ -237,6 +237,7 @@ sections:
           - LED Safety Standards
           - Comprehensive Compliance
           - Secure Operations
+          - ''
         image:
           type: ImageBlock
           url: /images/safety.png
