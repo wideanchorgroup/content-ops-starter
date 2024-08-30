@@ -199,7 +199,7 @@ sections:
           time, our robots ensure a smooth transition, enabling you to maintain
           productivity and efficiency during the integration process.
         features:
-          - Feature one
+          - Plug-and-Play Setu
           - Feature two
           - Feature three
           - Feature four
