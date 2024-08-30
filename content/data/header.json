@@ -84,7 +84,7 @@
         {
             "type": "SubNav",
             "label": "Dropdown",
-            "altText": "Dropdown",
+            "altText": "Company",
             "links": [
                 {
                     "type": "Link",
