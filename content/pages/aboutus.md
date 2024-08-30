@@ -276,7 +276,7 @@ sections:
           - Highly Trained Experts
           - Rapid Response Times
           - Proactive Problem-Solving
-          - Feature five
+          - 'Personalized Support:'
         image:
           type: ImageBlock
           url: /images/customersupport.png
