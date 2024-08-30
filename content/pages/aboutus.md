@@ -203,7 +203,7 @@ sections:
           - Minimal Operational Downtime
           - Flexible Integration
           - Scalable Solutions
-          - ''
+          - Adaptive Technology
         image:
           type: ImageBlock
           url: /images/rocket.png
