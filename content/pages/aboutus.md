@@ -233,7 +233,7 @@ sections:
           accidents and ensures your operations are aligned with the latest
           industry standards.
         features:
-          - Strict Adherence to Labor Laws
+          - Strict Adherence to FSLA
           - Feature two
           - Feature three
           - Feature four
