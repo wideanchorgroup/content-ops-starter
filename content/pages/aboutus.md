@@ -285,7 +285,7 @@ sections:
       - type: PricingPlan
         title: Metric and data driven
         price: High SLAs
-        details: No credit card required
+        details: for efficient operations
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
