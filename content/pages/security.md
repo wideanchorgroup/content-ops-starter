@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Trust Center
+      text: Compliance
       color: text-dark
       styles:
         self:
