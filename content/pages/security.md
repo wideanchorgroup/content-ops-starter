@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Trust Center
     items:
       - type: FeaturedItem
         title: Security
