@@ -15,10 +15,42 @@ sections:
       - type: FeaturedItem
         title: Security
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          #### Employee Awareness
+
+
+          At Locus Robotics, security resilience starts with people. Our
+          top-down approach to security awareness education creates a holistic
+          culture across all technical and non-technical departments. Employee
+          awareness is the foundation for secure processes, practices, and
+          technologies.
+
+
+          #### Assurance
+
+
+          Based on a principle of mature foundations, we build security into
+          everything from our cloud customer portal to our robots executing
+          instructions. We leverage the latest methods of encryption (in
+          transmission and at rest). We continuously monitor the effectiveness
+          of our controls, taking a continuous compliance assurance approach to
+          mitigate risk across the product and service lifecycle.
+
+
+          [Learn how to Secure Autonomous Mobile Root Deployments in the
+          Workplace](https://americanwebrobotics.com/Security-Research-Paper-Final.pdf)
+
+
+          #### Security Incident Preparedness
+
+
+          Locus Robotics acknowledges and continuously prepares for security
+          incidents through education and awareness efforts, and building
+          security into our work processes and product. Our leadership
+          established and practices Incident Response processes, based on
+          industry standards, to ensure proper decision making steps are known
+          and followed. We analyze and respond to events with the key priority
+          to protect our customers from any impact of an event.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
