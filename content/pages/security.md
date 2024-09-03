@@ -99,10 +99,7 @@ sections:
       - type: FeaturedItem
         title: Continuous Risk Mitigation
         subtitle: Safety
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "It is the policy of American Med Robotics to implement security measures and controls to protect the information systems environment and the privacy and confidentiality of protected information, to include financial, business, or other sensitive information for the Organization.\_\n\nBy adopting continuous security best practices, American Med Robotics ensures that risks are continuously addressed, evaluated, and mitigated. Our continuous risk assessment process covers the entire lifecycle of the business and operational processes. We consider risks to data, people, processes and technologies.\n"
         actions: []
         colors: bg-neutral-fg-dark
         styles:
