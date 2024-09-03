@@ -116,10 +116,7 @@ sections:
       - type: FeaturedItem
         title: Data Protection
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "### Ongoing Data Inventory\n\nAs part of American Med Robotics compliance and privacy programs, on an annual basis, American Med Robotics reviews all the data that is captured, utilized, and stored.\_ Our ongoing data inventory process includes the following actions:\n\n*   Mapping data processed – illustrating the data actions and associated data elements for systems and services.\n\n*   Documenting the categories of individuals (e.g., customers, employees or prospective employees, consumers) whose data are being processed are inventoried.\_\_\n\n*   Mapping the data actions of the systems/products/services are inventoried.\n\n*   Confirming the data processing environment is identified (e.g., geographic location, internal, cloud, third parties).\n\n### Data Governance\n\nData governance is where data security and privacy converge for a holistic approach to mitigate risk. We enforce the principle of least privilege, giving the least amount of data access to users that they need to complete their job functions. We rigorously monitor user access with regular reviews to ensure comprehensive protection across the entire user identity lifecycle. Our data governance processes and practices cover the entire data lifecycle from creation to destruction.\n\n### Data Risk\_Assessment\n\nA Data Protection Risk Assessment process that determines the threats to your regulatory protected and sensitive data. We identify and categorize your data according to the severity of the risk involved and take the steps required to mitigate the risks and ensure continuous protection and compliance.\n"
         actions: []
         colors: bg-neutral-fg-dark
         styles:
