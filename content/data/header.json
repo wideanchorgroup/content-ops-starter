@@ -112,7 +112,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "See Tutorials",
+                    "label": "News",
                     "altText": "",
                     "url": "/news",
                     "showIcon": false,
