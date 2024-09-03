@@ -84,10 +84,7 @@ sections:
       - type: FeaturedItem
         title: Senior Software Engineer
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "### SOC 2 Type II\n\nLocus Robotics has achieved SOC 2 Type II compliance certification. Our\_public-facing [SOC](https://americanmedrobotics.com/Robotics-SOC3-Report.pdf) 3 report can be viewed here. The attestation is a confirmation of the suitability of the design and operating effectiveness of our internal controls stated for the scope of the report. Locus Robotics provides reasonable assurances that our service commitments and system requirements are achieved based on the trust services criteria relevant to security, availability, confidentiality and processing integrity set forth in the TSP 100, 2017 Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy (AICPA, Trust Services Criteria).\n\n### Vendor Risk Management\n\nTo ensure a high level of customer service, a strong security foundation, and reliable business continuity, Locus Robotics has implemented a Vendor Risk Management process to evaluate third-party service providers that we partner with.\_ The evaluation process considers: Cloud Architecture, Authentication, Application Security, Data Security, Privacy, Internal Controls, Certifications, and other security practices that add to a strong security program and dependable customer service.\_\n"
         actions: []
         colors: bg-neutral-fg-dark
         styles:
