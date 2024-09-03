@@ -149,7 +149,7 @@ sections:
             justifyContent: center
     actions:
       - type: Button
-        label: Apply now
+        label: Contact Us
         url: /
         icon: arrowRight
         iconPosition: right
