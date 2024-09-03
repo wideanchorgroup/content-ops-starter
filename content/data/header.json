@@ -87,6 +87,39 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "People and Culture",
+                    "altText": "",
+                    "url": "/people",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Security and Compliance",
+                    "altText": "",
+                    "url": "/security",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "News",
+                    "altText": "",
+                    "url": "/news",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary"
