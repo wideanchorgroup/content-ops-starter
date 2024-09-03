@@ -150,7 +150,7 @@ sections:
     actions:
       - type: Button
         label: Contact Us
-        url: /
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: primary
