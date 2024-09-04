@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: EU/UK PRIVACY POLICY
       color: text-dark
       styles:
         self:
