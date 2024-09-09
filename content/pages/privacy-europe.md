@@ -27,6 +27,5 @@ seo:
   metaTitle: Privacy Europe
   metaDescription: American Med Robotics Privacy
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
