@@ -501,4 +501,5 @@ seo:
   metaTitle: M2 - American Med Robotics
   metaDescription: M2 Delivery robots
   metaTags: []
+  socialImage: /images/AMR-M1.png
 ---
