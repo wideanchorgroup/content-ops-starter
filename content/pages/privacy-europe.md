@@ -25,7 +25,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Privacy Europe
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: American Med Robotics Privacy
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
