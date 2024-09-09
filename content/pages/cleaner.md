@@ -157,6 +157,6 @@ seo:
   type: Seo
   metaTitle: M2 - Sanitizer
   metaDescription: Sanitizer and cleaning robots
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/KEENON studio day 113880.png
   metaTags: []
 ---
