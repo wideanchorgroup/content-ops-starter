@@ -156,7 +156,7 @@ slug: cleaner
 seo:
   type: Seo
   metaTitle: M2 - Sanitizer
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: Sanitizer and cleaning robots
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
