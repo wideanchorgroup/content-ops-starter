@@ -836,7 +836,7 @@ sections:
 seo:
   metaTitle: Home - American Med Robotics
   metaDescription: Solutions for healthcare
-  socialImage: /images/M1_Front view 45° (1226 x 2738).png
+  socialImage: /images/robots.png
   type: Seo
   addTitleSuffix: true
 type: PageLayout
