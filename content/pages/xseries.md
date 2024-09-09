@@ -434,4 +434,5 @@ seo:
   metaTitle: X Series
   metaDescription: X Series robots at American Med Robotics
   metaTags: []
+  socialImage: /images/x101.png
 ---
