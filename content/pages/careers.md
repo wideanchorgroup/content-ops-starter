@@ -161,7 +161,7 @@ sections:
 seo:
   metaTitle: Careers - Demo site
   metaDescription: Work at American Med Robotics
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/monitoring.jpg
   type: Seo
 type: PageLayout
 ---
