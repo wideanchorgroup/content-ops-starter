@@ -27,6 +27,5 @@ seo:
   metaTitle: Privacy CCPA
   metaDescription: American Med Robotics Privacy CCPA
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
