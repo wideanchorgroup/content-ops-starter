@@ -836,7 +836,7 @@ sections:
 seo:
   metaTitle: Home - American Med Robotics
   metaDescription: Solutions for healthcare
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/AMR-M1.png
   type: Seo
   addTitleSuffix: true
 type: PageLayout
