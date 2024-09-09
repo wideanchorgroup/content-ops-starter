@@ -834,9 +834,10 @@ sections:
           - pb-3
           - pr-3
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Home - American Med Robotics
+  metaDescription: Solutions for healthcare
+  socialImage: /images/robots.png
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
