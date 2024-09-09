@@ -431,7 +431,7 @@ sections:
 slug: xseries
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
+  metaTitle: X Series
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 ---
