@@ -397,4 +397,5 @@ seo:
   metaTitle: About Us - American Med Robotics
   metaDescription: About the team at American Med Robotics
   metaTags: []
+  socialImage: /images/handshake.jpeg
 ---
