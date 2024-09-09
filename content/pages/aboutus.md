@@ -395,6 +395,6 @@ slug: aboutus
 seo:
   type: Seo
   metaTitle: About Us - American Med Robotics
-  metaDescription: This is the careers page built with Netlify.
+  metaDescription: About the team at American Med Robotics
   metaTags: []
 ---
