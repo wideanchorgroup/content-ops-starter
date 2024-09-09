@@ -171,7 +171,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Security
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Security Center American Med Robotics
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
