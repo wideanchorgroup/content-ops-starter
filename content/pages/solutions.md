@@ -1,6 +1,6 @@
 ---
-title: Pricing
-slug: pricing
+title: Solutions
+slug: solutions
 sections:
   - title:
       text: Health Care
