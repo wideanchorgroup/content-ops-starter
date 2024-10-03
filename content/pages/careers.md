@@ -159,9 +159,9 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Careers
+  metaDescription: Work at American Med Robotics
+  socialImage: /images/amr-technician.jpg
   type: Seo
 type: PageLayout
 ---
