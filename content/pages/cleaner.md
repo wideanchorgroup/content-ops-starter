@@ -155,8 +155,8 @@ sections:
 slug: cleaner
 seo:
   type: Seo
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: M2 - Sanitizer
+  metaDescription: Sanitizer and cleaning robots
+  socialImage: /images/KEENON studio day 113880.png
   metaTags: []
 ---
