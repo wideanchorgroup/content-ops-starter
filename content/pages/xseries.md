@@ -431,7 +431,8 @@ sections:
 slug: xseries
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify.
+  metaTitle: X Series
+  metaDescription: X Series robots at American Med Robotics
   metaTags: []
+  socialImage: /images/x101.png
 ---
