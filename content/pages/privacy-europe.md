@@ -24,9 +24,8 @@ slug: privacy-europe
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Privacy Europe
+  metaDescription: American Med Robotics Privacy
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
