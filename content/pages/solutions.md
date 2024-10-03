@@ -320,8 +320,8 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: Solutions
+  metaDescription: AmericanMedRobotics Solutions
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
