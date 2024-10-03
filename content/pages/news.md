@@ -6,9 +6,9 @@ slug: news
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: American Medical Robotics News
+  metaDescription: News about American Med Robotics
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/HealthcareBenfits.png
   metaTags: []
 ---
