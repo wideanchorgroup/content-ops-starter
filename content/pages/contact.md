@@ -187,9 +187,9 @@ slug: contact
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Contact
+  metaDescription: Sales and Marketing at AmericanMedRobotics
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/robot-sales.webp
   metaTags: []
 ---
