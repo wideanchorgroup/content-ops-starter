@@ -159,7 +159,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
+  metaTitle: Careers
   metaDescription: Work at American Med Robotics
   socialImage: /images/amr-technician.jpg
   type: Seo
