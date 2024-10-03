@@ -7,7 +7,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Services
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: AmericanMedRobotics Cloud and Identity services
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
