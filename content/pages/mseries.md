@@ -498,7 +498,8 @@ sections:
 slug: mseries
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify.
+  metaTitle: M2 - American Med Robotics
+  metaDescription: M2 Delivery robots
   metaTags: []
+  socialImage: /images/AMR-M1.png
 ---
