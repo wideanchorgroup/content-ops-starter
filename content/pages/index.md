@@ -308,7 +308,7 @@ sections:
       documents. 
     actions:
       - label: Learn more
-        url: /
+        url: /mseries
         icon: arrowRight
         iconPosition: right
         style: secondary
