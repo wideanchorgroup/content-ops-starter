@@ -240,6 +240,10 @@ sections:
         styles:
           self:
             flexDirection: row
+        text: >
+          Establish integrative links between different parts of your supply
+          chain, and manage it all to work like a well-oiled machine. Stay in
+          control of the current situation and make quick, informed decisions.
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
