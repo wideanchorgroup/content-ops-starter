@@ -118,7 +118,7 @@ sections:
         textAlign: center
     type: PricingSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Material Handling Software
     items:
       - type: FeaturedItem
         title: >-
