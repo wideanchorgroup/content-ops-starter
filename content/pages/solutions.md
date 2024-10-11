@@ -117,6 +117,54 @@ sections:
       subtitle:
         textAlign: center
     type: PricingSection
+  - type: CarouselSection
+    subtitle: Material Handling Software
+    items:
+      - type: FeaturedItem
+        title: Logistics Management Information Systems
+        tagline: Efficiency in motion
+        subtitle: ''
+        text: >
+          The journey of a service or commodity from its place of origin to its
+          destination is a complex and logistically-demanding one. It can
+          involve a multitude of entities, facilities, and transactions that are
+          often dependent on one another, and will fall like a domino if any
+          part of the chain fails. Not only that, after supplies are delivered
+          to the recipient, they still need to be properly managed to avoid
+          wastage, and other stock issues.
+
+
+          With how complex modern supply chains are, it is no longer an option,
+          but rather a necessity to invest in a dedicated LMIS software that
+          would help manage logistics processes efficiently, and ensure the
+          successful delivery of commodities.
+        image:
+          type: ImageBlock
+          url: /images/whmgmt.jpg
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
