@@ -168,6 +168,60 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
+      text: Improving healthcare delivery in disadvantaged areas
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >
+          Sector most vulnerable to losses due to the outdated, fragmented
+          logistics processes is the healthcare industry in low- and
+          middle-income countries. Often lacking proper infrastructure to manage
+          complex supply chains, local professionals work with what they have,
+          doing their best to deliver help to those in need.
+
+
+          Human life, however, should never be a matter of compromise, and so we
+          offer LMIS solutions designed to empower logistics managers in their
+          work, and provide them with all the right tools to increase efficiency
+          of the logistics processes in their area.
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
       text: Enhance your facilities management
       color: text-primary
       styles:
