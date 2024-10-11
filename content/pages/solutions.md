@@ -140,7 +140,7 @@ sections:
           successful delivery of commodities.
         image:
           type: ImageBlock
-          url: /images/hospital_inventory_management.jpg
+          url: /images/whmgmt.jpg
           altText: Maria Walters
           styles:
             self:
