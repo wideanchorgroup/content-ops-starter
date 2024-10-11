@@ -177,18 +177,18 @@ sections:
       - type: FeaturedItem
         title: Faux Fur Throw
         subtitle: $ 88 – $ 176
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
+        text: >
+          Sector most vulnerable to losses due to the outdated, fragmented
+          logistics processes is the healthcare industry in low- and
+          middle-income countries. Often lacking proper infrastructure to manage
+          complex supply chains, local professionals work with what they have,
+          doing their best to deliver help to those in need.
 
 
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
-
+          Human life, however, should never be a matter of compromise, and so we
+          offer LMIS solutions designed to empower logistics managers in their
+          work, and provide them with all the right tools to increase efficiency
+          of the logistics processes in their area.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
