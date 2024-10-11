@@ -189,19 +189,6 @@ sections:
           offer LMIS solutions designed to empower logistics managers in their
           work, and provide them with all the right tools to increase efficiency
           of the logistics processes in their area.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-              padding:
-                - pt-0
-                - pl-0
-                - pb-0
-                - pr-0
         actions: []
         colors: bg-light-fg-dark
         styles:
