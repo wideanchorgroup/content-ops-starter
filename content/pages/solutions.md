@@ -122,7 +122,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Logistics Management Information Systems
-        tagline: Testimonial 1
+        tagline: Efficiency in motion
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
