@@ -206,25 +206,6 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: You’ve got challenges. We’ve got solutions
-        tagline: ''
-        subtitle: ''
-        text: >
-          We provide powerful solutions to the key logistics management
-          challenges that logistics professionals have to deal with every single
-          day.
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
         image:
