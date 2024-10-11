@@ -207,7 +207,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: You’ve got challenges. We’ve got solutions
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           We provide powerful solutions to the key logistics management
