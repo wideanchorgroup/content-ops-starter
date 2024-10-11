@@ -124,10 +124,20 @@ sections:
         title: Logistics Management Information Systems
         tagline: Efficiency in motion
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The journey of a service or commodity from its place of origin to its
+          destination is a complex and logistically-demanding one. It can
+          involve a multitude of entities, facilities, and transactions that are
+          often dependent on one another, and will fall like a domino if any
+          part of the chain fails. Not only that, after supplies are delivered
+          to the recipient, they still need to be properly managed to avoid
+          wastage, and other stock issues.
+
+
+          With how complex modern supply chains are, it is no longer an option,
+          but rather a necessity to invest in a dedicated LMIS software that
+          would help manage logistics processes efficiently, and ensure the
+          successful delivery of commodities.
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
