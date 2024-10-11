@@ -226,7 +226,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Coordinate your supply chain management
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
