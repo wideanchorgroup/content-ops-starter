@@ -227,14 +227,6 @@ sections:
       - type: FeaturedItem
         title: Coordinate your supply chain management
         subtitle: ''
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
         styles:
