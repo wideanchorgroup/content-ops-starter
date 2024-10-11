@@ -209,8 +209,10 @@ sections:
         title: You’ve got challenges. We’ve got solutions
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We provide powerful solutions to the key logistics management
+          challenges that logistics professionals have to deal with every single
+          day.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
