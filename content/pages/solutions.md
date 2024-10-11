@@ -123,7 +123,7 @@ sections:
       - type: FeaturedItem
         title: Logistics Management Information Systems
         tagline: Efficiency in motion
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >
           The journey of a service or commodity from its place of origin to its
           destination is a complex and logistically-demanding one. It can
