@@ -175,7 +175,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: ''
         subtitle: ''
         text: >
           Sector most vulnerable to losses due to the outdated, fragmented
