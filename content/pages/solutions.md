@@ -225,7 +225,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Coordinate your supply chain management
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
