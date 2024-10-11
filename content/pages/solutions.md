@@ -176,7 +176,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         text: >
           Sector most vulnerable to losses due to the outdated, fragmented
           logistics processes is the healthcare industry in low- and
