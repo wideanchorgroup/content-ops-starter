@@ -595,10 +595,16 @@ sections:
       - title: Spend more time helping customers and leave the delivery chores to AMR
         tagline: PATIENT SATISFACTION
         subtitle: 'Jane Walters, Siquoa Health'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We focus on helping your staff so they can focus on patient care. By
+          automating routine logistics and deliveries, our mobile robotic
+          solutions improve efficiency and allow your clinical teams to
+          prioritize what matters most. In healthcare environments where goods
+          are constantly moving, our technology ensures your workforce can
+          dedicate their energy to critical tasks, leading to better outcomes
+          and a more seamless workflow. With our robotic delivery systems,
+          you’ll transform how work is done, making a remarkable impact on care
+          delivery.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
