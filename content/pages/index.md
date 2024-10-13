@@ -592,7 +592,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Spend more time helping customers and leave the delivery chores to us
+      - title: Spend more time helping customers and leave the delivery chores to AMR
         tagline: PATIENT SATISFACTION
         subtitle: 'Jane Walters, Company'
         text: >-
