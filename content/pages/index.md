@@ -634,11 +634,10 @@ sections:
         tagline: STAFFING SHORTAGES
         subtitle: 'Jane Walters, Apollo Hospitals'
         text: >
-          We met our targets to boost the strength of your team while adding
-          vital support with our autonomous systems. Our versatile series
-          seamlessly manages warehouse transportation, delivering medicines,
-          surgical instruments, and supplies, freeing up your workforce to focus
-          on making a greater impact in patient care and other critical tasks.
+          AMR helped us mitigate our HR needs and were able to achieve our
+          capability requirements in our Rural and Community hospitals. The
+          package offerings were designed for efficiency, efficacy and low cost
+          turnaround.
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
