@@ -592,7 +592,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: PATIENT SATISFACTION
+      - title: Spend more time helping customers and leave the delivery chores to us
         tagline: PATIENT SATISFACTION
         subtitle: 'Jane Walters, Company'
         text: >-
