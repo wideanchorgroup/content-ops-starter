@@ -477,7 +477,7 @@ sections:
     items:
       - title: Innovative Technology
         tagline: Latest and greatest
-        subtitle: in facilities management
+        subtitle: Apollo facilities management
         text: >
           The robots are equipped with the latest technology, designed to meet
           the evolving needs of modern healthcare
