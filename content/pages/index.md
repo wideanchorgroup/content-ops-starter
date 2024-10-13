@@ -594,7 +594,7 @@ sections:
         type: FeaturedItem
       - title: Spend more time helping customers and leave the delivery chores to AMR
         tagline: PATIENT SATISFACTION
-        subtitle: 'Jane Walters, Company'
+        subtitle: 'Jane Walters, Siquoa Health'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
