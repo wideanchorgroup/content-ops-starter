@@ -631,10 +631,12 @@ sections:
           goals.
         tagline: STAFFING SHORTAGES
         subtitle: 'Jane Walters, Apollo Hospitals'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We met our targets to boost the strength of your team while adding
+          vital support with our autonomous systems. Our versatile series
+          seamlessly manages warehouse transportation, delivering medicines,
+          surgical instruments, and supplies, freeing up your workforce to focus
+          on making a greater impact in patient care and other critical tasks.
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
