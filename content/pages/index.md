@@ -479,7 +479,7 @@ sections:
         tagline: Latest and greatest
         subtitle: in facilities management
         text: >
-          Our robots are equipped with the latest technology, designed to meet
+          The robots are equipped with the latest technology, designed to meet
           the evolving needs of modern healthcare
         image:
           url: /images/person-placeholder-light.png
