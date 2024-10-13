@@ -630,7 +630,7 @@ sections:
           AMR offerings helped us succeed our short term and long term staffing
           goals.
         tagline: STAFFING SHORTAGES
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'Jane Walters, Apollo Hospitals'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
