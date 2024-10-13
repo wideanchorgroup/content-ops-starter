@@ -593,7 +593,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: PATIENT SATISFACTION
-        tagline: Testimonial 5
+        tagline: PATIENT SATISFACTION
         subtitle: 'Jane Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
