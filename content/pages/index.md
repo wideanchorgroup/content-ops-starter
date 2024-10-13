@@ -507,10 +507,12 @@ sections:
           accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We met our targets to boost the strength of your team while adding
+          vital support with our autonomous systems. Our versatile series
+          seamlessly manages warehouse transportation, delivering medicines,
+          surgical instruments, and supplies, freeing up your workforce to focus
+          on making a greater impact in patient care and other critical tasks.
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
