@@ -627,8 +627,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+          AMR offerings helped us succeed our short term and long term staffing
+          goals.
         tagline: STAFFING SHORTAGES
         subtitle: 'Jane Doe, Company'
         text: >-
