@@ -9,13 +9,15 @@ sections:
       color: text-dark
     subtitle: Transit through Elevators and Doors
     text: >
-      The robots will be responsible for in-time delivery of goods to the
-      guests’ rooms. In that case, hotel employees will be released from the
-      repetitive work and focus on service. The robots are connected with
-      elevators and telephones, so that they can autonomously take the elevators
-      up and down, proactively calling the guest room and delivering the goods
-      across the floors. It promotes the standardization of hotel service,
-      ensuring the quality of service and creating a platform of smart hotels.
+      The robots will handle timely delivery of goods across various hospital
+      departments, freeing staff from repetitive tasks and allowing them to
+      focus on patient care. These robots are integrated with elevators and
+      communication systems, enabling them to move between floors autonomously,
+      contact specific rooms, and deliver items efficiently. This system
+      enhances service standardization, ensuring consistent quality and
+      reliability in hospital operations. By implementing these robots,
+      hospitals create a smarter, more automated environment that supports both
+      staff efficiency and patient satisfaction.
     actions:
       - type: Button
         label: Get started
