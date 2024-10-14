@@ -155,7 +155,9 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: >-
+        "24/7 Autonomous Pharmacy Delivery: Revolutionizing Healthcare
+        Efficiency"
       color: text-primary
     colors: bg-light-fg-dark
     styles:
