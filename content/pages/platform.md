@@ -116,8 +116,23 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      This solution is designed to streamline the entire delivery process from
+      the pharmacy to individual wards, particularly well-suited for managing
+      large batches of medical supplies in areas like PIVAS (Pharmacy
+      Intravenous Admixture Services) and inpatient departments. By automating
+      deliveries, hospitals can drastically improve operational efficiency,
+      especially during peak hours when large quantities of materials need to be
+      moved. This reduces bottlenecks and minimizes delivery delays, alleviating
+      the workload on nurses and other staff. Additionally, the solution
+      enhances medical resource allocation and optimizes the management of drug
+      deliveries, ensuring timely and accurate distribution. The reduction of
+      manual delivery processes simplifies workflows, leading to fewer mistakes,
+      greater reliability, and more efficient patient care. Moreover, with less
+      pressure on hospital staff, they can focus on their core responsibilities,
+      contributing to improved patient outcomes and a more organized healthcare
+      system. Overall, the solution brings a robust and efficient infrastructure
+      that helps hospitals manage resources more effectively, ultimately leading
+      to a smarter, automated approach to healthcare logistics.
     actions:
       - type: Button
         label: Get started
