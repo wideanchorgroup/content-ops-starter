@@ -9,9 +9,13 @@ sections:
       color: text-dark
     subtitle: Transit through Elevators and Doors
     text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      The robots will be responsible for in-time delivery of goods to the
+      guests’ rooms. In that case, hotel employees will be released from the
+      repetitive work and focus on service. The robots are connected with
+      elevators and telephones, so that they can autonomously take the elevators
+      up and down, proactively calling the guest room and delivering the goods
+      across the floors. It promotes the standardization of hotel service,
+      ensuring the quality of service and creating a platform of smart hotels.
     actions:
       - type: Button
         label: Get started
