@@ -114,7 +114,9 @@ sections:
       type: TitleBlock
       text: Enhancing Hospital Efficiency with Automated Pharmacy Delivery Solutions
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      Streamlining the Distribution of Medical Supplies to Reduce Congestion,
+      Optimize Resources, and Improve Patient Care
     text: >
       This solution is designed to streamline the entire delivery process from
       the pharmacy to individual wards, particularly well-suited for managing
