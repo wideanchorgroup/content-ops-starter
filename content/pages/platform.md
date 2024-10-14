@@ -142,9 +142,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: >-
-        "24/7 Autonomous Pharmacy Delivery: Revolutionizing Healthcare
-        Efficiency"
+      label: Hardware plus Software led eco-system
       color: text-primary
     colors: bg-light-fg-dark
     styles:
