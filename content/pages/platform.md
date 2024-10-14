@@ -135,13 +135,7 @@ sections:
       system. Overall, the solution brings a robust and efficient infrastructure
       that helps hospitals manage resources more effectively, ultimately leading
       to a smarter, automated approach to healthcare logistics.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
