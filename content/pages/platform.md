@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Multi floor mezzanine management
+      text: Multi floor management
       color: text-dark
     subtitle: Transit through Elevators and Doors
     text: >
