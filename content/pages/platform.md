@@ -112,7 +112,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Enhancing Hospital Efficiency with Automated Pharmacy Delivery Solutions
+      text: Interface of PIVAS/Pharmacy software
       color: text-dark
     subtitle: >-
       Streamlining the Distribution of Medical Supplies to Reduce Congestion,
