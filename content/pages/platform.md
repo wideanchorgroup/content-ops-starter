@@ -112,7 +112,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Enhancing Hospital Efficiency with Automated Pharmacy Delivery Solutions
       color: text-dark
     subtitle: Increase your reach
     text: >
