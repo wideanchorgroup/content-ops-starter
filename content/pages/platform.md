@@ -142,7 +142,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Hardware plus Software led eco-system
+      label: Hardware + Software led eco-system
       color: text-primary
     colors: bg-light-fg-dark
     styles:
