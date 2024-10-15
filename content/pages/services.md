@@ -55,10 +55,81 @@ sections:
       - type: FeaturedItem
         title: Digital transformation & modernization
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ### You’ve got challenges. We’ve got solutions
+
+
+          We provide powerful solutions to the key public digital transformation
+          challenges that governments have to deal with every single day. With
+          us, you can:
+
+
+          ##### Improve access to public services
+
+
+          Reduce the time spent on paperwork by automating some of the
+          processes, and increase accessibility to public services for the
+          citizens who have trouble reaching stationary facilities.
+
+
+          ##### Standardize your services
+
+
+          Set standards for your public services, and support them with a
+          coherent ecosystem of efficient, interoperable tools.
+
+
+          ##### Streamline your processes
+
+
+          Accelerate the flow of information, and integrate different parts of
+          your system to achieve desired results faster and with less resources
+          needed.
+
+
+          ##### Take care of your unique needs
+
+
+          Compose your digital public services with the tools that you need, and
+          incorporate features matching your specific requirements.
+
+
+          ### Human-shaped solutions
+
+
+          Our solutions are designed to serve people. We prioritize
+          accessibility, flexibility, security, and the comfort of use.
+
+
+          ##### Affordable
+
+
+          We offer cost-efficient solutions, suitable for government agencies
+          operating in resource-constrained settings. Our mission is to support
+          those who need it the most.
+
+
+          ##### Secure
+
+
+          We care for your data safety, and do our best to protect it. We hold
+          our solutions to high security standards, and are dedicated to keeping
+          your data safe from cyber threats.
+
+
+          ##### Customizable
+
+
+          Our solutions are open-source, which means they are highly
+          customizable, and can be adjusted to the specific needs of the client.
+
+
+          ##### User-friendly
+
+
+          Our solutions are designed to make public sector professionals’ jobs
+          easier, and help them collect any type of data in any type of setting.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
