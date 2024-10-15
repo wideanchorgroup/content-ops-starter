@@ -144,7 +144,7 @@ sections:
         tagline: Driving public digital transformation
     actions:
       - type: Button
-        label: Apply now
+        label: Contact Us
         url: /
         icon: arrowRight
         iconPosition: right
