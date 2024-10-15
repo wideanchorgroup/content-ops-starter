@@ -90,7 +90,7 @@ sections:
           - Customized dashboards and metrics
           - Optimization for Service accuracy & efficiiency
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/RobotManagement.png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
