@@ -57,7 +57,7 @@ sections:
           - Storage
           - Distribution
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/OpenBoxes.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
