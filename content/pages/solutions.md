@@ -25,7 +25,7 @@ sections:
           - Integrated devices
           - Feature four
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/RobotManagement.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
