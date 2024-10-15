@@ -70,6 +70,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+        tagline: Driving public digital transformation
     actions:
       - type: Button
         label: Apply now
