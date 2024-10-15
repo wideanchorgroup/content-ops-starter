@@ -25,7 +25,7 @@ sections:
           - Integrated devices
           - Feature four
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2024-10-14 at 8.10.46 PM.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
@@ -57,7 +57,7 @@ sections:
           - Storage
           - Distribution
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/OpenBoxes.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
@@ -90,7 +90,7 @@ sections:
           - Customized dashboards and metrics
           - Optimization for Service accuracy & efficiiency
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/RobotManagement.png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
