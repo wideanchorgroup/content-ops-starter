@@ -25,7 +25,7 @@ sections:
           - Integrated devices
           - Feature four
         image:
-          url: /images/RobotManagement.png
+          url: /images/Screenshot 2024-10-14 at 8.10.46 PM.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
