@@ -13,17 +13,6 @@
     },
     "primaryLinks": [
         {
-            "type": "Link",
-            "label": "Supporting Services",
-            "altText": "",
-            "url": "/services",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "SubNav",
             "label": "Solutions",
             "altText": "Solutions",
@@ -52,6 +41,17 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Supporting Services",
+            "altText": "",
+            "url": "/services",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         },
         {
             "label": "Blog",
