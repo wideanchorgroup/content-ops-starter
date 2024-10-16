@@ -266,7 +266,7 @@ sections:
       burden of significant expenditure.
     actions:
       - label: GO TO SOLUTIONS
-        url: /software
+        url: /platform
         icon: arrowRight
         iconPosition: right
         style: secondary
