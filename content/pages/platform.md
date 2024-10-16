@@ -151,7 +151,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Process Report
+      text: Door Entry
       color: text-dark
     subtitle: Be in good company
     text: >
