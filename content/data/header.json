@@ -141,7 +141,7 @@
         {
             "type": "SubNav",
             "label": "Solutions",
-            "altText": "Dropdown",
+            "altText": "Solutions",
             "links": [
                 {
                     "type": "Link",
