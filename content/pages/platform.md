@@ -70,7 +70,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Route Optimization
       color: text-dark
       styles:
         self:
@@ -151,33 +151,21 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Door Entry
       color: text-dark
-    subtitle: Be in good company
+    subtitle: through centralized authorization
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+      Our comprehensive solutions has peripherals that could be integrated to
+      sensors that enables Robots to talk to the door entry mechanism to gain
+      authorized and authenticated access to restricted areas
+    actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Screenshot 2024-10-16 at 1.37.53 AM.png
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Integrated portal for
       color: text-primary
     colors: bg-light-fg-dark
     styles:
