@@ -30,6 +30,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "Supporting Services",
+            "altText": "",
+            "url": "/services",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Products",
             "altText": "Products",
             "links": [
@@ -131,17 +142,6 @@
             "url": "/contact",
             "showIcon": true,
             "icon": "send",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "Supporting Services",
-            "altText": "",
-            "url": "/services",
-            "showIcon": false,
-            "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
