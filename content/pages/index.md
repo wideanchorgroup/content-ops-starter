@@ -265,7 +265,7 @@ sections:
       Effortlessly navigate intricate, multi-tiered infrastructure without the
       burden of significant expenditure.
     actions:
-      - label: GO TO SOLUTIONS
+      - label: Learn about our platform
         url: /platform
         icon: arrowRight
         iconPosition: right
