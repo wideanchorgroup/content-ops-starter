@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Solutions",
-            "url": "/pricing",
+            "url": "/solutions",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
