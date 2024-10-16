@@ -177,7 +177,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Integrated portal for
       color: text-primary
     colors: bg-light-fg-dark
     styles:
