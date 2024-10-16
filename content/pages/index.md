@@ -358,7 +358,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: OUR PILLARS FOR YOUR SUCCESS
+      label: OUR PILLARS FOR YOUR
       color: text-primary
       styles:
         self:
