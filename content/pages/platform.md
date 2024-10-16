@@ -155,8 +155,9 @@ sections:
       color: text-dark
     subtitle: through centralized authorization
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Our comprehensive solutions has peripherals that could be integrated to
+      sensors that enables Robots to talk to the door entry mechanism to gain
+      authorized and authenticated access to restricted areas
     actions:
       - type: Button
         label: Get started
