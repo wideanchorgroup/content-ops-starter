@@ -268,7 +268,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: AND SUCCESS
     items:
       - type: FeaturedItem
         title: 500k
