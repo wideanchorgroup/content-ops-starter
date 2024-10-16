@@ -13,12 +13,45 @@
     },
     "primaryLinks": [
         {
+            "type": "SubNav",
             "label": "Solutions",
-            "url": "/pricing",
+            "altText": "Solutions",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Core",
+                    "altText": "",
+                    "url": "/solutions",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Integrated Platform",
+                    "altText": "",
+                    "url": "/platform",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Supporting Services",
+            "altText": "",
+            "url": "/services",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "elementId": ""
         },
         {
             "label": "Blog",
