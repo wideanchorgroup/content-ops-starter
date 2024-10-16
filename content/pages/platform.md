@@ -159,12 +159,6 @@ sections:
       sensors that enables Robots to talk to the door entry mechanism to gain
       authorized and authenticated access to restricted areas
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
