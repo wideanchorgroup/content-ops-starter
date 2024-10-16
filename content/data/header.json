@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Solutions",
-            "url": "/solutions",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Supporting Services",
             "altText": "",
