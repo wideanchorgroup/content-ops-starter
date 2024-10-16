@@ -158,14 +158,7 @@ sections:
       Our comprehensive solutions has peripherals that could be integrated to
       sensors that enables Robots to talk to the door entry mechanism to gain
       authorized and authenticated access to restricted areas
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/Screenshot 2024-10-16 at 1.37.53 AM.png
