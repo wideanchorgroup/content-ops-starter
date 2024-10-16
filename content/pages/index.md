@@ -263,7 +263,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: ADOPTION
       color: text-dark
       styles:
         self:
