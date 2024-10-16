@@ -158,7 +158,7 @@
                     "type": "Link",
                     "label": "Integrated Platform",
                     "altText": "",
-                    "url": "/",
+                    "url": "/platform",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
