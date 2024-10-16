@@ -145,7 +145,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Core",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
