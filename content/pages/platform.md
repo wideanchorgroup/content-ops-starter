@@ -173,7 +173,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/Screenshot 2024-10-16 at 1.33.02 AM.png
+      url: /images/Screenshot 2024-10-16 at 1.37.53 AM.png
       altText: Dope design preview
     badge:
       type: Badge
