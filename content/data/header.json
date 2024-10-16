@@ -24,6 +24,36 @@
             "elementId": ""
         },
         {
+            "type": "SubNav",
+            "label": "Solutions",
+            "altText": "Solutions",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Core",
+                    "altText": "",
+                    "url": "/solutions",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Integrated Platform",
+                    "altText": "",
+                    "url": "/platform",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        },
+        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
@@ -137,36 +167,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "type": "SubNav",
-            "label": "Solutions",
-            "altText": "Solutions",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "Core",
-                    "altText": "",
-                    "url": "/solutions",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Integrated Platform",
-                    "altText": "",
-                    "url": "/platform",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [
