@@ -153,7 +153,7 @@ sections:
       type: TitleBlock
       text: Door Entry
       color: text-dark
-    subtitle: Be in good company
+    subtitle: through centralized authorization
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
