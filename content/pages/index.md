@@ -265,8 +265,8 @@ sections:
       Effortlessly navigate intricate, multi-tiered infrastructure without the
       burden of significant expenditure.
     actions:
-      - label: Learn about our Integrated platform
-        url: /software
+      - label: Learn about our platform
+        url: /platform
         icon: arrowRight
         iconPosition: right
         style: secondary
